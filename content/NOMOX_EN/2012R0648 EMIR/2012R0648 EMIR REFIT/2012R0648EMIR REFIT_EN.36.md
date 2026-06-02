@@ -1,0 +1,26 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.36]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.35|Article 35 – Outsourcing]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.37|Article 37 – Participation requirements]]
+>
+
+
+
+# Article 36 - General provisions
+
+## 1.
+When providing services to its clearing members, and where relevant, to their clients, a CCP shall act fairly and professionally in accordance with the best interests of such clearing members and clients and sound risk management.
+## 2.
+A CCP shall have accessible, transparent and fair rules for the prompt handling of complaints.

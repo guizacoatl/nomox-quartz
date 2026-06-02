@@ -1,0 +1,36 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.48]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.47|Article 47 – Investment policy]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.49|Article 49 – Review of models, stress testing and back testing]]
+>
+
+
+
+# Article 48 - Default procedures
+
+## 1.
+A CCP shall have detailed procedures in place to be followed where a clearing member does not comply with the participation requirements of the CCP laid down in [[2012R0648EMIR REFIT_EN.37|Article 37]] within the time limit and in accordance with the procedures established by the CCP. The CCP shall set out in detail the procedures to be followed in the event the default of a clearing member is not declared by the CCP. Those procedures shall be reviewed annually.
+## 2.
+A CCP shall take prompt action to contain losses and liquidity pressures resulting from defaults and shall ensure that the closing out of any clearing member’s positions does not disrupt its operations or expose the non-defaulting clearing members to losses that they cannot anticipate or control.
+## 3.
+Where a CCP considers that the clearing member will not be able to meet its future obligations, it shall promptly inform the competent authority before the default procedure is declared or triggered. The competent authority shall promptly communicate that information to ESMA, to the relevant members of the ESCB and to the authority responsible for the supervision of the defaulting clearing member.
+## 4.
+A CCP shall verify that its default procedures are enforceable. It shall take all reasonable steps to ensure that it has the legal powers to liquidate the proprietary positions of the defaulting clearing member and to transfer or liquidate the clients’ positions of the defaulting clearing member.
+## 5.
+Where assets and positions are recorded in the records and accounts of a CCP as being held for the account of a defaulting clearing member’s clients in accordance with [[2012R0648EMIR REFIT_EN.39#2|Article 39(2)]], the CCP shall, at least, contractually commit itself to trigger the procedures for the transfer of the assets and positions held by the defaulting clearing member for the account of its clients to another clearing member designated by all of those clients, on their request and without the consent of the defaulting clearing member. That other clearing member shall be obliged to accept those assets and positions only where it has previously entered into a contractual relationship with the clients by which it has committed itself to do so. If the transfer to that other clearing member has not taken place for any reason within a predefined transfer period specified in its operating rules, the CCP may take all steps permitted by its rules to actively manage its risks in relation to those positions, including liquidating the assets and positions held by the defaulting clearing member for the account of its clients.
+## 6.
+Where assets and positions are recorded in the records and accounts of a CCP as being held for the account of a defaulting clearing member’s client in accordance with [[2012R0648EMIR REFIT_EN.39#3|Article 39(3)]], the CCP shall, at least, contractually commit itself to trigger the procedures for the transfer of the assets and positions held by the defaulting clearing member for the account of the client to another clearing member designated by the client, on the client’s request and without the consent of the defaulting clearing member. That other clearing member shall be obliged to accept these assets and positions only where it has previously entered into a contractual relationship with the client by which it has committed itself to do so. If the transfer to that other clearing member has not taken place for any reason within a predefined transfer period specified in its operating rules, the CCP may take all steps permitted by its rules to actively manage its risks in relation to those positions, including liquidating the assets and positions held by the defaulting clearing member for the account of the client.
+## 7.
+Clients’ collateral distinguished in accordance with [[2012R0648EMIR REFIT_EN.39#2|Article 39(2)]] and (3) shall be used exclusively to cover the positions held for their account. Any balance owed by the CCP after the completion of the clearing member’s default management process by the CCP shall be readily returned to those clients when they are known to the CCP or, if they are not, to the clearing member for the account of its clients.

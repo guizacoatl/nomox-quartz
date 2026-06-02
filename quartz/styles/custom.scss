@@ -1,3 +1,88 @@
-@use "./variables.scss" as *;
+// Effet papier quadrillé pour le mode clair (style Socratica)
+body[data-theme="light"] {
+  background-image: 
+    linear-gradient(to right, rgba(239, 236, 230, 0.5) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(239, 236, 230, 0.5) 1px, transparent 1px);
+  background-size: 24px 24px; // Taille des carreaux
+}
 
-// put your custom CSS here!
+// Nettoyage visuel pour coller au style épuré
+.search-button {
+  border-radius: 6px;
+  background: var(--lightgray);
+}
+
+// Donne un style plus "bouton" aux tags
+.tag-link {
+  background-color: var(--lightgray);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--dark);
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: var(--light);
+  }
+}
+
+.card-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.card-coming-soon {
+  opacity: 0.4;
+  cursor: default;
+  pointer-events: none;
+}
+
+.card-ref {
+  font-size: 0.75rem;
+  color: var(--gray);
+  font-style: italic;
+  margin-top: auto;
+}
+
+/* Logo dans la sidebar gauche, au-dessus du titre */
+#quartz-body .left .page-title a {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+#quartz-body .left .page-title a::before {
+  content: "";
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-image: url("/logo_nomox_small.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}

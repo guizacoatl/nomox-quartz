@@ -1,0 +1,139 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: True
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: FR
+version: 1
+last_update: 2026-06-01
+---
+# 2012R0648EMIR REFIT - Sommaire
+## RÈGLEMENT (UE) No648/2012 DU PARLEMENT EUROPÉEN ET DU CONSEIL du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux
+
+> [!info]+
+> 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.0]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [URL](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+
+
+
+### TITRE I - OBJET, CHAMP D'APPLICATION ET DÉFINITIONS
+[[2012R0648EMIR REFIT_FR.1|Article 1]] - Objet et champ d'application
+[[2012R0648EMIR REFIT_FR.2|Article 2]] - Définitions
+[[2012R0648EMIR REFIT_FR.2 bis|Article 2 bis]] - Décisions en matière d’équivalence aux fins de la définition des produits dérivés de gré à gré
+[[2012R0648EMIR REFIT_FR.3|Article 3]] - Transactions intragroupe
+### TITRE II - COMPENSATION, DÉCLARATION ET ATTÉNUATION DES RISQUES DES PRODUITS DÉRIVÉS DE GRÉ À GRÉ
+[[2012R0648EMIR REFIT_FR.4|Article 4]] - Obligation de compensation
+[[2012R0648EMIR REFIT_FR.4 bis|Article 4 bis]] - Contreparties financières qui sont soumises à l'obligation de compensation
+[[2012R0648EMIR REFIT_FR.5|Article 5]] - Procédure régissant l'obligation de compensation
+[[2012R0648EMIR REFIT_FR.6|Article 6]] - Registre public
+[[2012R0648EMIR REFIT_FR.6 bis|Article 6 bis]] - Suspension de l'obligation de compensation
+[[2012R0648EMIR REFIT_FR.7|Article 7]] - Accès aux contreparties centrales
+[[2012R0648EMIR REFIT_FR.8|Article 8]] - Accès à une plate-forme de négociation
+[[2012R0648EMIR REFIT_FR.9|Article 9]] - Obligation de déclaration
+[[2012R0648EMIR REFIT_FR.10|Article 10]] - Contreparties non financières
+[[2012R0648EMIR REFIT_FR.11|Article 11]] - Techniques d'atténuation des risques pour les contrats dérivés de gré à gré non compensés par une contrepartie centrale
+[[2012R0648EMIR REFIT_FR.12|Article 12]] - Sanctions
+[[2012R0648EMIR REFIT_FR.13|Article 13]] - Mécanisme destiné à éviter les doubles emplois ou les conflits de règles
+### TITRE III - AGRÉMENT ET SURVEILLANCE DES CONTREPARTIES CENTRALES
+### CHAPITRE 1 - Conditions et procédures d'agrément d'une contrepartie centrale
+[[2012R0648EMIR REFIT_FR.14|Article 14]] - Agrément d'une contrepartie centrale
+[[2012R0648EMIR REFIT_FR.15|Article 15]] - Extension des activités et des services
+[[2012R0648EMIR REFIT_FR.16|Article 16]] - Exigences de capital
+[[2012R0648EMIR REFIT_FR.17|Article 17]] - Procédure d'octroi et de refus d'agrément
+[[2012R0648EMIR REFIT_FR.18|Article 18]] - Collège
+[[2012R0648EMIR REFIT_FR.19|Article 19]] - Avis du collège
+[[2012R0648EMIR REFIT_FR.20|Article 20]] - Retrait de l'agrément
+[[2012R0648EMIR REFIT_FR.21|Article 21]] - Réexamen et évaluation
+### CHAPITRE 2 - Surveillance et contrôle des contreparties centrales
+[[2012R0648EMIR REFIT_FR.22|Article 22]] - Autorité compétente
+### CHAPITRE 3 - Coopération
+[[2012R0648EMIR REFIT_FR.23|Article 23]] - Coopération entre autorités
+[[2012R0648EMIR REFIT_FR.24|Article 24]] - Situations d'urgence
+### CHAPITRE 4 - Relations avec les pays tiers
+[[2012R0648EMIR REFIT_FR.25|Article 25]] - Reconnaissance d'une contrepartie centrale d'un pays tiers
+### TITRE IV - EXIGENCES APPLICABLES AUX CONTREPARTIES CENTRALES
+### CHAPITRE 1 - Exigences opérationnelles
+[[2012R0648EMIR REFIT_FR.26|Article 26]] - Dispositions générales
+[[2012R0648EMIR REFIT_FR.27|Article 27]] - Instances dirigeantes et conseil d'administration
+[[2012R0648EMIR REFIT_FR.28|Article 28]] - Comité des risques
+[[2012R0648EMIR REFIT_FR.29|Article 29]] - Conservation d'informations
+[[2012R0648EMIR REFIT_FR.30|Article 30]] - Actionnaires et associés détenant une participation qualifiée
+[[2012R0648EMIR REFIT_FR.31|Article 31]] - Communication d'informations aux autorités compétentes
+[[2012R0648EMIR REFIT_FR.32|Article 32]] - Évaluation
+[[2012R0648EMIR REFIT_FR.33|Article 33]] - Conflits d'intérêts
+[[2012R0648EMIR REFIT_FR.34|Article 34]] - Continuité des activités
+[[2012R0648EMIR REFIT_FR.35|Article 35]] - Externalisation
+### CHAPITRE 2 - Règles de conduite
+[[2012R0648EMIR REFIT_FR.36|Article 36]] - Dispositions générales
+[[2012R0648EMIR REFIT_FR.37|Article 37]] - Conditions de participation
+[[2012R0648EMIR REFIT_FR.38|Article 38]] - Transparence
+[[2012R0648EMIR REFIT_FR.39|Article 39]] - Ségrégation et portabilité
+### CHAPITRE 3 - Exigences prudentielles
+[[2012R0648EMIR REFIT_FR.40|Article 40]] - Gestion de l'exposition
+[[2012R0648EMIR REFIT_FR.41|Article 41]] - Exigences de marge
+[[2012R0648EMIR REFIT_FR.42|Article 42]] - Fonds de défaillance
+[[2012R0648EMIR REFIT_FR.43|Article 43]] - Autres ressources financières
+[[2012R0648EMIR REFIT_FR.44|Article 44]] - Mécanismes de maîtrise des risques de liquidité
+[[2012R0648EMIR REFIT_FR.45|Article 45]] - Défaillances en cascade
+[[2012R0648EMIR REFIT_FR.46|Article 46]] - Exigences en matière de garanties (collateral)
+[[2012R0648EMIR REFIT_FR.47|Article 47]] - Politique d'investissement
+[[2012R0648EMIR REFIT_FR.48|Article 48]] - Procédures en matière de défaillance
+[[2012R0648EMIR REFIT_FR.49|Article 49]] - Réexamen des modèles, simulations de crise et essais a posteriori
+[[2012R0648EMIR REFIT_FR.50|Article 50]] - Règlement
+### CHAPITRE 4 - Calculs et déclarations aux fins du règlement (UE) no575/2013
+[[2012R0648EMIR REFIT_FR.50 bis|Article 50 bis]] - Calcul de KCCP
+[[2012R0648EMIR REFIT_FR.50 ter|Article 50 ter]] - Règles générales pour le calcul de KCCP
+[[2012R0648EMIR REFIT_FR.50 quater|Article 50 quater]] - Communication d'informations
+[[2012R0648EMIR REFIT_FR.50 quinquies|Article 50 quinquies]] - Calcul d'éléments spécifiques devant être communiqués par la contrepartie centrale
+### TITRE V - ACCORDS D'INTEROPÉRABILITÉ
+[[2012R0648EMIR REFIT_FR.51|Article 51]] - Accords d'interopérabilité
+[[2012R0648EMIR REFIT_FR.52|Article 52]] - Gestion des risques
+[[2012R0648EMIR REFIT_FR.53|Article 53]] - Établissement de marges entre contreparties centrales
+[[2012R0648EMIR REFIT_FR.54|Article 54]] - Approbation des accords d'interopérabilité
+### TITRE VI - ENREGISTREMENT ET SURVEILLANCE DES RÉFÉRENTIELS CENTRAUX
+### CHAPITRE 1 - Conditions et procédures d'enregistrement d'un référentiel central
+[[2012R0648EMIR REFIT_FR.55|Article 55]] - Enregistrement d'un référentiel central
+[[2012R0648EMIR REFIT_FR.56|Article 56]] - Demande d'enregistrement
+[[2012R0648EMIR REFIT_FR.57|Article 57]] - Notification aux autorités compétentes et consultation de celles-ci avant l'enregistrement
+[[2012R0648EMIR REFIT_FR.58|Article 58]] - Examen de la demande
+[[2012R0648EMIR REFIT_FR.59|Article 59]] - Notification de la décision de l'AEMF sur l'enregistrement
+[[2012R0648EMIR REFIT_FR.60|Article 60]] - Exercice des pouvoirs visés aux articles 61 à 63
+[[2012R0648EMIR REFIT_FR.61|Article 61]] - Demande de renseignements
+[[2012R0648EMIR REFIT_FR.62|Article 62]] - Enquêtes générales
+[[2012R0648EMIR REFIT_FR.63|Article 63]] - Inspections sur place
+[[2012R0648EMIR REFIT_FR.64|Article 64]] - Règles de procédure pour l'adoption de mesures de surveillance et l'imposition d'amendes
+[[2012R0648EMIR REFIT_FR.65|Article 65]] - Amendes
+[[2012R0648EMIR REFIT_FR.66|Article 66]] - Astreintes
+[[2012R0648EMIR REFIT_FR.67|Article 67]] - Audition des personnes concernées
+[[2012R0648EMIR REFIT_FR.68|Article 68]] - Publication, nature, exécution et affectation des amendes et des astreintes
+[[2012R0648EMIR REFIT_FR.69|Article 69]] - Contrôle de la Cour de justice
+[[2012R0648EMIR REFIT_FR.70|Article 70]] - Modification de l'annexe II
+[[2012R0648EMIR REFIT_FR.71|Article 71]] - Retrait de l'enregistrement
+[[2012R0648EMIR REFIT_FR.72|Article 72]] - Frais de surveillance
+[[2012R0648EMIR REFIT_FR.73|Article 73]] - Mesures de surveillance mises en œuvre par l'AEMF
+[[2012R0648EMIR REFIT_FR.74|Article 74]] - Délégation de tâches à des autorités compétentes par l'AEMF
+### CHAPITRE 2 - Relations avec les pays tiers
+[[2012R0648EMIR REFIT_FR.75|Article 75]] - Équivalence et accords internationaux
+[[2012R0648EMIR REFIT_FR.76|Article 76]] - Modalités de coopération
+[[2012R0648EMIR REFIT_FR.76 bis|Article 76 bis]] - Accès direct réciproque aux données
+[[2012R0648EMIR REFIT_FR.77|Article 77]] - Reconnaissance des référentiels centraux
+### TITRE VII - EXIGENCES APPLICABLES AUX RÉFÉRENTIELS CENTRAUX
+[[2012R0648EMIR REFIT_FR.78|Article 78]] - Exigences générales
+[[2012R0648EMIR REFIT_FR.79|Article 79]] - Fiabilité opérationnelle
+[[2012R0648EMIR REFIT_FR.80|Article 80]] - Sauvegarde et enregistrement
+[[2012R0648EMIR REFIT_FR.81|Article 81]] - Transparence et disponibilité des données
+[[2012R0648EMIR REFIT_FR.82|Article 82]] - Exercice de la délégation
+### TITRE VIII - DISPOSITIONS COMMUNES
+[[2012R0648EMIR REFIT_FR.83|Article 83]] - Secret professionnel
+[[2012R0648EMIR REFIT_FR.84|Article 84]] - Échange d'informations
+### TITRE IX - DISPOSITIONS TRANSITOIRES ET FINALES
+[[2012R0648EMIR REFIT_FR.85|Article 85]] - Rapports et réexamen
+[[2012R0648EMIR REFIT_FR.86|Article 86]] - Procédure de comité
+[[2012R0648EMIR REFIT_FR.87|Article 87]] - Modification de la directive 98/26/CE
+[[2012R0648EMIR REFIT_FR.88|Article 88]] - Sites internet
+[[2012R0648EMIR REFIT_FR.89|Article 89]] - Dispositions transitoires
+[[2012R0648EMIR REFIT_FR.90|Article 90]] - Effectifs et ressources de l'AEMF
+[[2012R0648EMIR REFIT_FR.91|Article 91]] - Entrée en vigueur
+

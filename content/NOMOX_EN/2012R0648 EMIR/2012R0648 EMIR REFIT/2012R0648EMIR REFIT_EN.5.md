@@ -1,0 +1,74 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.5]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.4a|Article 4a – Financial counterparties that are subject to the clearing obligation]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.6|Article 6 – Public register]]
+>
+
+
+
+# Article 5 - Clearing obligation procedure
+
+## 1.
+Where a competent authority authorises a CCP to clear a class of OTC derivatives under [[2012R0648EMIR REFIT_EN.14|Article 14]] or 15, or where a class of OTC derivatives which a CCP intends to start clearing is covered by an existing authorisation granted in accordance with [[2012R0648EMIR REFIT_EN.14|Article 14]] or 15, the competent authority shall immediately notify ESMA of that authorisation or of the class of OTC derivatives which the CCP intends to start clearing.
+## 2.
+Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in [[2012R0648EMIR REFIT_EN.25|Article 25]], ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
+
+(a) the class of OTC derivatives that should be subject to the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4|Article 4]];
+
+(b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies.
+
+Power is delegated to the Commission to adopt regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+
+In the developing of the draft regulatory technical standards under this paragraph ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts as laid down in [[2014L0065_EN.95|Article 95 of Directive 2014/65/EU]] (
+
+11
+
+).
+## 3.
+ESMA shall, on its own initiative, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, identify, in accordance with the criteria set out in points (a), (b) and (c) of paragraph 4 and notify to the Commission the classes of derivatives that should be subject to the clearing obligation provided in [[2012R0648EMIR REFIT_EN.4|Article 4]], but for which no CCP has yet received authorisation.
+
+Following the notification, ESMA shall publish a call for a development of proposals for the clearing of those classes of derivatives.
+## 4.
+With the overarching aim of reducing systemic risk, the draft regulatory technical standards for the part referred to in paragraph 2(a) shall take into consideration the following criteria:
+
+(a) the degree of standardisation of the contractual terms and operational processes of the relevant class of OTC derivatives;
+
+(b) the volume and liquidity of the relevant class of OTC derivatives;
+
+(c) the availability of fair, reliable and generally accepted pricing information in the relevant class of OTC derivatives.
+
+In preparing those draft regulatory technical standards, ESMA may take into consideration the interconnectedness between counterparties using the relevant classes of OTC derivatives, the anticipated impact on the levels of counterparty credit risk between counterparties as well as the impact on competition across the Union.
+
+In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards further specifying the criteria referred to in points (a), (b) and (c) of the first subparagraph.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt regulatory technical standards referred to in the third subparagraph of this paragraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+## 5.
+The draft regulatory technical standards for the part referred to in paragraph 2(b) shall take into consideration the following criteria:
+
+(a) the expected volume of the relevant class of OTC derivatives;
+
+(b) whether more than one CCP already clear the same class of OTC derivatives;
+
+(c) the ability of the relevant CCPs to handle the expected volume and to manage the risk arising from the clearing of the relevant class of OTC derivatives;
+
+(d) the type and number of counterparties active, and expected to be active within the market for the relevant class of OTC derivatives;
+
+(e) the period of time a counterparty subject to the clearing obligation needs in order to put in place arrangements to clear its OTC derivative contracts through a CCP;
+
+(f) the risk management and the legal and operational capacity of the range of counterparties that are active in the market for the relevant class of OTC derivatives and that would be captured by the clearing obligation pursuant to [[2012R0648EMIR REFIT_EN.4#1|Article 4(1)]].
+## 6.
+If a class of OTC derivative contracts no longer has a CCP which is authorised or recognised to clear those contracts under this Regulation, it shall cease to be subject to the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4|Article 4]], and paragraph 3 of this Article shall apply.

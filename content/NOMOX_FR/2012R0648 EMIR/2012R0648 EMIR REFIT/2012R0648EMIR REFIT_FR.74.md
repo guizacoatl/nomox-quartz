@@ -1,0 +1,37 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: True
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: FR
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.74]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]].
+>
+> [[2012R0648EMIR REFIT_FR.73|Article 73 – Mesures de surveillance mises en œuvre par l'AEMF]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.75|Article 75 – Équivalence et accords internationaux]]
+>
+
+
+
+# Article 74 - Délégation de tâches à des autorités compétentes par l'AEMF
+
+## 1.
+Si nécessaire pour la bonne exécution d'une tâche de surveillance, l'AEMF peut déléguer des tâches spécifiques de surveillance à l'autorité compétente d'un État membre, conformément aux orientations émises par l'AEMF en application de l'[[2010R1095_FR.16|article 16 du règlement (UE) no 1095/2010]]. Ces tâches spécifiques de surveillance peuvent notamment comprendre le pouvoir de procéder à des demandes de renseignements conformément à l'[[2012R0648EMIR REFIT_FR.61|article 61]] et d'effectuer des enquêtes et des inspections sur place conformément, respectivement, à l'[[2012R0648EMIR REFIT_FR.62|article 62]] et à l'[[2012R0648EMIR REFIT_FR.63#6|article 63, paragraphe 6]].
+## 2.
+Préalablement à la délégation d'une tâche, l'AEMF consulte l'autorité compétente concernée. Cette consultation porte sur:
+a) le champ d'application de la tâche à déléguer;
+b) le calendrier d'exécution de la tâche; et
+c) la transmission par l'AEMF et à l'AEMF des informations nécessaires.
+## 3.
+Conformément au règlement sur les frais adopté par la Commission en application de l'[[2012R0648EMIR REFIT_FR.72#3|article 72, paragraphe 3]], l'AEMF rembourse aux autorités compétentes concernées les coûts supportés aux fins de l'exécution de tâches déléguées.
+## 4.
+L'AEMF examine la décision visée au paragraphe 1 selon une fréquence appropriée. Une délégation peut être révoquée à tout moment.
+## 5.
+La délégation de tâches ne modifie pas la responsabilité de l'AEMF et ne limite pas la faculté qu'a l'AEMF de mener et de superviser l'activité déléguée. Les compétences de surveillance au titre du présent règlement, notamment les décisions d'enregistrement, ainsi que les évaluations finales et les décisions de suivi relatives aux infractions, ne sont pas déléguées.
+
+Relations avec les pays tiers

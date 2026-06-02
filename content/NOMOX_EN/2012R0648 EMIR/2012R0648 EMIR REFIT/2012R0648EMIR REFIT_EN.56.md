@@ -1,0 +1,56 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.56]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.55|Article 55 – Registration of a trade repository]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.57|Article 57 – Notification of and consultation with competent authorities prior to registration]]
+>
+
+
+
+# Article 56 - Application for registration
+
+## 1.
+For the purposes of [[2012R0648EMIR REFIT_EN.55#1|Article 55(1)]], a trade repository shall submit either of the following to ESMA:
+
+(a) an application for registration;
+
+(b) an application for an extension of the registration where the trade repository is already registered under Chapter III of Regulation (EU) 2015/2365.
+## 2.
+ESMA shall assess whether the application is complete within 20 working days of receipt of the application.
+
+Where the application is not complete, ESMA shall set a deadline by which the trade repository is to provide additional information.
+
+After assessing an application as complete, ESMA shall notify the trade repository accordingly.
+## 3.
+To ensure the consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the following:
+
+(a) the details of the application for the registration referred to in point (a) of paragraph 1;
+
+(b) the details of the simplified application for the extension of the registration referred to in point (b) of paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+## 4.
+To ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards specifying the following:
+
+(a) the format of the application for registration referred to in point (a) of paragraph 1;
+
+(b) the format of the application for an extension of the registration referred to in point (b) of paragraph 1.
+
+With regard to point (b) of the first subparagraph, ESMA shall develop a simplified format.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with [[2010R1095_EN.15|Article 15 of Regulation (EU) No 1095/2010]].

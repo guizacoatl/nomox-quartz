@@ -1,0 +1,61 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.1]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> *Retour au [[2012R0648EMIR REFIT_EN.0|sommaire]]* ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.2|Article 2 – Definitions]]
+>
+
+
+
+# Article 1 - Subject matter and scope
+
+## 1.
+This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (‘OTC’) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (‘CCPs’) and trade repositories.
+## 2.
+This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+## 3.
+Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+## 4.
+This Regulation shall not apply to:
+(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+
+(b) the Bank for International Settlements;
+
+(c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+
+(i) Japan;
+
+(ii) United States of America;
+
+(iii) Australia;
+
+(iv) Canada;
+
+(v) Hong Kong;
+
+(vi) Mexico;
+
+(vii) Singapore;
+
+(viii) Switzerland.
+## 5.
+With the exception of the reporting obligation under [[2012R0648EMIR REFIT_EN.9|Article 9]], this Regulation shall not apply to the following entities:
+
+(c) the European Financial Stability Facility and the European Stability Mechanism.
+## 6.
+The Commission shall be empowered to adopt delegated acts in accordance with [[2012R0648EMIR REFIT_EN.82|Article 82]] to amend the list set out in paragraph 4 of this Article.
+
+To that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.
+
+The report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.

@@ -1,0 +1,38 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: True
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: FR
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.68]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]].
+>
+> [[2012R0648EMIR REFIT_FR.67|Article 67 – Audition des personnes concernées]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.69|Article 69 – Contrôle de la Cour de justice]]
+>
+
+
+
+# Article 68 - Publication, nature, exécution et affectation des amendes et des astreintes
+
+## 1.
+L'AEMF rend publiques toutes les amendes et astreintes infligées en vertu des articles [[2012R0648EMIR REFIT_FR.65|65]] et [[2012R0648EMIR REFIT_FR.66|66]], sauf dans les cas où une telle publication perturberait gravement les marchés financiers ou causerait un préjudice disproportionné aux parties en cause. Une telle publication ne contient pas de données à caractère personnel au sens du règlement (CE) no 45/2001.
+## 2.
+Les amendes et astreintes infligées en vertu des articles [[2012R0648EMIR REFIT_FR.65|65]] et [[2012R0648EMIR REFIT_FR.66|66]]sont de nature administrative.
+## 3.
+Si l'AEMF décide de ne pas imposer d'amendes ou d'astreintes, elle en informe le Parlement européen, le Conseil, la Commission et les autorités compétentes des États membres concernés, et expose les motifs de sa décision.
+## 4.
+Les amendes et astreintes infligées en vertu des articles [[2012R0648EMIR REFIT_FR.65|65]] et [[2012R0648EMIR REFIT_FR.66|66]]forment titre exécutoire.
+
+L'exécution forcée est régie par les règles de la procédure civile en vigueur dans l'État sur le territoire duquel elle a lieu. La formule exécutoire est apposée, sans autre contrôle que celui de la vérification de l'authenticité du titre, par l'autorité que le gouvernement de chacun des États membres désignera à cet effet et dont il donnera connaissance à l'AEMF et à la Cour de justice.
+
+Après l'accomplissement de ces formalités à la demande de l'intéressé, celui-ci peut poursuivre l'exécution forcée en saisissant directement l'organe compétent, conformément à la législation nationale.
+
+L'exécution forcée ne peut être suspendue qu'en vertu d'une décision de la Cour de justice. Toutefois, le contrôle de la régularité des mesures d'exécution relève de la compétence des juridictions de l'État membre concerné.
+## 5.
+Les montants des amendes et astreintes sont affectés au budget général de l'Union européenne.

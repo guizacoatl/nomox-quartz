@@ -1,0 +1,56 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.10]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.9|Article 9 – Reporting obligation]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.11|Article 11 – Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP]]
+>
+
+
+
+# Article 10 - Non-financial counterparties
+
+## 1.
+Every 12 months, a non-financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.
+
+Where a non-financial counterparty does not calculate its positions, or where the result of that calculation in respect of one or more classes of OTC derivatives exceeds the clearing thresholds specified pursuant to point (b) of the first subparagraph of paragraph 4, that non-financial counterparty shall:
+
+(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;
+
+(b) establish clearing arrangements within four months of the notification referred to in point (a) of this subparagraph;
+
+(c) become subject to the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4|Article 4]] for the OTC derivative contracts entered into or novated more than four months following the notification referred to in point (a) of this subparagraph that pertain to those asset classes in respect of which the result of the calculation exceeds the clearing thresholds or, where the non-financial counterparty has not calculated its position, that pertain to any class of OTC derivatives which is subject to the clearing obligation.
+## 2.
+A non-financial counterparty that is subject to the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4|Article 4]] on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1 of this Article, shall remain subject to that obligation and shall continue clearing until that non-financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of paragraph 4 of this Article.
+
+The non-financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of the position.
+
+2a.  The relevant competent authorities of the non-financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.
+## 3.
+In calculating the positions referred to in paragraph 1, the non-financial counterparty shall include all the OTC derivative contracts entered into by the non-financial counterparty or by other non-financial entities within the group to which the non-financial counterparty belongs, which are not objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of the non-financial counterparty or of that group.
+## 4.
+In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards, after consulting the ESRB and other relevant authorities, specifying:
+
+(a) criteria for establishing which OTC derivative contracts are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity referred to in paragraph 3; and
+
+(b) values of the clearing thresholds, which are determined taking into account the systemic relevance of the sum of net positions and exposures per counterparty and per class of OTC derivatives.
+
+After conducting an open public consultation, ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+
+After consulting the ESRB and other relevant authorities, ESMA shall periodically review the clearing thresholds referred to in point (b) of the first subparagraph and, where necessary taking into account, in particular, the interconnectedness of financial counterparties, propose to amend the regulatory technical standards in accordance with this paragraph.
+
+That periodic review shall be accompanied by a report by ESMA on the subject.
+## 5.
+Each Member State shall designate an authority responsible for ensuring that the obligation under paragraph 1 is met.

@@ -1,0 +1,52 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.3]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.2a|Article 2a – Equivalence decisions for the purposes of the definition of OTC derivatives]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.4|Article 4 – Clearing obligation]]
+>
+
+
+
+# Article 3 - Intragroup transactions
+
+## 1.
+In relation to a non-financial counterparty, an intragroup transaction is an OTC derivative contract entered into with another counterparty which is part of the same group provided that both counterparties are included in the same consolidation on a full basis and they are subject to an appropriate centralised risk evaluation, measurement and control procedures and that counterparty is established in the Union or, if it is established in a third country, the Commission has adopted an implementing act under [[2012R0648EMIR REFIT_EN.13#2|Article 13(2)]] in respect of that third country.
+## 2.
+In relation to a financial counterparty, an intragroup transaction is any of the following:
+
+(a) an OTC derivative contract entered into with another counterparty which is part of the same group, provided that the following conditions are met:
+
+(i) the financial counterparty is established in the Union or, if it is established in a third country, the Commission has adopted an implementing act under [[2012R0648EMIR REFIT_EN.13#2|Article 13(2)]] in respect of that third country;
+
+(ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;
+
+(iii) both counterparties are included in the same consolidation on a full basis; and
+
+(iv) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures;
+
+(b) an OTC derivative contract entered into with another counterparty where both counterparties are part of the same institutional protection scheme, referred to in Article 80(8) of Directive 2006/48/EC, provided that the condition set out in point (a)(ii) of this paragraph is met;
+
+(c) an OTC derivative contract entered into between credit institutions affiliated to the same central body or between such credit institution and the central body, as referred to in Article 3(1) of Directive 2006/48/EC; or
+
+(d) an OTC derivative contract entered into with a non-financial counterparty which is part of the same group provided that both counterparties are included in the same consolidation on a full basis and they are subject to an appropriate centralised risk evaluation, measurement and control procedures and that counterparty is established in the Union or in a third-country jurisdiction for which the Commission has adopted an implementing act as referred to in [[2012R0648EMIR REFIT_EN.13#2|Article 13(2)]] in respect of that third country.
+## 3.
+For the purposes of this Article, counterparties shall be considered to be included in the same consolidation when they are both either:
+
+(a) included in a consolidation in accordance with Directive 83/349/EEC or International Financial Reporting Standards (IFRS) adopted pursuant to Regulation (EC) No 1606/2002 or, in relation to a group the parent undertaking of which has its head office in a third country, in accordance with generally accepted accounting principles of a third country determined to be equivalent to IFRS in accordance with Regulation (EC) No 1569/2007 (or accounting standards of a third country the use of which is permitted in accordance with Article 4 of that Regulation); or
+
+(b) covered by the same consolidated supervision in accordance with Directive 2006/48/EC or Directive 2006/49/EC or, in relation to a group the parent undertaking of which has its head office in a third country, the same consolidated supervision by a third-country competent authority verified as equivalent to that governed by the principles laid down in Article 143 of Directive 2006/48/EC or in Article 2 of Directive 2006/49/EC.
+
+TITLE II
+
+CLEARING, REPORTING AND RISK MITIGATION OF OTC DERIVATIVES

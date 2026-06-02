@@ -1,0 +1,28 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.43]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.42|Article 42 – Default fund]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.44|Article 44 – Liquidity risk controls]]
+>
+
+
+
+# Article 43 - Other financial resources
+
+## 1.
+A CCP shall maintain sufficient pre-funded available financial resources to cover potential losses that exceed the losses to be covered by margin requirements laid down in [[2012R0648EMIR REFIT_EN.41|Article 41]] and the default fund as referred to in [[2012R0648EMIR REFIT_EN.42|Article 42]]. Such pre-funded financial resources shall include dedicated resources of the CCP, shall be freely available to the CCP and shall not be used to meet the capital required under [[2012R0648EMIR REFIT_EN.16|Article 16]].
+## 2.
+The default fund referred to in [[2012R0648EMIR REFIT_EN.42|Article 42]] and the other financial resources referred to in paragraph 1 of this Article shall at all times enable the CCP to withstand the default of at least the two clearing members to which it has the largest exposures under extreme but plausible market conditions.
+## 3.
+A CCP may require non-defaulting clearing members to provide additional funds in the event of a default of another clearing member. The clearing members of a CCP shall have limited exposures toward the CCP.

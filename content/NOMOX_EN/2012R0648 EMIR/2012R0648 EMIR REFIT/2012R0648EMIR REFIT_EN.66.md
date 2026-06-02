@@ -1,0 +1,40 @@
+---
+surnom_texte_lvl1: EMIR
+surnom_texte_lvl2: EMIR REFIT
+texte: 2012R0648EMIR REFIT
+consolidated: False
+in_force: true
+level: 4
+if_level_2_text_level1: 2012R0648
+langue: EN
+version: 1
+last_update: 2026-06-01
+---
+> [!info]+
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.66]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+>
+> [[2012R0648EMIR REFIT_EN.65|Article 65 – Fines]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.67|Article 67 – Hearing of the persons concerned]]
+>
+
+
+
+# Article 66 - Periodic penalty payments
+
+## 1.
+ESMA shall, by decision, impose periodic penalty payments in order to compel:
+
+(a) a trade repository to put an end to an infringement in accordance with a decision taken pursuant to [[2012R0648EMIR REFIT_EN.73#1#a|Article 73(1)(a)]]; or
+
+(b) a person referred to in [[2012R0648EMIR REFIT_EN.61#1|Article 61(1)]]:
+
+(i) to supply complete information which has been requested by a decision pursuant to [[2012R0648EMIR REFIT_EN.61|Article 61]];
+
+(ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to [[2012R0648EMIR REFIT_EN.62|Article 62]]; or
+
+(iii) to submit to an on-site inspection ordered by a decision taken pursuant to [[2012R0648EMIR REFIT_EN.63|Article 63]].
+## 2.
+A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+## 3.
+Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+## 4.
+A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA’s decision. Following the end of the period, ESMA shall review the measure.

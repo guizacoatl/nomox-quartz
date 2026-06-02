@@ -1,0 +1,23 @@
+{
+  "name": "quartz-pdf-embed",
+  "version": "1.0.0",
+  "description": "Plugin Quartz v5 : transforme ![[fichier.pdf]] en iframe avec lien de fallback",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "quartz": {
+    "plugins": {
+      "PdfEmbed": {
+        "exportName": "PdfEmbed"
+      }
+    }
+  },
+  "keywords": ["quartz", "obsidian", "pdf", "embed"],
+  "license": "MIT"
+}
