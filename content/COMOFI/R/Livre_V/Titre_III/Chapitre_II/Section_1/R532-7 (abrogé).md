@@ -1,0 +1,13 @@
+# R532-7 (abrogé)
+
+> [!info]+
+> 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
+> 🧭 Chemin - Livre V : Les prestataires de services (Articles R511-1 à R571-3) > Titre III : Les prestataires de services d'investissement (Articles R531-1 à R533-21-2) > Chapitre II : Conditions d'exercice de la profession. (Articles R532-1 à D532-41) > Section 1 : Agrément et autorisation (Articles R532-1 à R532-16-1)
+> [[R532-6]] ⬅️ |   ➡️ [[R532-9 (abrogé)]]
+
+> [!warning] Article abrogé.
+
+> _Abrogé par Décret n°2017-1253 du 9 août 2017 - art. 5_
+
+
+Lorsque le requérant est une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de crédit n'ayant pas son siège en France, il est tenu de fournir, en outre, des informations précises sur la surveillance s'exerçant sur lui et sur la structure du groupe auquel il appartient ainsi que, le cas échéant, sur la nature et l'étendue de l'habilitation de son entreprise mère à fournir des prestations de services d'investissement.

@@ -4,7 +4,7 @@ COMOFI en date du 23/03/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 🔗 [[Sommaire COMOFI Législatif]]
 🔗 [[Sommaire COMOFI Réglementaire]]
 
-# RG AMF
+# RGAMF
 Règlement général de l'AMF en vigueur du 01/01/2026 au 29/06/2026 (version du 23/03/2026) : [site web AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20250602/notes)
 🔗 [[Sommaire RGAMF]]
 
@@ -232,7 +232,7 @@ Règlement général de l'AMF en vigueur du 01/01/2026 au 29/06/2026 (version du
 | Market Report | Crowdfunding in the EU 2025 | [[ESMA50-481369926-30854_ESMA_Market_Report_Crowdfunding_in_the_EU_2025.pdf\|EN]]                                                                                                                   |
 
 
-# ELTIF - 2013/346
+# ELTIF - 2015/760
 *European long-term investment funds - Fonds européens d'investissement à long terme*
 
 ## Level 1 - Niveau 1
@@ -386,32 +386,30 @@ Règlement général de l'AMF en vigueur du 01/01/2026 au 29/06/2026 (version du
 | [[2023R1114_EN.0]] | [[2023R1114_FR.0]] |
 
 ## Level 2 - Niveau 2
-*Reg dl = Règlement Délégué*
-*Reg dx = Règlement d'exécution*
 
-| Name - Nom | Type   | Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        | Emission / PSCA |
-| ---------- | ------ | ---- | ------------------ | ------------------ | --------------- |
-| MICA292    | Reg dl | RTS  | [[2025R0292_EN.0]] | [[2025R0292_FR.0]] | PSCA            |
-| MICA293    | Reg dl | RTS  | [[2025R0293_EN.0]] | [[2025R0293_FR.0]] | Emission        |
-| MICA294    | Reg dl | RTS  | [[2025R0294_EN.0]] | [[2025R0294_FR.0]] | PSCA            |
-| MICA296    | Reg dl | RTS  | [[2025R0296_EN.0]] | [[2025R0296_FR.0]] | Emission        |
-| MICA297    | Reg dl | RTS  | [[2025R0297_EN.0]] | [[2025R0297_FR.0]] | PSCA            |
-| MICA298    | Reg dl | RTS  | [[2025R0298_EN.0]] | [[2025R0298_FR.0]] | Emission        |
-| MICA299    | Reg dl | RTS  | [[2025R0299_EN.0]] | [[2025R0299_FR.0]] | PSCA            |
-| MICA300    | Reg dl | RTS  | [[2025R0300_EN.0]] | [[2025R0300_FR.0]] | PSCA            |
-| MICA303    | Reg dl | RTS  | [[2025R0303_EN.0]] | [[2025R0303_FR.0]] | PSCA            |
-| MICA305    | Reg dl | RTS  | [[2025R0305_EN.0]] | [[2025R0305_FR.0]] | PSCA            |
-| MICA416    | Reg dl | RTS  | [[2025R0416_EN.0]] | [[2025R0416_FR.0]] | PSCA            |
-| MICA417    | Reg dl | RTS  | [[2025R0417_EN.0]] | [[2025R0417_FR.0]] | PSCA            |
-| MICA422    | Reg dl | RTS  | [[2025R0422_EN.0]] | [[2025R0422_FR.0]] | PSCA            |
-| MICA1507   | Reg dl |      | [[2024R1507_EN.0]] | [[2024R1507_FR.0]] | PSCA            |
-| MICA414    | Reg dl | RTS  | [[2025R0414_EN.0]] | [[2025R0414_FR.0]] | PSCA            |
-| MICA304    | Reg dx | ITS  | [[2025R0304_EN.0]] | [[2025R0304_FR.0]] | PSCA            |
-| MICA306    | Reg dx | ITS  | [[2025R0306_EN.0]] | [[2025R0306_FR.0]] | PSCA            |
-| MICA2545   | Reg dx | ITS  | [[2024R2545_EN.0]] | [[2024R2545_FR.0]] | PSCA            |
-| MICA1140   | Reg dl | RTS  | [[2025R1140_EN.0]] | [[2025R1140_FR.0]] | PSCA            |
-| MICA1142   | Reg dl | RTS  | [[2025R1142_EN.0]] | [[2025R1142_FR.0]] | PSCA            |
-| MICA885    | Reg dl | RTS  | [[2025R0885_EN.0]] | [[2025R0885_FR.0]] | PSCA            |
+| Name - Nom |  Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        | Emission / PSCA |
+| ---------- | ---- | ------------------ | ------------------ | --------------- |
+| MICA292    | RTS  | [[2025R0292_EN.0]] | [[2025R0292_FR.0]] | PSCA            |
+| MICA293    | RTS  | [[2025R0293_EN.0]] | [[2025R0293_FR.0]] | Emission        |
+| MICA294    | RTS  | [[2025R0294_EN.0]] | [[2025R0294_FR.0]] | PSCA            |
+| MICA296    | RTS  | [[2025R0296_EN.0]] | [[2025R0296_FR.0]] | Emission        |
+| MICA297    | RTS  | [[2025R0297_EN.0]] | [[2025R0297_FR.0]] | PSCA            |
+| MICA298    | RTS  | [[2025R0298_EN.0]] | [[2025R0298_FR.0]] | Emission        |
+| MICA299    | RTS  | [[2025R0299_EN.0]] | [[2025R0299_FR.0]] | PSCA            |
+| MICA300    | RTS  | [[2025R0300_EN.0]] | [[2025R0300_FR.0]] | PSCA            |
+| MICA303    | RTS  | [[2025R0303_EN.0]] | [[2025R0303_FR.0]] | PSCA            |
+| MICA305    | RTS  | [[2025R0305_EN.0]] | [[2025R0305_FR.0]] | PSCA            |
+| MICA416    | RTS  | [[2025R0416_EN.0]] | [[2025R0416_FR.0]] | PSCA            |
+| MICA417    | RTS  | [[2025R0417_EN.0]] | [[2025R0417_FR.0]] | PSCA            |
+| MICA422    | RTS  | [[2025R0422_EN.0]] | [[2025R0422_FR.0]] | PSCA            |
+| MICA1507   | RTS  | [[2024R1507_EN.0]] | [[2024R1507_FR.0]] | PSCA            |
+| MICA414    | RTS  | [[2025R0414_EN.0]] | [[2025R0414_FR.0]] | PSCA            |
+| MICA304    | ITS  | [[2025R0304_EN.0]] | [[2025R0304_FR.0]] | PSCA            |
+| MICA306    | ITS  | [[2025R0306_EN.0]] | [[2025R0306_FR.0]] | PSCA            |
+| MICA2545   | ITS  | [[2024R2545_EN.0]] | [[2024R2545_FR.0]] | PSCA            |
+| MICA1140   | RTS  | [[2025R1140_EN.0]] | [[2025R1140_FR.0]] | PSCA            |
+| MICA1142   | RTS  | [[2025R1142_EN.0]] | [[2025R1142_FR.0]] | PSCA            |
+| MICA885    | RTS  | [[2025R0885_EN.0]] | [[2025R0885_FR.0]] | PSCA            |
 
 ## Level 3 - Niveau 3
 

@@ -8,10 +8,10 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: FR
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.3]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]].
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.3]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.2 bis|Article 2 bis – Décisions en matière d’équivalence aux fins de la définition des produits dérivés de gré à gré]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.4|Article 4 – Obligation de compensation]]
 >

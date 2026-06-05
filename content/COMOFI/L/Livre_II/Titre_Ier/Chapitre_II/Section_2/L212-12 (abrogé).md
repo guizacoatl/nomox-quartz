@@ -1,0 +1,17 @@
+# L212-12 (abrogé)
+
+> [!info]+
+> 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
+> 🧭 Chemin - Livre II : Les produits (Articles L211-1 à L232-1) > Titre Ier : Les instruments financiers (Articles L211-1 à L214-191) > Chapitre II : Actions et titres donnant accès au capital (abrogé) > Section 2 : Les titres donnant accès au capital (abrogé)
+> [[L212-11 (abrogé)]] ⬅️ |   ➡️ [[L213-0-1]]
+
+> [!warning] Article abrogé.
+
+> _Abrogé par Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004_
+
+
+Afin d'assurer l'égalité des porteurs de certificats d'investissement ou de certificats de droit de vote et la transparence du marché, le règlement général du Conseil des marchés financiers détermine :
+
+1° Les conditions applicables aux procédures d'offre publique et de demande de retrait portant sur des certificats d'investissement ou des certificats de droit de vote admis aux négociations sur un marché réglementé ou qui ont cessé d'être négociés sur un marché réglementé, lorsque le ou les actionnaires majoritaires de la société émettrice de ces certificats détiennent seul ou de concert au sens des dispositions de l'article L. [[L233-10|233-10]] du code de commerce une fraction déterminée du capital et des droits de vote ;
+
+2° Les conditions dans lesquelles, à l'issue d'une procédure d'offre publique ou de demande de retrait, les certificats d'investissement ou les certificats de droit de vote non présentés par leurs porteurs, dès lors qu'ils ne représentent pas plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande, et les détenteurs indemnisés ; l'évaluation des titres faite selon les méthodes objectives pratiquées en cas de cession d'actifs, tient compte, selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices réalisés, de la valeur boursière, de l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par titre, au résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou de la demande de retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.

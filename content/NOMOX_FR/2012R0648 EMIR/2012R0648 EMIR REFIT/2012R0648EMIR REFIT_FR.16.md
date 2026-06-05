@@ -8,10 +8,10 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: FR
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.16]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]].
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.16]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.15|Article 15 – Extension des activités et des services]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.17|Article 17 – Procédure d'octroi et de refus d'agrément]]
 >

@@ -7,9 +7,9 @@ title: Welcome to Nomox
 Stop wasting time navigating between dense EUR-Lex PDFs and complex national legislative trees. **NOMOX** is the first article-by-article reference database designed specifically for demanding compliance and legal professionals.
 
 What **NOMOX** do:
-- Absolute Granularity: Every regulatory provision (Level 1 Laws/Directives, RTS, ITS, level 3) has its own standalone Markdown file.
-- Native Interconnection: Cross-references between Level 1 frameworks, Level 2 technical standards and transposition into French law are pre-mapped via bi-directional links.
-- Flexibility: An open ecosystem, accessible to all.
+- **Absolute Granularity**: Every regulatory provision (Level 1 Laws/Directives, RTS, ITS, level 3) has its own standalone Markdown file.
+- **Interconnection**: Cross-references between Level 1 frameworks, Level 2 technical standards and transposition into French law are pre-mapped via bi-directional links.
+- **Flexibility**: An open ecosystem, accessible to all.
 
 Explore the fully updated and transposed regulatory corpus now via our general [[Récapitulatif|Summary]].
 
@@ -20,11 +20,11 @@ Explore the fully updated and transposed regulatory corpus now via our general [
 Ne perdez plus votre temps à naviguer entre les PDFs d'Eur-Lex et les arborescences complexes de Légifrance. **NOMOX** est le premier référentiel fragmenté par article conçu spécifiquement pour les professionnels exigeants de la conformité et du juridique.
 
 Ce que **NOMOX** propose :
-- Granularité : Chaque disposition (Lois, Regulations, RTS, ITS) dispose de sa propre fiche autonome au format Markdown.
-- Interconnexion native : Les liaisons entre le Niveau 1 (Directives/Regulations), le Niveau 2 (Normes techniques) et la transposition des directives en droit français sont pré-cartographiées.
-- Flexibilité : Un écosystème ouvert, accessibles à tous.
+- **Granularité** : Chaque disposition (Lois, Regulations, RTS, ITS) dispose de sa propre fiche autonome au format Markdown.
+- **Interconnexion** : Les liaisons entre le Niveau 1 (Directives/Regulations), le Niveau 2 (Normes techniques) et la transposition des directives en droit français sont pré-cartographiées.
+- **Flexibilité** : Un écosystème ouvert, accessibles à tous.
 
-Explorez dès maintenant l'ensemble des textes à jour de transposition via notre [[Récapitulatif]] général.
+Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Récapitulatif]] général.
 
 ---
 
@@ -48,7 +48,7 @@ Explorez dès maintenant l'ensemble des textes à jour de transposition via notr
   </a>
   <a href="./CSDR" class="card">
     <span class="card-label">CSDR</span>
-    <span class="card-title">central securities depositories Regulation</span>
+    <span class="card-title">Central securities depositories Regulation</span>
     <span class="card-ref">Regulation (UE) n° 909/2014</span>
   </a>
   <a href="./DORA" class="card">
