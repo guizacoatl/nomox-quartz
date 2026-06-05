@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.86]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.86]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.85|Article 85 – Rapports et réexamen]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.87|Article 87 – Modification de la directive 98/26/CE]]
 >
-
-
 
 # Article 86 - Procédure de comité
 
@@ -27,6 +25,6 @@ La Commission est assistée par le comité européen des valeurs mobilières ins
 
 ). Ledit comité est un comité au sens du règlement (UE) no 182/2011.
 ## 2.
-Lorsqu'il est fait référence au présent paragraphe, l'[[2011R0182_FR.5|article 5 du règlement (UE) no 182/2011]] s'applique.
+Lorsqu'il est fait référence au présent paragraphe, l'article 5 du règlement (UE) no 182/2011 s'applique.
 ## 3.
-Lorsqu'il est fait référence au présent paragraphe, l'[[2011R0182_FR.8|article 8 du règlement (UE) no 182/2011]], en liaison avec l'[[2012R0648EMIR REFIT_FR.5|article 5]], s'applique.
+Lorsqu'il est fait référence au présent paragraphe, l'article 8 du règlement (UE) no 182/2011, en liaison avec l'article 5, s'applique.

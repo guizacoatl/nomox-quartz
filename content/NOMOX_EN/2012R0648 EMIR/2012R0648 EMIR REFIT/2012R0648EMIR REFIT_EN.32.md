@@ -8,20 +8,18 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.32]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.32]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.31|Article 31 – Information to competent authorities]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.33|Article 33 – Conflicts of interest]]
 >
 
-
-
 # Article 32 - Assessment
 
 ## 1.
-Where assessing the notification provided for in [[2012R0648EMIR REFIT_EN.31#2|Article 31(2)]] and the information referred to in [[2012R0648EMIR REFIT_EN.31#3|Article 31(3)]], the competent authority shall, in order to ensure the sound and prudent management of the CCP in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the CCP, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:
+Where assessing the notification provided for in Article 31(2) and the information referred to in Article 31(3), the competent authority shall, in order to ensure the sound and prudent management of the CCP in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the CCP, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:
 
 (a) the reputation and financial soundness of the proposed acquirer;
 
@@ -39,9 +37,9 @@ The competent authorities may oppose the proposed acquisition only where there a
 ## 3.
 Member States shall neither impose any prior conditions in respect of the level of holding that shall be acquired nor allow their competent authorities to examine the proposed acquisition in terms of the economic needs of the market.
 ## 4.
-Member States shall make publicly available a list specifying the information that is necessary to carry out the assessment and that shall be provided to the competent authorities at the time of notification referred to in [[2012R0648EMIR REFIT_EN.31#2|Article 31(2)]]. The information required shall be proportionate and shall be adapted to the nature of the proposed acquirer and the proposed acquisition. Member States shall not require information that is not relevant for a prudential assessment.
+Member States shall make publicly available a list specifying the information that is necessary to carry out the assessment and that shall be provided to the competent authorities at the time of notification referred to in Article 31(2). The information required shall be proportionate and shall be adapted to the nature of the proposed acquirer and the proposed acquisition. Member States shall not require information that is not relevant for a prudential assessment.
 ## 5.
-Notwithstanding [[2012R0648EMIR REFIT_EN.31#2|Article 31(2)]], (3) and (4), where two or more proposals to acquire or increase qualifying holdings in the same CCP have been notified to the competent authority, the latter shall treat the proposed acquirers in a non-discriminatory manner.
+Notwithstanding Article 31(2), (3) and (4), where two or more proposals to acquire or increase qualifying holdings in the same CCP have been notified to the competent authority, the latter shall treat the proposed acquirers in a non-discriminatory manner.
 ## 6.
 The relevant competent authorities shall cooperate closely with each other when carrying out the assessment where the proposed acquirer is one of the following:
 

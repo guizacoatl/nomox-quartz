@@ -8,19 +8,17 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.58]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.58]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.57|Article 57 – Notification of and consultation with competent authorities prior to registration]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.59|Article 59 – Notification of ESMA decisions relating to registration]]
 >
 
-
-
 # Article 58 - Examination of the application
 
 ## 1.
-ESMA shall, within 40 working days from the notification referred to in the third subparagraph of [[2012R0648EMIR REFIT_EN.56#2|Article 56(2)]], examine the application for registration based on the compliance of the trade repository with Articles [[2012R0648EMIR REFIT_EN.78|78]] to 81 and shall adopt a fully reasoned registration decision or decision refusing registration.
+ESMA shall, within 40 working days from the notification referred to in the third subparagraph of Article 56(2), examine the application for registration based on the compliance of the trade repository with Articles 78 to 81 and shall adopt a fully reasoned registration decision or decision refusing registration.
 ## 2.
 A decision issued by ESMA pursuant to paragraph 1 shall take effect on the fifth working day following its adoption.

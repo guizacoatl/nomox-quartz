@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.45]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.45]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.44|Article 44 – Mécanismes de maîtrise des risques de liquidité]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.46|Article 46 – Exigences en matière de garanties (collateral)]]
 >
-
-
 
 # Article 45 - Défaillances en cascade
 
@@ -25,7 +23,7 @@ Les contreparties centrales utilisent les marges déposées par les membres comp
 ## 2.
 Lorsque les marges déposées par le membre compensateur défaillant sont insuffisantes pour couvrir les pertes de la contrepartie centrale, celle-ci fait appel à la contribution au fonds de défaillance du membre défaillant pour couvrir ces pertes.
 ## 3.
-Les contreparties centrales n'utilisent les contributions au fonds de défaillance des membres compensateurs non défaillants et toute autre ressource financière visée à l'[[2012R0648EMIR REFIT_FR.43#1|article 43, paragraphe 1]], qu'après avoir épuisé les contributions du membre compensateur défaillant.
+Les contreparties centrales n'utilisent les contributions au fonds de défaillance des membres compensateurs non défaillants et toute autre ressource financière visée à l'article 43, paragraphe 1, qu'après avoir épuisé les contributions du membre compensateur défaillant.
 ## 4.
 Les contreparties centrales utilisent des ressources propres spécialement affectées avant de recourir aux contributions au fonds de défaillance des membres compensateurs non défaillants. Les contreparties centrales n'utilisent pas les marges déposées par les membres compensateurs non défaillants pour couvrir les pertes résultant de la défaillance d'un autre membre compensateur.
 ## 5.
@@ -33,4 +31,4 @@ Afin d'assurer une application cohérente du présent article, l'AEMF, après av
 
 L'AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 30 septembre 2012.
 
-Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles [[2010R1095_FR.10|10]] à [[2010R1095_FR.14|14]] du règlement (UE) no 1095/2010.
+Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.

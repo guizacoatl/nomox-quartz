@@ -8,13 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 # 2012R0648EMIR REFIT - Sommaire
 ## REGULATION (EU) No 648/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 4 July 2012 on OTC derivatives, central counterparties and trade repositories
 
 > [!info]+
-> 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.0]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.0]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 
 ### TITLE I - SUBJECT MATTER, SCOPE AND DEFINITIONS
 [[2012R0648EMIR REFIT_EN.1|Article 1]] - Subject matter and scope  

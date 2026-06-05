@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.25]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.25]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.24|Article 24 – Emergency situations]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.26|Article 26 – General provisions]]
 >
-
-
 
 # Article 25 - Recognition of a third-country CCP
 
@@ -41,7 +39,7 @@ When assessing whether the conditions referred to in paragraph 2 are met, ESMA s
 
 (a) the competent authority of a Member State in which the CCP provides or intends to provide clearing services and which has been selected by the CCP;
 
-(b) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States which make or are anticipated by the CCP to make the largest contributions to the default fund of the CCP referred to in [[2012R0648EMIR REFIT_EN.42|Article 42]] on an aggregate basis over a one-year period;
+(b) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States which make or are anticipated by the CCP to make the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;
 
 (c) the competent authorities responsible for the supervision of trading venues located in the Union, served or to be served by the CCP;
 
@@ -55,7 +53,7 @@ The CCP referred to in paragraph 1 shall submit its application to ESMA.
 
 The applicant CCP shall provide ESMA with all information necessary for its recognition. Within 30 working days of receipt, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant CCP has to provide additional information.
 
-The recognition decision shall be based on the conditions set out in paragraph 2 and shall be independent of any assessment as the basis for the equivalence decision as referred to in [[2012R0648EMIR REFIT_EN.13#3|Article 13(3)]].
+The recognition decision shall be based on the conditions set out in paragraph 2 and shall be independent of any assessment as the basis for the equivalence decision as referred to in Article 13(3).
 
 ESMA shall consult the authorities and entities referred to in paragraph 3 prior to taking its decision.
 
@@ -63,9 +61,9 @@ Within 180 working days of the submission of a complete application, ESMA shall 
 
 ESMA shall publish on its website a list of the CCPs recognised in accordance with this Regulation.
 ## 5.
-ESMA shall, after consulting the authorities and entities referred to in paragraph 3, review the recognition of the CCP established in a third country where that CCP has extended the range of its activities and services in the Union. That review shall be conducted in accordance with paragraphs 2, 3 and 4. ESMA may withdraw the recognition of that CCP where the conditions set out in paragraph 2 are no longer met and in the same circumstances as those described in [[2012R0648EMIR REFIT_EN.20|Article 20]].
+ESMA shall, after consulting the authorities and entities referred to in paragraph 3, review the recognition of the CCP established in a third country where that CCP has extended the range of its activities and services in the Union. That review shall be conducted in accordance with paragraphs 2, 3 and 4. ESMA may withdraw the recognition of that CCP where the conditions set out in paragraph 2 are no longer met and in the same circumstances as those described in Article 20.
 ## 6.
-The Commission may adopt an implementing act under [[2011R0182_EN.5|Article 5 of Regulation (EU) No 182/2011]], determining that the legal and supervisory arrangements of a third country ensure that CCPs authorised in that third country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of this Regulation, that those CCPs are subject to effective supervision and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CCPs authorised under third-country legal regimes.
+The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011, determining that the legal and supervisory arrangements of a third country ensure that CCPs authorised in that third country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of this Regulation, that those CCPs are subject to effective supervision and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CCPs authorised under third-country legal regimes.
 ## 7.
 ESMA shall establish cooperation arrangements with the relevant competent authorities of third countries whose legal and supervisory frameworks have been recognised as equivalent to this Regulation in accordance with paragraph 6. Such arrangements shall specify at least:
 
@@ -81,7 +79,7 @@ In order to ensure consistent application of this Article, ESMA shall develop dr
 
 ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
 
-Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
 
 TITLE IV
 

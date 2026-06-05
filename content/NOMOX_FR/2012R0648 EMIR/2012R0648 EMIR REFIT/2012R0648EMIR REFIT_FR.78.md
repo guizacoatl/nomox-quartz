@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.78]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.78]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.77|Article 77 – Reconnaissance des référentiels centraux]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.79|Article 79 – Fiabilité opérationnelle]]
 >
-
-
 
 # Article 78 - Exigences générales
 
@@ -33,6 +31,6 @@ Si un référentiel central propose des services auxiliaires tels que la confirm
 ## 6.
 Les instances dirigeantes et les membres du conseil d'administration d'un référentiel central possèdent l'honorabilité et l'expérience suffisantes afin d'en garantir une gestion saine et prudente.
 ## 7.
-Les référentiels centraux disposent de règles objectives, non discriminatoires et rendues publiques régissant l'accès des entreprises soumises à l'obligation de déclaration visée à l'[[2012R0648EMIR REFIT_FR.9|article 9]]. Un référentiel central accorde aux prestataires de services un accès non discriminatoire aux informations qu'il conserve, à condition que les contreparties concernées y aient consenti. Des critères restreignant l'accès ne sont autorisés que dans la mesure où leur objectif est de maîtriser le risque auquel sont exposées les données conservées par les référentiels centraux.
+Les référentiels centraux disposent de règles objectives, non discriminatoires et rendues publiques régissant l'accès des entreprises soumises à l'obligation de déclaration visée à l'article 9. Un référentiel central accorde aux prestataires de services un accès non discriminatoire aux informations qu'il conserve, à condition que les contreparties concernées y aient consenti. Des critères restreignant l'accès ne sont autorisés que dans la mesure où leur objectif est de maîtriser le risque auquel sont exposées les données conservées par les référentiels centraux.
 ## 8.
 Les référentiels centraux rendent publics les prix et les frais afférents aux services fournis au titre du présent règlement. Ils rendent publics les prix et les frais de chaque service fourni séparément, y compris les remises et les rabais, ainsi que les conditions à remplir pour bénéficier de ces réductions. Ils permettent aux entités déclarantes d'accéder séparément à chaque service. Les prix et les frais pratiqués par un référentiel central sont en rapport avec les coûts.

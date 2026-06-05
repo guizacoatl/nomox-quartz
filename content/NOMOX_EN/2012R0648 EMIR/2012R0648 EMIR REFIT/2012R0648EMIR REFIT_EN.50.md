@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.50]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.50]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.49|Article 49 – Review of models, stress testing and back testing]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.50b|Article 50b – General rules for the calculation of KCCP]]
 >
-
-
 
 # Article 50 - Settlement
 
@@ -27,7 +25,7 @@ A CCP shall clearly state its obligations with respect to deliveries of financia
 ## 3.
 Where a CCP has an obligation to make or receive deliveries of financial instruments, it shall eliminate principal risk through the use of delivery-versus-payment mechanisms to the extent possible.
 ## 1.
-For the purposes of [[2013R0575_EN.308|Article 308 of Regulation (EU) No 575/2013]] of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms (
+For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms (
 
 17
 

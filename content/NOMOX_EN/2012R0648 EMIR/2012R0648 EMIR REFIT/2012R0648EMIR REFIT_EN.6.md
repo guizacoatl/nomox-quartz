@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.6]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.6]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.5|Article 5 – Clearing obligation procedure]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.6a|Article 6a – Suspension of clearing obligation]]
 >
-
-
 
 # Article 6 - Public register
 
@@ -25,13 +23,13 @@ ESMA shall establish, maintain and keep up to date a public register in order to
 ## 2.
 The register shall include:
 
-(a) the classes of OTC derivatives that are subject to the clearing obligation pursuant to [[2012R0648EMIR REFIT_EN.4|Article 4]];
+(a) the classes of OTC derivatives that are subject to the clearing obligation pursuant to Article 4;
 
 (b) the CCPs that are authorised or recognised for the purpose of the clearing obligation;
 
 (c) the dates from which the clearing obligation takes effect, including any phased-in implementation;
 
-(d) the classes of OTC derivatives identified by ESMA in accordance with [[2012R0648EMIR REFIT_EN.5#3|Article 5(3)]];
+(d) the classes of OTC derivatives identified by ESMA in accordance with Article 5(3);
 
 (f) the CCPs that have been notified to ESMA by the competent authority for the purpose of the clearing obligation and the date of notification of each of them.
 ## 3.
@@ -41,4 +39,4 @@ In order to ensure consistent application of this Article, ESMA may develop draf
 
 ESMA shall submit any such draft regulatory technical standards to the Commission by 30 September 2012.
 
-Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

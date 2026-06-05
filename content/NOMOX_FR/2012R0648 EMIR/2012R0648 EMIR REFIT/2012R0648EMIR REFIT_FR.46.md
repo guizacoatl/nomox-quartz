@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.46]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.46]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.45|Article 45 – Défaillances en cascade]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.47|Article 47 – Politique d'investissement]]
 >
-
-
 
 # Article 46 - Exigences en matière de garanties (collateral)
 
@@ -32,4 +30,4 @@ c) les conditions auxquelles les garanties de banques commerciales peuvent être
 
 L'AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 30 septembre 2012.
 
-Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles [[2010R1095_FR.10|10]] à [[2010R1095_FR.14|14]] du règlement (UE) no 1095/2010.
+Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.

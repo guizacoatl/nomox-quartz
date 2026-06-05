@@ -11,25 +11,23 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.88]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.88]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.87|Article 87 – Modification de la directive 98/26/CE]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.89|Article 89 – Dispositions transitoires]]
 >
-
-
 
 # Article 88 - Sites internet
 
 ## 1.
 L'AEMF gère un site internet qui fournit des renseignements sur:
-a) les contrats éligibles à l'obligation de compensation visée à l'[[2012R0648EMIR REFIT_FR.5|article 5]];
-b) les sanctions imposées pour violation des articles [[2012R0648EMIR REFIT_FR.4|4]] à [[2012R0648EMIR REFIT_FR.11|11]];
+a) les contrats éligibles à l'obligation de compensation visée à l'article 5;
+b) les sanctions imposées pour violation des articles 4, 5 et 7 à 11;
 c) les contreparties centrales agréées pour proposer des services ou exercer des activités dans l'Union, qui sont établies dans l'Union, et les services ou activités qu'elles ont l'agrément de fournir ou d'exercer, y compris les catégories d'instruments financiers couvertes par leur agrément;
 d) les sanctions imposées pour les infractions aux titres IV et V;
 e) les contreparties centrales agréées pour proposer des services ou exercer des activités dans l'Union, établies dans un pays tiers, et les services ou activités qu'elles ont l'agrément de fournir ou d'exercer, y compris les catégories d'instruments financiers couvertes par leur agrément;
 f) les référentiels centraux agréés pour proposer des services ou exercer des activités dans l'Union;
-g) les sanctions et amendes imposées conformément aux articles [[2012R0648EMIR REFIT_FR.65|65]] et [[2012R0648EMIR REFIT_FR.66|66]].
-h) le registre public visé à l'[[2012R0648EMIR REFIT_FR.6|article 6]].
+g) les sanctions et amendes imposées conformément aux articles 65 et 66.
+h) le registre public visé à l'article 6.
 ## 2.
 Aux fins du paragraphe 1, points b), c) et d), les autorités compétentes gèrent des sites internet qui comportent un lien vers le site internet de l'AEMF.
 ## 3.

@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.2]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.2]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.1|Article 1 – Subject matter and scope]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.2a|Article 2a – Equivalence decisions for the purposes of the definition of OTC derivatives]]
 >
-
-
 
 # Article 2 - Definitions
 
@@ -31,7 +29,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 (4) ‘trading venue’ means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 
-(7) ‘OTC derivative’ or ‘OTC derivative contract’ means a derivative contract the execution of which does not take place on a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC or on a third-country market considered to be equivalent to a regulated market in accordance with [[2012R0648EMIR REFIT_EN.2a|Article 2a]] of this Regulation;
+(7) ‘OTC derivative’ or ‘OTC derivative contract’ means a derivative contract the execution of which does not take place on a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC or on a third-country market considered to be equivalent to a regulated market in accordance with Article 2a of this Regulation;
 
 (8) ‘financial counterparty’ means:
 
@@ -55,13 +53,13 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 (d) a UCITS and, where relevant, its management company, authorised in accordance with Directive 2009/65/EC, unless that UCITS is set up exclusively for the purpose of serving one or more employee share purchase plans;
 
-(e) an institution for occupational retirement provision (IORP), as defined in point (1) of [[2016L2341_EN.6|Article 6 of Directive (EU) 2341/2016]] of the European Parliament and of the Council (
+(e) an institution for occupational retirement provision (IORP), as defined in point (1) of Article 6 of Directive (EU) 2016/2341 of the European Parliament and of the Council (
 
 4
 
 );
 
-(f) an alternative investment fund (AIF), as defined in point (a) of [[2011L0061_EN.4#1|Article 4(1) of Directive 2011/61/EU]], which is either established in the Union or managed by an alternative investment fund manager (AIFM) authorised or registered in accordance with that Directive, unless that AIF is set up exclusively for the purpose of serving one or more employee share purchase plans, or unless that AIF is a securitisation special purpose entity as referred to in point (g) of [[2011L0061_EN.2#3|Article 2(3) of Directive 2011/61/EU]], and, where relevant, its AIFM established in the Union;
+(f) an alternative investment fund (AIF), as defined in point (a) of Article 4(1) of Directive 2011/61/EU, which is either established in the Union or managed by an alternative investment fund manager (AIFM) authorised or registered in accordance with that Directive, unless that AIF is set up exclusively for the purpose of serving one or more employee share purchase plans, or unless that AIF is a securitisation special purpose entity as referred to in point (g) of Article 2(3) of Directive 2011/61/EU, and, where relevant, its AIFM established in the Union;
 
 (g) a central securities depository authorised in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council (
 
@@ -89,13 +87,13 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 (12) ‘interoperability arrangement’ means an arrangement between two or more CCPs that involves a cross-system execution of transactions;
 
-(13) ‘competent authority’ means the competent authority referred to in the legislation referred to in point (8) of this Article, the competent authority referred to in [[2012R0648EMIR REFIT_EN.10#5|Article 10(5)]] or the authority designated by each Member State in accordance with [[2012R0648EMIR REFIT_EN.22|Article 22]];
+(13) ‘competent authority’ means the competent authority referred to in the legislation referred to in point (8) of this Article, the competent authority referred to in Article 10(5) or the authority designated by each Member State in accordance with Article 22;
 
 (14) ‘clearing member’ means an undertaking which participates in a CCP and which is responsible for discharging the financial obligations arising from that participation;
 
 (15) ‘client’ means an undertaking with a contractual relationship with a clearing member of a CCP which enables that undertaking to clear its transactions with that CCP;
 
-(16) ‘group’ means the group of undertakings consisting of a parent undertaking and its subsidiaries within the meaning of Articles [[2012R0648EMIR REFIT_EN.1|1]] and [[2012R0648EMIR REFIT_EN.2|2]] of Directive 83/349/EEC or the group of undertakings referred to in Article 3(1) and [[2012R0648EMIR REFIT_EN.80#7|Article 80(7)]] and (8) of Directive 2006/48/EC;
+(16) ‘group’ means the group of undertakings consisting of a parent undertaking and its subsidiaries within the meaning of Articles 1 and 2 of Directive 83/349/EEC or the group of undertakings referred to in Article 3(1) and Article 80(7) and (8) of Directive 2006/48/EC;
 
 (17) ‘financial institution’ means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to carry on one or more of the activities listed in points (2) to (12) of Annex I to Directive 2006/48/EC;
 
@@ -107,15 +105,15 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 (19) ‘ancillary services undertaking’ means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or a similar activity which is ancillary to the principal activity of one or more credit institution;
 
-(20) ‘qualifying holding’ means any direct or indirect holding in a CCP or trade repository which represents at least 10 % of the capital or of the voting rights, as set out in Articles [[2012R0648EMIR REFIT_EN.9|9]] and [[2012R0648EMIR REFIT_EN.10|10]] of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (
+(20) ‘qualifying holding’ means any direct or indirect holding in a CCP or trade repository which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (
 
 7
 
-), taking into account the conditions regarding aggregation thereof laid down in [[2012R0648EMIR REFIT_EN.12#4|Article 12(4)]] and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the CCP or trade repository in which that holding subsists;
+), taking into account the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the CCP or trade repository in which that holding subsists;
 
-(21) ‘parent undertaking’ means a parent undertaking as described in Articles [[2012R0648EMIR REFIT_EN.1|1]] and [[2012R0648EMIR REFIT_EN.2|2]] of Directive 83/349/EEC;
+(21) ‘parent undertaking’ means a parent undertaking as described in Articles 1 and 2 of Directive 83/349/EEC;
 
-(22) ‘subsidiary’ means a subsidiary undertaking as described in Articles [[2012R0648EMIR REFIT_EN.1|1]] and [[2012R0648EMIR REFIT_EN.2|2]] of Directive 83/349/EEC, including a subsidiary of a subsidiary undertaking of an ultimate parent undertaking;
+(22) ‘subsidiary’ means a subsidiary undertaking as described in Articles 1 and 2 of Directive 83/349/EEC, including a subsidiary of a subsidiary undertaking of an ultimate parent undertaking;
 
 (23) ‘control’ means the relationship between a parent undertaking and a subsidiary, as described in Article 1 of Directive 83/349/EEC;
 
@@ -145,6 +143,6 @@ A situation in which two or more natural or legal persons are permanently linked
 
 (29) ‘senior management’ means the person or persons who effectively direct the business of the CCP or the trade repository, and the executive member or members of the board;
 
-(30) ‘covered bond’ means a bond meeting the requirements of [[2013R0575_EN.129|Article 129 of Regulation (EU) No 575/2013]];
+(30) ‘covered bond’ means a bond meeting the requirements of Article 129 of Regulation (EU) No 575/2013;
 
 (31) ‘covered bond entity’ means the covered bond issuer or cover pool of a covered bond.

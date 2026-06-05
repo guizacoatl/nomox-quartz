@@ -11,17 +11,15 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.21]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.21]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.20|Article 20 – Retrait de l'agrément]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.22|Article 22 – Autorité compétente]]
 >
 
-
-
 # Article 21 - Réexamen et évaluation
 
 ## 1.
-Sans préjudice du rôle du collège, les autorités compétentes visées à l'[[2012R0648EMIR REFIT_FR.22|article 22]] réexaminent les dispositifs, les stratégies, les processus et les mécanismes mis en œuvre par les contreparties centrales afin de se conformer au présent règlement et évaluent les risques auxquels les contreparties centrales sont exposées ou sont susceptibles d'être exposées.
+Sans préjudice du rôle du collège, les autorités compétentes visées à l'article 22 réexaminent les dispositifs, les stratégies, les processus et les mécanismes mis en œuvre par les contreparties centrales afin de se conformer au présent règlement et évaluent les risques auxquels les contreparties centrales sont exposées ou sont susceptibles d'être exposées.
 ## 2.
 Le réexamen et l'évaluation visés au paragraphe 1 couvrent toutes les exigences appliquées aux contreparties centrales prévues par le présent règlement.
 ## 3.
@@ -36,9 +34,9 @@ Les autorités compétentes exigent de toute contrepartie centrale qui ne satisf
 L'AEMF exerce une fonction de coordination entre les autorités compétentes et entre les collèges en vue de créer une culture de surveillance commune et des pratiques cohérentes en matière de surveillance, d'assurer la mise en place de procédures uniformes et d'approches cohérentes, ainsi que de renforcer la cohérence des résultats en matière de surveillance.
 
 Aux fins du premier alinéa, l'AEMF:
-a) procède, au moins une fois par an, à un examen par les pairs des activités de surveillance de toutes les autorités compétentes se rapportant à l'agrément et à la surveillance des contreparties centrales conformément à l'[[2010R1095_FR.30|article 30 du règlement (UE) no 1095/2010]]; et
-b) organise et coordonne, au moins une fois par an, à l'échelle de l'Union, des évaluations de la résilience des contreparties centrales face à des évolutions négatives des marchés conformément à l'[[2010R1095_FR.32#2|article 32, paragraphe 2 du règlement (UE) no 1095/2010]].
+a) procède, au moins une fois par an, à un examen par les pairs des activités de surveillance de toutes les autorités compétentes se rapportant à l'agrément et à la surveillance des contreparties centrales conformément à l'article 30 du règlement (UE) no 1095/2010; et
+b) organise et coordonne, au moins une fois par an, à l'échelle de l'Union, des évaluations de la résilience des contreparties centrales face à des évolutions négatives des marchés conformément à l'article 32, paragraphe 2, du règlement (UE) no 1095/2010.
 
-Lorsqu'une évaluation, au sens du deuxième alinéa, point b), révèle des carences dans la résilience d'une ou de plusieurs contreparties centrales, l'AEMF émet les recommandations nécessaires conformément à l'[[2010R1095_FR.16|article 16 du règlement (UE) no 1095/2010]].
+Lorsqu'une évaluation, au sens du deuxième alinéa, point b), révèle des carences dans la résilience d'une ou de plusieurs contreparties centrales, l'AEMF émet les recommandations nécessaires conformément à l'article 16 du règlement (UE) no 1095/2010.
 
 Surveillance et contrôle des contreparties centrales

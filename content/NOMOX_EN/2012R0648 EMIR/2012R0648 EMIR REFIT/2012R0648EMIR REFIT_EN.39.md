@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.39]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.39]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.38|Article 38 – Transparency]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.40|Article 40 – Exposure management]]
 >
-
-
 
 # Article 39 - Segregation and portability
 
@@ -39,7 +37,7 @@ A CCP shall have a right of use relating to the margins or default fund contribu
 
 16
 
-) provided that the use of such arrangements is provided for in its operating rules. The clearing member shall confirm its acceptance of the operating rules in writing. The CCP shall publicly disclose that right of use, which shall be exercised in accordance with [[2012R0648EMIR REFIT_EN.47|Article 47]].
+) provided that the use of such arrangements is provided for in its operating rules. The clearing member shall confirm its acceptance of the operating rules in writing. The CCP shall publicly disclose that right of use, which shall be exercised in accordance with Article 47.
 ## 9.
 The requirement to distinguish assets and positions with the CCP in accounts is satisfied where:
 

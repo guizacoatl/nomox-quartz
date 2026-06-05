@@ -11,27 +11,25 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.63]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.63]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.62|Article 62 – Enquêtes générales]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.64|Article 64 – Règles de procédure pour l'adoption de mesures de surveillance et l'imposition d'amendes]]
 >
 
-
-
 # Article 63 - Inspections sur place
 
 ## 1.
-Pour s'acquitter de ses missions au titre du présent règlement, l'AEMF peut procéder à toutes les inspections sur place nécessaires dans les locaux, sur les terrains ou dans les biens immobiliers professionnels des personnes morales visées à l'[[2012R0648EMIR REFIT_FR.61#1|article 61, paragraphe 1]]. Lorsque la bonne conduite et l'efficacité de l'inspection l'exigent, l'AEMF peut procéder à une inspection sur place sans préavis.
+Pour s'acquitter de ses missions au titre du présent règlement, l'AEMF peut procéder à toutes les inspections sur place nécessaires dans les locaux, sur les terrains ou dans les biens immobiliers professionnels des personnes morales visées à l'article 61, paragraphe 1. Lorsque la bonne conduite et l'efficacité de l'inspection l'exigent, l'AEMF peut procéder à une inspection sur place sans préavis.
 ## 2.
-Les agents de l'AEMF et les autres personnes mandatées par celle-ci pour procéder à une inspection sur place peuvent pénétrer dans les locaux, sur les terrains et dans les biens immobiliers professionnels des personnes morales qui font l'objet d'une décision d'enquête arrêtée par l'AEMF et sont investis de tous les pouvoirs visés à l'[[2012R0648EMIR REFIT_FR.62#1|article 62, paragraphe 1]]. Ils ont également le pouvoir d'apposer des scellés sur tous les locaux professionnels et livres ou documents pendant la durée de l'inspection et dans la mesure où cela est nécessaire aux fins de celle-ci.
+Les agents de l'AEMF et les autres personnes mandatées par celle-ci pour procéder à une inspection sur place peuvent pénétrer dans les locaux, sur les terrains et dans les biens immobiliers professionnels des personnes morales qui font l'objet d'une décision d'enquête arrêtée par l'AEMF et sont investis de tous les pouvoirs visés à l'article 62, paragraphe 1. Ils ont également le pouvoir d'apposer des scellés sur tous les locaux professionnels et livres ou documents pendant la durée de l'inspection et dans la mesure où cela est nécessaire aux fins de celle-ci.
 ## 3.
-Les agents de l'AEMF et les autres personnes mandatés par celle-ci pour procéder à une inspection sur place exercent leurs pouvoirs sur présentation d'un mandat écrit qui indique l'objet et le but de l'inspection, ainsi que les astreintes prévues à l'[[2012R0648EMIR REFIT_FR.66|article 66]] dans le cas où les personnes concernées ne se soumettent pas à l'inspection. En temps utile avant l'inspection, l'AEMF avise l'autorité compétente de l'État membre dans lequel l'inspection doit être effectuée.
+Les agents de l'AEMF et les autres personnes mandatés par celle-ci pour procéder à une inspection sur place exercent leurs pouvoirs sur présentation d'un mandat écrit qui indique l'objet et le but de l'inspection, ainsi que les astreintes prévues à l'article 66 dans le cas où les personnes concernées ne se soumettent pas à l'inspection. En temps utile avant l'inspection, l'AEMF avise l'autorité compétente de l'État membre dans lequel l'inspection doit être effectuée.
 ## 4.
-Les personnes visées à l'[[2012R0648EMIR REFIT_FR.61#1|article 61, paragraphe 1]], sont tenues de se soumettre aux inspections sur place ordonnées par voie de décision de l'AEMF. La décision indique l'objet et le but de l'inspection, précise la date à laquelle elle commence et indique les astreintes prévues à l'[[2012R0648EMIR REFIT_FR.66|article 66]], les voies de droit existant en vertu du règlement (UE) no 1095/2010 et le droit de recours qui peut être ouvert devant la Cour de justice. L'AEMF prend ces décisions après avoir consulté l'autorité compétente de l'État membre dans lequel l'inspection doit être effectuée.
+Les personnes visées à l'article 61, paragraphe 1, sont tenues de se soumettre aux inspections sur place ordonnées par voie de décision de l'AEMF. La décision indique l'objet et le but de l'inspection, précise la date à laquelle elle commence et indique les astreintes prévues à l'article 66, les voies de droit existant en vertu du règlement (UE) no 1095/2010 et le droit de recours qui peut être ouvert devant la Cour de justice. L'AEMF prend ces décisions après avoir consulté l'autorité compétente de l'État membre dans lequel l'inspection doit être effectuée.
 ## 5.
 Les agents de l'autorité compétente de l'État membre dans lequel l'inspection doit être effectuée, ainsi que les agents mandatés ou désignés par celle-ci, prêtent, à la demande de l'AEMF, activement assistance aux agents de l'AEMF et aux autres personnes mandatés par celle-ci. Ils disposent à cette fin des pouvoirs définis au paragraphe 2. Les agents de l'autorité compétente de l'État membre concerné peuvent également, sur demande, assister aux inspections sur place.
 ## 6.
-L'AEMF peut également demander aux autorités compétentes d'accomplir, en son nom, des missions d'enquête spécifiques et des inspections sur place prévues par le présent article et par l'[[2012R0648EMIR REFIT_FR.62#1|article 62, paragraphe 1]]. Les autorités compétentes disposent à cette fin des mêmes pouvoirs que l'AEMF, qui sont définis dans le présent article et à l'[[2012R0648EMIR REFIT_FR.62#1|article 62, paragraphe 1]].
+L'AEMF peut également demander aux autorités compétentes d'accomplir, en son nom, des missions d'enquête spécifiques et des inspections sur place prévues par le présent article et par l'article 62, paragraphe 1. Les autorités compétentes disposent à cette fin des mêmes pouvoirs que l'AEMF, qui sont définis dans le présent article et à l'article 62, paragraphe 1.
 ## 7.
 Lorsque les agents de l'AEMF et les autres personnes mandatées par celle-ci qui les accompagnent constatent qu'une personne s'oppose à une inspection ordonnée en vertu du présent article, l'autorité compétente de l'État membre concerné leur prête l'assistance nécessaire, en requérant, au besoin, l'assistance de la force publique ou d'une autorité disposant d'un pouvoir de contrainte équivalent, pour leur permettre d'effectuer leur inspection sur place.
 ## 8.

@@ -8,30 +8,28 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.80]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.80]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.79|Article 79 – Operational reliability]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.81|Article 81 – Transparency and data availability]]
 >
 
-
-
 # Article 80 - Safeguarding and recording
 
 ## 1.
-A trade repository shall ensure the confidentiality, integrity and protection of the information received under [[2012R0648EMIR REFIT_EN.9|Article 9]].
+A trade repository shall ensure the confidentiality, integrity and protection of the information received under Article 9.
 ## 2.
 A trade repository may only use the data it receives under this Regulation for commercial purposes if the relevant counterparties have provided their consent.
 ## 3.
-A trade repository shall promptly record the information received under [[2012R0648EMIR REFIT_EN.9|Article 9]] and shall maintain it for at least 10 years following the termination of the relevant contracts. It shall employ timely and efficient record keeping procedures to document changes to recorded information.
+A trade repository shall promptly record the information received under Article 9 and shall maintain it for at least 10 years following the termination of the relevant contracts. It shall employ timely and efficient record keeping procedures to document changes to recorded information.
 ## 4.
-A trade repository shall calculate the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with [[2012R0648EMIR REFIT_EN.9|Article 9]].
+A trade repository shall calculate the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with Article 9.
 ## 5.
 A trade repository shall allow the parties to a contract to access and correct the information on that contract in a timely manner.
 
-5a.  Upon request, a trade repository shall provide counterparties that are not required to report the details of their OTC derivative contracts pursuant to [[2012R0648EMIR REFIT_EN.9|Article 9]](1a) to (1d) and counterparties and CCPs which have delegated their reporting obligation pursuant to [[2012R0648EMIR REFIT_EN.9|Article 9]](1f) with access to the information reported on their behalf.
+5a.  Upon request, a trade repository shall provide counterparties that are not required to report the details of their OTC derivative contracts pursuant to Article 9(1a) to (1d) and counterparties and CCPs which have delegated their reporting obligation pursuant to Article 9(1f) with access to the information reported on their behalf.
 ## 6.
 A trade repository shall take all reasonable steps to prevent any misuse of the information maintained in its systems.
 

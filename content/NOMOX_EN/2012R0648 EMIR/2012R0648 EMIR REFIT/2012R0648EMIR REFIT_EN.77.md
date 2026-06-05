@@ -8,28 +8,26 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.77]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.77]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.76a|Article 76a – Mutual direct access to data]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.78|Article 78 – General requirements]]
 >
 
-
-
 # Article 77 - Recognition of trade repositories
 
 ## 1.
-A trade repository established in a third country may provide its services and activities to entities established in the Union for the purposes of [[2012R0648EMIR REFIT_EN.9|Article 9]] only after its recognition by ESMA in accordance with paragraph 2.
+A trade repository established in a third country may provide its services and activities to entities established in the Union for the purposes of Article 9 only after its recognition by ESMA in accordance with paragraph 2.
 ## 2.
 A trade repository referred to in paragraph 1 shall submit to ESMA its application for recognition together with all necessary information, including at least the information necessary to verify that the trade repository is authorised and subject to effective supervision in a third country which:
 
-(a) has been recognised by the Commission, by means of an implementing act pursuant to [[2012R0648EMIR REFIT_EN.75#1|Article 75(1)]], as having an equivalent and enforceable regulatory and supervisory framework;
+(a) has been recognised by the Commission, by means of an implementing act pursuant to Article 75(1), as having an equivalent and enforceable regulatory and supervisory framework;
 
-(b) has entered into an international agreement with the Union pursuant to [[2012R0648EMIR REFIT_EN.75#2|Article 75(2)]]; and
+(b) has entered into an international agreement with the Union pursuant to Article 75(2); and
 
-(c) has entered into cooperation arrangements pursuant to [[2012R0648EMIR REFIT_EN.75#3|Article 75(3)]] to ensure that Union authorities, including ESMA, have immediate and continuous access to all the necessary information.
+(c) has entered into cooperation arrangements pursuant to Article 75(3) to ensure that Union authorities, including ESMA, have immediate and continuous access to all the necessary information.
 
 Within 30 working days of receipt of the application, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant trade repository has to provide additional information.
 

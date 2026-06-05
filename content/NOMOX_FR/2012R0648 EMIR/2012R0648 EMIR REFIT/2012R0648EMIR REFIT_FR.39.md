@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.39]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.39]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.38|Article 38 – Transparence]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.40|Article 40 – Gestion de l'exposition]]
 >
-
-
 
 # Article 39 - Ségrégation et portabilité
 
@@ -35,11 +33,11 @@ Lorsqu'un client opte pour une ségrégation individuelle par client, toute marg
 ## 7.
 Les contreparties centrales et les membres compensateurs rendent publics les niveaux de protection et les coûts associés aux différents niveaux de ségrégation qu'ils offrent et proposent ces services à des conditions commerciales raisonnables. Les informations relatives aux différents niveaux de ségrégation comportent la description des principales conséquences juridiques de chaque niveau de ségrégation proposé, y compris des informations sur le droit en matière d'insolvabilité applicable dans les pays et territoires concernés.
 ## 8.
-Les contreparties centrales ont un droit d'utilisation à l'égard des marges ou contributions aux fonds de défaillance collectées par l'intermédiaire d'un contrat de garantie (collateral) financière avec constitution de sûreté, au sens de l'[[2012R0648EMIR REFIT_FR.2#1#c)|article 2, paragraphe 1, point c)]], de la directive 2002/47/CE du Parlement européen et du Conseil du 6 juin 2002 concernant les contrats de garantie financière (
+Les contreparties centrales ont un droit d'utilisation à l'égard des marges ou contributions aux fonds de défaillance collectées par l'intermédiaire d'un contrat de garantie (collateral) financière avec constitution de sûreté, au sens de l'article 2, paragraphe 1, point c), de la directive 2002/47/CE du Parlement européen et du Conseil du 6 juin 2002 concernant les contrats de garantie financière (
 
 16
 
-), à condition que le recours à ce type de contrats soit prévu par leurs règles de fonctionnement. Le membre compensateur confirme son acceptation des règles de fonctionnement par écrit. Les contreparties centrales rendent public ledit droit d'utilisation, qui est exercé conformément à l'[[2012R0648EMIR REFIT_FR.47|article 47]].
+), à condition que le recours à ce type de contrats soit prévu par leurs règles de fonctionnement. Le membre compensateur confirme son acceptation des règles de fonctionnement par écrit. Les contreparties centrales rendent public ledit droit d'utilisation, qui est exercé conformément à l'article 47.
 ## 9.
 Il est satisfait à l'obligation de distinguer, dans la comptabilité, les actifs et positions auprès de la contrepartie centrale dès lors que:
 a) les actifs et positions sont enregistrés dans des comptes distincts;

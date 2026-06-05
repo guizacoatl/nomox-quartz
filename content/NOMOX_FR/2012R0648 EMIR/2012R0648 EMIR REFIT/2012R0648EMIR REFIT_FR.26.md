@@ -11,12 +11,10 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.26]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.26]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.25|Article 25 – Reconnaissance d'une contrepartie centrale d'un pays tiers]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.27|Article 27 – Instances dirigeantes et conseil d'administration]]
 >
-
-
 
 # Article 26 - Dispositions générales
 
@@ -41,4 +39,4 @@ Afin d'assurer une application cohérente du présent article, l'AEMF élabore, 
 
 L'AEMF soumet ces projets de normes techniques de réglementation à la Commission, au plus tard le 30 septembre 2012.
 
-Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles [[2010R1095_FR.10|10]] à [[2010R1095_FR.14|14]] du règlement (UE) no 1095/2010.
+Est délégué à la Commission le pouvoir d'adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.

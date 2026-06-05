@@ -8,21 +8,19 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.72]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.72]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.71|Article 71 – Withdrawal of registration]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.73|Article 73 – Supervisory measures by ESMA]]
 >
 
-
-
 # Article 72 - Supervisory fees
 
 ## 1.
-ESMA shall charge fees to the trade repositories in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3. Those fees shall fully cover ESMA’s necessary expenditure relating to the registration and supervision of trade repositories and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation in particular as a result of any delegation of tasks in accordance with [[2012R0648EMIR REFIT_EN.74|Article 74]].
+ESMA shall charge fees to the trade repositories in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3. Those fees shall fully cover ESMA’s necessary expenditure relating to the registration and supervision of trade repositories and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation in particular as a result of any delegation of tasks in accordance with Article 74.
 ## 2.
 The amount of any fee charged to a trade repository shall cover all reasonable administrative costs incurred by ESMA in relation to its registration and ESMA's supervisory activities and shall be proportionate to the turnover of the trade repository concerned and the type of registration and supervision exercised by ESMA.
 ## 3.
-The Commission shall adopt a delegated act in accordance with [[2012R0648EMIR REFIT_EN.82|Article 82]] to specify further the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
+The Commission shall adopt a delegated act in accordance with Article 82 to specify further the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.

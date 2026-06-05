@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.75]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.75]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.74|Article 74 – Delegation of tasks by ESMA to competent authorities]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.76|Article 76 – Cooperation arrangements]]
 >
-
-
 
 # Article 75 - Equivalence and international agreements
 
@@ -29,7 +27,7 @@ The Commission may adopt an implementing act determining that the legal and supe
 
 (c) guarantees of professional secrecy exist, including the protection of business secrets shared with third parties by the authorities, and they are at least equivalent to those set out in this Regulation.
 
-That implementing act shall be adopted in accordance with the examination procedure referred to in [[2012R0648EMIR REFIT_EN.86#2|Article 86(2)]].
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 86(2).
 ## 2.
 Where appropriate, and in any case after adopting an implementing act as referred to in paragraph 1, the Commission shall submit recommendations to the Council for the negotiation of international agreements with the relevant third countries regarding mutual access to, and exchange of information on, derivative contracts held in trade repositories which are established in that third country, in a way that ensures that Union authorities, including ESMA, have immediate and continuous access to all the information needed for the exercise of their duties.
 ## 3.

@@ -8,22 +8,20 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.12]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.12]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.11|Article 11 – Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.13|Article 13 – Mechanism to avoid duplicative or conflicting rules]]
 >
-
-
 
 # Article 12 - Penalties
 
 ## 1.
 Member States shall lay down the rules on penalties applicable to infringements of the rules under this Title and shall take all measures necessary to ensure that they are implemented. Those penalties shall include at least administrative fines. The penalties provided for shall be effective, proportionate and dissuasive.
 ## 2.
-Member States shall ensure that the competent authorities responsible for the supervision of financial, and, where appropriate, non-financial counterparties disclose every penalty that has been imposed for infringements of Articles [[2012R0648EMIR REFIT_EN.4|4]], [[2012R0648EMIR REFIT_EN.5|5]] and [[2012R0648EMIR REFIT_EN.7|7]] to 11 to the public, unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Member States shall, at regular intervals, publish assessment reports on the effectiveness of the penalty rules being applied. Such disclosure and publication shall not contain personal data within the meaning of Article 2(a) of Directive 95/46/EC.
+Member States shall ensure that the competent authorities responsible for the supervision of financial, and, where appropriate, non-financial counterparties disclose every penalty that has been imposed for infringements of Articles 4, 5 and 7 to 11 to the public, unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Member States shall, at regular intervals, publish assessment reports on the effectiveness of the penalty rules being applied. Such disclosure and publication shall not contain personal data within the meaning of Article 2(a) of Directive 95/46/EC.
 
 By 17 February 2013, the Member States shall notify the rules referred to in paragraph 1 to the Commission. They shall notify the Commission of any subsequent amendment thereto without delay.
 ## 3.

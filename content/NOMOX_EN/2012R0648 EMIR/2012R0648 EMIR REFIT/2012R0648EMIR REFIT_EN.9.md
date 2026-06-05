@@ -8,20 +8,18 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.9]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.9]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.8|Article 8 – Access to a trading venue]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.10|Article 10 – Non-financial counterparties]]
 >
 
-
-
 # Article 9 - Reporting obligation
 
 ## 1.
-Counterparties and CCPs shall ensure that the details of any derivative contract they have concluded and of any modification or termination of the contract are reported in accordance with paragraphs 1a to 1f of this Article to a trade repository registered in accordance with [[2012R0648EMIR REFIT_EN.55|Article 55]] or recognised in accordance with [[2012R0648EMIR REFIT_EN.77|Article 77]]. The details shall be reported no later than the working day following the conclusion, modification or termination of the contract.
+Counterparties and CCPs shall ensure that the details of any derivative contract they have concluded and of any modification or termination of the contract are reported in accordance with paragraphs 1a to 1f of this Article to a trade repository registered in accordance with Article 55 or recognised in accordance with Article 77. The details shall be reported no later than the working day following the conclusion, modification or termination of the contract.
 
 The reporting obligation shall apply to derivative contracts which:
 
@@ -29,7 +27,7 @@ The reporting obligation shall apply to derivative contracts which:
 
 (b) were entered into on or after 12 February 2014.
 
-Notwithstanding [[2012R0648EMIR REFIT_EN.3|Article 3]], the reporting obligation shall not apply to derivative contracts within the same group where at least one of the counterparties is a non-financial counterparty or would be qualified as a non-financial counterparty if it were established in the Union, provided that:
+Notwithstanding Article 3, the reporting obligation shall not apply to derivative contracts within the same group where at least one of the counterparties is a non-financial counterparty or would be qualified as a non-financial counterparty if it were established in the Union, provided that:
 
 (a) both counterparties are included in the same consolidation on a full basis;
 
@@ -47,7 +45,7 @@ Counterparties shall keep a record of any derivative contract they have conclude
 ## 3.
 Where a trade repository is not available to record the details of a derivative contract, counterparties and CCPs shall ensure that such details are reported to ESMA.
 
-In this case ESMA shall ensure that all the relevant entities referred to in [[2012R0648EMIR REFIT_EN.81#3|Article 81(3)]] have access to all the details of derivative contracts they need to fulfil their respective responsibilities and mandates.
+In this case ESMA shall ensure that all the relevant entities referred to in Article 81(3) have access to all the details of derivative contracts they need to fulfil their respective responsibilities and mandates.
 ## 4.
 A counterparty or a CCP that reports the details of a derivative contract to a trade repository or to ESMA, or an entity that reports such details on behalf of a counterparty or a CCP shall not be considered in breach of any restriction on disclosure of information imposed by that contract or by any legislative, regulatory or administrative provision.
 
@@ -63,7 +61,7 @@ The reports referred to in paragraphs 1 and 3 shall specify at least:
 
 ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
 
-Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles [[2010R1095_EN.10|10]] to [[2010R1095_EN.14|14]] of Regulation (EU) No 1095/2010.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
 ## 6.
 To ensure uniform conditions of application of paragraphs 1 and 3, ESMA shall, in close cooperation with the ESCB, develop draft implementing technical standards specifying:
 
@@ -81,12 +79,12 @@ To ensure uniform conditions of application of paragraphs 1 and 3, ESMA shall, i
 
 (d) the date by which derivative contracts are to be reported.
 
-In developing those draft implementing technical standards, ESMA shall take into account international developments and standards agreed upon at Union or global level, and their consistency with the reporting requirements laid down in [[2015R2365_EN.4|Article 4 of Regulation (EU) 2365/2015]] (
+In developing those draft implementing technical standards, ESMA shall take into account international developments and standards agreed upon at Union or global level, and their consistency with the reporting requirements laid down in Article 4 of Regulation (EU) 2015/2365 (
 
 13
 
-) and [[2014R0600_EN.26|Article 26 of Regulation (EU) No 600/2014]].
+) and Article 26 of Regulation (EU) No 600/2014.
 
 ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.
 
-Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with [[2010R1095_EN.15|Article 15 of Regulation (EU) No 1095/2010]].
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

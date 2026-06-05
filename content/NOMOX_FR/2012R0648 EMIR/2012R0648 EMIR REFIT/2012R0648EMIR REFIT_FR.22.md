@@ -11,19 +11,17 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.22]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.22]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.21|Article 21 – Réexamen et évaluation]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.23|Article 23 – Coopération entre autorités]]
 >
-
-
 
 # Article 22 - Autorité compétente
 
 ## 1.
 Chaque État membre désigne l'autorité compétente chargée de mener à bien les missions résultant du présent règlement en ce qui concerne l'agrément et la surveillance des contreparties centrales établies sur son territoire, et en informe la Commission et l'AEMF.
 
-Si un État membre désigne plusieurs autorités compétentes, il indique clairement leurs rôles respectifs et délègue à une seule d'entre elles la responsabilité de coordonner la coopération et l'échange d'informations avec la Commission, l'AEMF, les autorités compétentes des autres États membres, l'ABE et les membres concernés du SEBC, conformément aux articles [[2012R0648EMIR REFIT_FR.23|23]], [[2012R0648EMIR REFIT_FR.24|24]], [[2012R0648EMIR REFIT_FR.83|83]] et [[2012R0648EMIR REFIT_FR.84|84]].
+Si un État membre désigne plusieurs autorités compétentes, il indique clairement leurs rôles respectifs et délègue à une seule d'entre elles la responsabilité de coordonner la coopération et l'échange d'informations avec la Commission, l'AEMF, les autorités compétentes des autres États membres, l'ABE et les membres concernés du SEBC, conformément aux articles 23, 24, 83 et 84.
 ## 2.
 Les États membres veillent à ce que l'autorité compétente dispose des pouvoirs de surveillance et d'enquête nécessaires pour l'exercice de ses fonctions.
 ## 3.

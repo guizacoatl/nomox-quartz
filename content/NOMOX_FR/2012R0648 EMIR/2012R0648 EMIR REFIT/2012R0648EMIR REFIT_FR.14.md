@@ -11,19 +11,17 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.14]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.14]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.13|Article 13 – Mécanisme destiné à éviter les doubles emplois ou les conflits de règles]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.15|Article 15 – Extension des activités et des services]]
 >
 
-
-
 # Article 14 - Agrément d'une contrepartie centrale
 
 ## 1.
-Lorsqu'une personne morale établie dans l'Union envisage de fournir des services de compensation en tant que contrepartie centrale, elle demande un agrément à l'autorité compétente de l'État membre où elle est établie (ci-après dénommée «autorité compétente de la contrepartie centrale»), conformément à la procédure énoncée à l'[[2012R0648EMIR REFIT_FR.17|article 17]].
+Lorsqu'une personne morale établie dans l'Union envisage de fournir des services de compensation en tant que contrepartie centrale, elle demande un agrément à l'autorité compétente de l'État membre où elle est établie (ci-après dénommée «autorité compétente de la contrepartie centrale»), conformément à la procédure énoncée à l'article 17.
 ## 2.
-Une fois que l'agrément a été accordé conformément à l'[[2012R0648EMIR REFIT_FR.17|article 17]], il est valable pour l'ensemble du territoire de l'Union.
+Une fois que l'agrément a été accordé conformément à l'article 17, il est valable pour l'ensemble du territoire de l'Union.
 ## 3.
 L'agrément visé au paragraphe 1 n'est accordé que pour des activités liées à la compensation et précise les services ou activités que la contrepartie centrale peut fournir ou exercer, y compris les catégories d'instruments financiers couvertes par cet agrément.
 ## 4.

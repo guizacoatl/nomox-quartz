@@ -11,25 +11,23 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.66]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.66]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.65|Article 65 – Amendes]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.67|Article 67 – Audition des personnes concernées]]
 >
-
-
 
 # Article 66 - Astreintes
 
 ## 1.
 L'AEMF inflige, par voie de décision, des astreintes afin de contraindre:
-a) un référentiel central à mettre un terme à une infraction, conformément à une décision prise en vertu de l'[[2012R0648EMIR REFIT_FR.73#1#a)|article 73, paragraphe 1, point a)]]; ou
-b) une personne visée à l'[[2012R0648EMIR REFIT_FR.61#1|article 61, paragraphe 1]]:
+a) un référentiel central à mettre un terme à une infraction, conformément à une décision prise en vertu de l'article 73, paragraphe 1, point a); ou
+b) une personne visée à l'article 61, paragraphe 1:
 #### i)
-à fournir les renseignements complets qui ont été demandés par voie de décision conformément à l'[[2012R0648EMIR REFIT_FR.61|article 61]];
+à fournir les renseignements complets qui ont été demandés par voie de décision conformément à l'article 61;
 #### ii)
-à se soumettre à une enquête et, en particulier, à fournir des dossiers, des données et des procédures complets ou tout autre document exigé, et à compléter et rectifier d'autres informations fournies dans le cadre d'une enquête lancée par voie de décision prise en vertu de l'[[2012R0648EMIR REFIT_FR.62|article 62]]; ou
+à se soumettre à une enquête et, en particulier, à fournir des dossiers, des données et des procédures complets ou tout autre document exigé, et à compléter et rectifier d'autres informations fournies dans le cadre d'une enquête lancée par voie de décision prise en vertu de l'article 62; ou
 #### iii)
-) à se soumettre à une inspection sur place ordonnée par voie de décision prise en vertu de l'[[2012R0648EMIR REFIT_FR.63|article 63]].
+) à se soumettre à une inspection sur place ordonnée par voie de décision prise en vertu de l'article 63.
 ## 2.
 Une astreinte est effective et proportionnée. Une astreinte est appliquée pour chaque jour de retard.
 ## 3.

@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.1]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.1]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > *Retour au [[2012R0648EMIR REFIT_EN.0|sommaire]]* ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.2|Article 2 – Definitions]]
 >
-
-
 
 # Article 1 - Subject matter and scope
 
@@ -50,11 +48,11 @@ This Regulation shall not apply to:
 
 (viii) Switzerland.
 ## 5.
-With the exception of the reporting obligation under [[2012R0648EMIR REFIT_EN.9|Article 9]], this Regulation shall not apply to the following entities:
+With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
 
 (c) the European Financial Stability Facility and the European Stability Mechanism.
 ## 6.
-The Commission shall be empowered to adopt delegated acts in accordance with [[2012R0648EMIR REFIT_EN.82|Article 82]] to amend the list set out in paragraph 4 of this Article.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.
 
 To that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.
 

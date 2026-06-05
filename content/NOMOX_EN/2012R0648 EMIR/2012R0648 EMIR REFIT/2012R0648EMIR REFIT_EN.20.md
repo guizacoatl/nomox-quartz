@@ -8,20 +8,18 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.20]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.20]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.19|Article 19 – Opinion of the college]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.21|Article 21 – Review and evaluation]]
 >
 
-
-
 # Article 20 - Withdrawal of authorisation
 
 ## 1.
-Without prejudice to [[2012R0648EMIR REFIT_EN.22#3|Article 22(3)]], the CCP’s competent authority shall withdraw authorisation where the CCP:
+Without prejudice to Article 22(3), the CCP’s competent authority shall withdraw authorisation where the CCP:
 
 (a) has not made use of the authorisation within 12 months, expressly renounces the authorisation or has provided no services or performed no activity for the preceding six months;
 

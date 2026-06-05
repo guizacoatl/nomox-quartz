@@ -8,24 +8,22 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.73]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.73]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.72|Article 72 – Supervisory fees]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.74|Article 74 – Delegation of tasks by ESMA to competent authorities]]
 >
 
-
-
 # Article 73 - Supervisory measures by ESMA
 
 ## 1.
-Where, in accordance with [[2012R0648EMIR REFIT_EN.64#5|Article 64(5)]], ESMA finds that a trade repository has committed one of the infringements listed in Annex I, it shall take one or more of the following decisions:
+Where, in accordance with Article 64(5), ESMA finds that a trade repository has committed one of the infringements listed in Annex I, it shall take one or more of the following decisions:
 
 (a) requiring the trade repository to bring the infringement to an end;
 
-(b) imposing fines under [[2012R0648EMIR REFIT_EN.65|Article 65]];
+(b) imposing fines under Article 65;
 
 (c) issuing public notices;
 
@@ -43,4 +41,4 @@ When taking the decisions referred to in paragraph 1, ESMA shall take into accou
 ## 3.
 Without undue delay, ESMA shall notify any decision adopted pursuant to paragraph 1 to the trade repository concerned, and shall communicate it to the competent authorities of the Member States and to the Commission. It shall publicly disclose any such decision on its website within 10 working days from the date when it was adopted.
 
-When making public its decision as referred to in the first subparagraph, ESMA shall also make public the right of the trade repository concerned to appeal the decision, the fact, where relevant, that such an appeal has been lodged, specifying that such an appeal does not have suspensive effect, and the fact that it is possible for ESMA’s Board of Appeal to suspend the application of the contested decision in accordance with [[2010R1095_EN.60#3|Article 60(3) of Regulation (EU) No 1095/2010]].
+When making public its decision as referred to in the first subparagraph, ESMA shall also make public the right of the trade repository concerned to appeal the decision, the fact, where relevant, that such an appeal has been lodged, specifying that such an appeal does not have suspensive effect, and the fact that it is possible for ESMA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1095/2010.

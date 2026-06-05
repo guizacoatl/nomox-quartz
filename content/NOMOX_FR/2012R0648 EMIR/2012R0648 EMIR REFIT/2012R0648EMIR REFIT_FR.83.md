@@ -11,17 +11,15 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.83]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.83]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.82|Article 82 – Exercice de la délégation]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.84|Article 84 – Échange d'informations]]
 >
 
-
-
 # Article 83 - Secret professionnel
 
 ## 1.
-Toutes les personnes travaillant ou ayant travaillé pour les autorités compétentes désignées conformément à l'[[2012R0648EMIR REFIT_FR.22|article 22]] et les autorités visées à l'[[2012R0648EMIR REFIT_FR.81#3|article 81, paragraphe 3]], pour l'AEMF ou pour les auditeurs et experts mandatés par les autorités compétentes ou l'AEMF, sont tenues au secret professionnel. Aucune information confidentielle que ces personnes reçoivent dans l'exercice de leurs fonctions n'est divulguée à quelque autre personne ou autorité que ce soit, sauf sous une forme résumée ou agrégée empêchant l'identification des contreparties centrales, des référentiels centraux ou de toute autre personne concernée, sans préjudice des cas relevant du droit pénal ou fiscal ou du présent règlement.
+Toutes les personnes travaillant ou ayant travaillé pour les autorités compétentes désignées conformément à l'article 22 et les autorités visées à l'article 81, paragraphe 3, pour l'AEMF ou pour les auditeurs et experts mandatés par les autorités compétentes ou l'AEMF, sont tenues au secret professionnel. Aucune information confidentielle que ces personnes reçoivent dans l'exercice de leurs fonctions n'est divulguée à quelque autre personne ou autorité que ce soit, sauf sous une forme résumée ou agrégée empêchant l'identification des contreparties centrales, des référentiels centraux ou de toute autre personne concernée, sans préjudice des cas relevant du droit pénal ou fiscal ou du présent règlement.
 ## 2.
 Lorsqu'une contrepartie centrale a été déclarée en faillite ou qu'elle est mise en liquidation forcée, les informations confidentielles qui ne concernent pas des tiers peuvent être divulguées dans le cadre de procédures civiles ou commerciales, à condition d'être nécessaires au déroulement de la procédure.
 ## 3.

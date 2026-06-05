@@ -11,17 +11,15 @@ version: 1
 last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.65]]. Ouvrir le [[CELEX_02012R0648-20190617_FR_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.65]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_FR.64|Article 64 – Règles de procédure pour l'adoption de mesures de surveillance et l'imposition d'amendes]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_FR.66|Article 66 – Astreintes]]
 >
 
-
-
 # Article 65 - Amendes
 
 ## 1.
-Lorsque, conformément à l'[[2012R0648EMIR REFIT_FR.64#5|article 64, paragraphe 5]], l'AEMF constate qu'un référentiel central a, délibérément ou par négligence, commis une des infractions énumérées à l'annexe I, elle adopte une décision infligeant une amende conformément au paragraphe 2 du présent article.
+Lorsque, conformément à l'article 64, paragraphe 5, l'AEMF constate qu'un référentiel central a, délibérément ou par négligence, commis une des infractions énumérées à l'annexe I, elle adopte une décision infligeant une amende conformément au paragraphe 2 du présent article.
 
 Un référentiel central est réputé avoir commis délibérément une infraction si l'AEMF constate que des facteurs objectifs démontrent que le référentiel central ou ses instances dirigeantes ont délibérément agi dans le but de commettre cette infraction.
 ## 2.

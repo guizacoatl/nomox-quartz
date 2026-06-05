@@ -8,19 +8,17 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.23]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.23]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.22|Article 22 – Competent authority]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.24|Article 24 – Emergency situations]]
 >
-
-
 
 # Article 23 - Cooperation between authorities
 
 ## 1.
 Competent authorities shall cooperate closely with each other, with ESMA and, if necessary, with the ESCB.
 ## 2.
-Competent authorities shall, in the exercise of their general duties, duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned, in particular the emergency situations referred to in [[2012R0648EMIR REFIT_EN.24|Article 24]], based on the available information at the time.
+Competent authorities shall, in the exercise of their general duties, duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned, in particular the emergency situations referred to in Article 24, based on the available information at the time.

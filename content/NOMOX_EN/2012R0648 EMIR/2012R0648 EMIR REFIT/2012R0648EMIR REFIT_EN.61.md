@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.61]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.61]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.60|Article 60 – Exercise of the powers referred to in Articles 61 to 63]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.62|Article 62 – General investigations]]
 >
-
-
 
 # Article 61 - Request for information
 
@@ -43,7 +41,7 @@ When sending a simple request for information under paragraph 1, ESMA shall:
 
 (d) set a time limit within which the information is to be provided;
 
-(e) indicate the periodic penalty payments provided for in [[2012R0648EMIR REFIT_EN.66|Article 66]] where the production of the required information is incomplete;
+(e) indicate the periodic penalty payments provided for in Article 66 where the production of the required information is incomplete;
 ## 4.
 The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law or by their constitution shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
 ## 5.

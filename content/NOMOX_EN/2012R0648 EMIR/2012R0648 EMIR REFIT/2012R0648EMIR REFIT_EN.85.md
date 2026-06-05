@@ -8,15 +8,13 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-01
+last_update: 2026-06-05
 ---
 > [!info]+
-> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French version: [[2012R0648EMIR REFIT_FR.85]]. Open the [[CELEX_02012R0648-20190617_EN_TXT.pdf|PDF]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
+> 🔗 Back to [[2012R0648EMIR REFIT_EN.0|Summary]]. 🇫🇷 French Version: [[2012R0648EMIR REFIT_FR.85]]. Direct link to [EUR-LEX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0648-20190617).
 >
 > [[2012R0648EMIR REFIT_EN.84|Article 84 – Exchange of information]] ⬅️ | ➡️ [[2012R0648EMIR REFIT_EN.86|Article 86 – Committee procedure]]
 >
-
-
 
 # Article 85 - Reports and review
 
@@ -29,13 +27,13 @@ By 18 June 2024 the Commission shall assess the application of this Regulation a
 
 23
 
-) on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in [[2012R0648EMIR REFIT_EN.10#4|Article 10(4)]];
+) on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
 
 (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
 
-(c) the changes to the reporting framework, including the take-up and implementation of delegated reporting as laid down in [[2012R0648EMIR REFIT_EN.9|Article 9]](1a) and in particular its impact on the reporting burden for non-financial counterparties that are not subject to the clearing obligation;
+(c) the changes to the reporting framework, including the take-up and implementation of delegated reporting as laid down in Article 9(1a) and in particular its impact on the reporting burden for non-financial counterparties that are not subject to the clearing obligation;
 
-(d) the accessibility of clearing services, in particular whether the requirement to provide clearing services, directly or indirectly, under fair, reasonable, non-discriminatory and transparent commercial terms referred to in [[2012R0648EMIR REFIT_EN.4|Article 4]](3a) has been effective in facilitating access to clearing.
+(d) the accessibility of clearing services, in particular whether the requirement to provide clearing services, directly or indirectly, under fair, reasonable, non-discriminatory and transparent commercial terms referred to in Article 4(3a) has been effective in facilitating access to clearing.
 ## 2.
 By 18 June 2020, and every 12 months thereafter until the final extension referred to in the third subparagraph, the Commission shall prepare a report assessing whether viable technical solutions have been developed for the transfer by pension scheme arrangements of cash and non-cash collateral as variation margins and the need for any measures to facilitate those viable technical solutions.
 
@@ -47,13 +45,13 @@ ESMA shall, by 18 December 2019, and every 12 months thereafter until the final 
 
 (c) the consequences of pension scheme arrangements fulfilling the clearing requirement on their investment strategies, including any shift in their cash and non-cash asset allocation;
 
-(d) the implications of the clearing thresholds specified pursuant to point (b) of [[2012R0648EMIR REFIT_EN.10#4|Article 10(4)]] for pension scheme arrangements;
+(d) the implications of the clearing thresholds specified pursuant to point (b) of Article 10(4) for pension scheme arrangements;
 
 (e) the impact of other legal requirements on the cost differentials between cleared and non-cleared OTC derivative contracts, including margin requirements for non-cleared derivatives and the calculation of the leverage ratio in accordance with Regulation (EU) No 575/2013;
 
 (f) whether any further measures are necessary to facilitate a clearing solution for pension scheme arrangements.
 
-The Commission may adopt a delegated act in accordance with [[2012R0648EMIR REFIT_EN.82|Article 82]] to extend the two-year period referred to in [[2012R0648EMIR REFIT_EN.89#1|Article 89(1)]] twice, each time by one year, where it concludes that no viable technical solution has been developed and that the adverse effect of centrally clearing derivative contracts on the retirement benefits of future pensioners remains unchanged.
+The Commission may adopt a delegated act in accordance with Article 82 to extend the two-year period referred to in Article 89(1) twice, each time by one year, where it concludes that no viable technical solution has been developed and that the adverse effect of centrally clearing derivative contracts on the retirement benefits of future pensioners remains unchanged.
 
 CCPs, clearing members and pension scheme arrangements shall make their best efforts to contribute to the development of viable technical solutions that facilitate the clearing of OTC derivative contracts by such arrangements.
 
@@ -61,23 +59,23 @@ The Commission shall set up an expert group composed of representatives of CCPs,
 ## 3.
 By 18 December 2020 the Commission shall prepare a report assessing:
 
-(a) whether the obligations to report transactions under [[2014R0600_EN.26|Article 26 of Regulation (EU) No 600/2014]] and under this Regulation create a duplicative transaction reporting obligation for non-OTC derivatives and whether reporting of non-OTC transactions could be reduced or simplified for all counterparties without undue loss of information;
+(a) whether the obligations to report transactions under Article 26 of Regulation (EU) No 600/2014 and under this Regulation create a duplicative transaction reporting obligation for non-OTC derivatives and whether reporting of non-OTC transactions could be reduced or simplified for all counterparties without undue loss of information;
 
 (b) the necessity and appropriateness of aligning the trading obligation for derivatives under Regulation (EU) No 600/2014 with changes made under Regulation (EU) 2019/834 to the clearing obligation for derivatives, in particular to the scope of the entities that are subject to the clearing obligation;
 
-(c) whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4#1|Article 4(1)]], taking into account the extent to which those services mitigate risk, in particular counterparty credit risk and operational risk, the potential for circumvention of the clearing obligation and the potential disincentive to central clearing.
+(c) whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in Article 4(1), taking into account the extent to which those services mitigate risk, in particular counterparty credit risk and operational risk, the potential for circumvention of the clearing obligation and the potential disincentive to central clearing.
 
 The Commission shall submit the report referred to in the first subparagraph to the European Parliament and to the Council, together with any appropriate proposals.
 
 3a.  By 18 May 2020, ESMA shall submit a report to the Commission. That report shall assess:
 
-(a) the consistency of the reporting requirements for non-OTC derivatives under Regulation (EU) No 600/2014 and under [[2012R0648EMIR REFIT_EN.9|Article 9]] of this Regulation, both in terms of the details of the derivative contracts that are to be reported and access to data by the relevant entities and whether those requirements should be aligned;
+(a) the consistency of the reporting requirements for non-OTC derivatives under Regulation (EU) No 600/2014 and under Article 9 of this Regulation, both in terms of the details of the derivative contracts that are to be reported and access to data by the relevant entities and whether those requirements should be aligned;
 
-(b) the feasibility of further simplifying the reporting chains for all counterparties, including for all indirect clients, taking into account the need for timely reporting and taking into account the measures adopted pursuant to Article 4(4) of this Regulation and [[2014R0600_EN.30#2|Article 30(2) of Regulation (EU) No 600/2014]];
+(b) the feasibility of further simplifying the reporting chains for all counterparties, including for all indirect clients, taking into account the need for timely reporting and taking into account the measures adopted pursuant to Article 4(4) of this Regulation and Article 30(2) of Regulation (EU) No 600/2014;
 
 (c) the alignment of the trading obligation for derivatives under Regulation (EU) No 600/2014 with changes made under Regulation (EU) 2019/834 to the clearing obligation for derivatives, in particular to the scope of the entities that are subject to the clearing obligation;
 
-(d) in cooperation with the ESRB, whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in [[2012R0648EMIR REFIT_EN.4#1|Article 4(1)]]; that report shall:
+(d) in cooperation with the ESRB, whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in Article 4(1); that report shall:
 
 (i) investigate portfolio compression and other available non-price forming post-trade risk reduction services which reduce non-market risks in derivatives portfolios without changing the market risk of the portfolios, such as rebalancing transactions;
 
@@ -85,7 +83,7 @@ The Commission shall submit the report referred to in the first subparagraph to 
 
 (iii) assess to what extent any exemption from the clearing obligation for such services discourages central clearing and may lead to counterparties circumventing the clearing obligation;
 
-(e) whether the list of financial instruments that are considered highly liquid with minimal market and credit risk, in accordance with [[2012R0648EMIR REFIT_EN.47|Article 47]], could be extended and whether that list could include one or more money market funds authorised in accordance with Regulation (EU) 2017/1131 of the European Parliament and of the Council (
+(e) whether the list of financial instruments that are considered highly liquid with minimal market and credit risk, in accordance with Article 47, could be extended and whether that list could include one or more money market funds authorised in accordance with Regulation (EU) 2017/1131 of the European Parliament and of the Council (
 
 24
 
