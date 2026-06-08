@@ -3,7 +3,7 @@
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
 > 🧭 Chemin - Livre IV : Les marchés (Articles D411-2 à R465-4) > Titre Ier : L'appel public à l'épargne (Articles D411-2 à D411-4) > Chapitre Ier : Définition. (Articles D411-2 à D411-4)
->   ➡️ [[D411-2]]
+> [[R353-1]] ⬅️ |   ➡️ [[D411-2]]
 
 > [!warning] Article abrogé.
 

@@ -8,7 +8,7 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: FR
 version: 1
-last_update: 2026-06-05
+last_update: 2026-06-08
 ---
 > [!info]+
 > 🔗 Retour au [[2012R0648EMIR REFIT_FR.0|Sommaire]]. 🇬🇧 Version Anglaise: [[2012R0648EMIR REFIT_EN.38]]. Lien direct vers [EUR-LEX](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02012R0648-20190617).

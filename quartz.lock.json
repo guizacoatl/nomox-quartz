@@ -4,8 +4,8 @@
     "alias-redirects": {
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
-      "commit": "c46bc82fb9c93612902de6ab6880d28d7789b471",
-      "installedAt": "2026-05-31T19:48:59.655Z"
+      "commit": "493d659ce3e9b277a2e6bdfe482fda414e2dd334",
+      "installedAt": "2026-06-08T20:02:57.654Z"
     },
     "article-title": {
       "source": "github:quartz-community/article-title",
@@ -202,14 +202,14 @@
     "remove-draft": {
       "source": "github:quartz-community/remove-draft",
       "resolved": "https://github.com/quartz-community/remove-draft.git",
-      "commit": "0a51a4c6abb3c86961a9bbf46f4538da87fcf9f8",
-      "installedAt": "2026-05-31T19:48:59.045Z"
+      "commit": "493d659ce3e9b277a2e6bdfe482fda414e2dd334",
+      "installedAt": "2026-06-08T20:02:57.971Z"
     },
     "roam": {
       "source": "github:quartz-community/roam",
       "resolved": "https://github.com/quartz-community/roam.git",
-      "commit": "b2aad70fdf548d07b8fd28df9edbdba7f256f166",
-      "installedAt": "2026-05-31T19:48:58.913Z"
+      "commit": "493d659ce3e9b277a2e6bdfe482fda414e2dd334",
+      "installedAt": "2026-06-08T20:02:58.321Z"
     },
     "search": {
       "source": "github:quartz-community/search",

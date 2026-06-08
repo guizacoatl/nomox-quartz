@@ -8,7 +8,7 @@ level: 4
 if_level_2_text_level1: 2012R0648
 langue: EN
 version: 1
-last_update: 2026-06-05
+last_update: 2026-06-08
 ---
 # 2012R0648EMIR REFIT - Sommaire
 ## REGULATION (EU) No 648/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 4 July 2012 on OTC derivatives, central counterparties and trade repositories

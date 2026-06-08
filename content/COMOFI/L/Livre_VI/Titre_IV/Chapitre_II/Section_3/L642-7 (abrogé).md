@@ -3,7 +3,7 @@
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
 > 🧭 Chemin - Livre VI : Les institutions en matière bancaire et financière (Articles L611-1 à L642-3) > Titre IV : Dispositions pénales (Articles L641-1 à L642-3) > Chapitre II : Dispositions relatives aux autorités des marchés financiers (abrogé) > Section 3 : Conseil de discipline de la gestion financière (abrogé)
-> [[L642-6 (abrogé)]] ⬅️ |   ➡️ [[L411-1]]
+> [[L642-6 (abrogé)]] ⬅️ |   ➡️ [[L711-1]]
 
 > [!warning] Article abrogé.
 

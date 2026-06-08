@@ -18,10 +18,10 @@
 
 ## Level 3 - Niveau 3
 
-| Type         | Name - Nom                                                             | Lien                                                                                     |
-| ------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Final Report | Advice on Article 8 of the Taxonomy Regulation - ESMA30-379-471        | [[esma30-379-471_final_report_-_advice_on_article_8_of_the_Taxonomy_regulation.pdf\|EN]] |
-| External     | EU Taxonomy Calculator                                                 | [URL](https://ec.europa.eu/sustainable-finance-Taxonomy/wizard)                          |
-| User Guide   | Taxonomy User Guide                                                    | [[Taxonomy User Guide.pdf\|EN]]                                                          |
-| AMF          | Etude sur le reporting taxonomie des sociétés financières cotées       | [[etude-sur-le-reporting-taxonomie-des-societes-financieres.pdf\|FR]]                    |
-| AMF          | Rapport sur le reporting taxonomie des sociétés non-financières cotées | [[rapport-taxonomie-2023.pdf\|FR]]                                                       |
+| Type         | Ref            | Name - Nom                                                             | Lien                                                                                     |
+| ------------ | -------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Final Report | ESMA30-379-471 | Advice on Article 8 of the Taxonomy Regulation                         | [[esma30-379-471_final_report_-_advice_on_article_8_of_the_Taxonomy_regulation.pdf\|EN]] |
+| External     |                | EU Taxonomy Calculator                                                 | [URL](https://ec.europa.eu/sustainable-finance-Taxonomy/wizard)                          |
+| User Guide   |                | Taxonomy User Guide                                                    | [[Taxonomy User Guide.pdf\|EN]]                                                          |
+| AMF          |                | Etude sur le reporting taxonomie des sociétés financières cotées       | [[etude-sur-le-reporting-taxonomie-des-societes-financieres.pdf\|FR]]                    |
+| AMF          |                | Rapport sur le reporting taxonomie des sociétés non-financières cotées | [[rapport-taxonomie-2023.pdf\|FR]]                                                       |

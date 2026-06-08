@@ -15,8 +15,8 @@
 
 ## Level 3 - Niveau 3
 
-| Type                 | Name - Nom                                                                                 | Lien                                                                                    |
-| -------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Annual Report        | Principal Adverse Impact disclosures under the SFDR - JC 2025 26                           | [[JC_2025_26_Report_on_PAI_disclosures_under_Article_18_SFDR.pdf\|EN]]                  |
-| Q&A                  | Consolidated Q&A on the SFDR - JC 2023 18                                                  | [[JC_2023_18_-_Consolidated_JC_SFDR_QAs.pdf\|EN]]                                       |
-| Supervisory briefing | Sustainability risks and disclosures in the area of investment management - ESMA34-45-1427 | [[esma34-45-1427_supervisory_briefing_on_sustainability_risks_and_disclosures.pdf\|EN]] |
+| Type                 | Ref            | Name - Nom                                                                | Lien                                                                                    |
+| -------------------- | -------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Annual Report        | JC 2025 26     | Principal Adverse Impact disclosures under the SFDR                       | [[JC_2025_26_Report_on_PAI_disclosures_under_Article_18_SFDR.pdf\|EN]]                  |
+| Q&A                  | JC 2023 18     | Consolidated Q&A on the SFDR                                              | [[JC_2023_18_-_Consolidated_JC_SFDR_QAs.pdf\|EN]]                                       |
+| Supervisory briefing | ESMA34-45-1427 | Sustainability risks and disclosures in the area of investment management | [[esma34-45-1427_supervisory_briefing_on_sustainability_risks_and_disclosures.pdf\|EN]] |

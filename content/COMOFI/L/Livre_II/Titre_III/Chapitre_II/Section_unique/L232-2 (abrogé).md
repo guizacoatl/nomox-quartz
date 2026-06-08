@@ -3,7 +3,7 @@
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
 > 🧭 Chemin - Livre II : Les produits (Articles L211-1 à L232-1) > Titre III : Dispositions pénales (Articles L231-1 à L232-1) > Chapitre II : Infractions relatives aux produits d'épargne (Article L232-1) > Section unique : Bons de caisse (Article L232-1)
-> [[L232-1]] ⬅️ |   ➡️ [[L711-1]]
+> [[L232-1]] ⬅️ |   ➡️ [[L311-1]]
 
 > [!warning] Article abrogé.
 
