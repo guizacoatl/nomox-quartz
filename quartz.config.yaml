@@ -13,6 +13,11 @@ configuration:
     - private
     - templates
     - .obsidian
+  head:
+  - tag: script
+    attrs:
+      src: /custom.js
+      defer: true
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
