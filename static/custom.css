@@ -1,4 +1,0 @@
-/* Empêche visuellement le prefetch sur les PDFs - marqueur only */
-a[href$=".pdf"] {
-  cursor: pointer;
-}
