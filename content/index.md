@@ -62,7 +62,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Réca
     <span class="card-ref">Regulation (UE) n° 346/2013</span>
   </a>
   <a href="./ELTIF" class="card">
-    <span class="card-label">EMIR</span>
+    <span class="card-label">ELTIF</span>
     <span class="card-title">European long-term investment funds</span>
     <span class="card-ref">Regulation (UE) n° 760/2015</span>
   </a>
