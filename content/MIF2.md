@@ -19,7 +19,6 @@ Transposition into French law; transposition de la directive en droit français 
 | IF Requirements | [[2017R0565_EN.0\|2017R0565_EN.0]] | [[2017R0565_FR.0]] |
 | Inducements...  | [[2017L0593_EN.0]]                 | [[2017L0593_FR.0]] |
 | Liquid Market   | [[2017R0567_EN.0]]                 | [[2017R0567_FR.0]] |
-
 ### RTS & ITS
 
 | Name - Nom             | Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
@@ -40,8 +39,8 @@ Transposition into French law; transposition de la directive en droit français 
 | ITS19                  | ITS  | [[2016R0824_EN.0]] | [[2016R0824_FR.0]] |
 | Passport IF            | RTS  | [[2017R1018_EN.0]] | [[2017R1018_FR.0]] |
 | PMC                    |      | [[2022R1299_EN.0]] | [[2022R1299_FR.0]] |
-| RTS1 Transpa eqty      | RTS  | [[2017R0587_EN.0]] | [[2017R0587_FR.0]] |
-| RTS2 Transpa bond      | RTS  | [[2017R0583_EN.0]] | [[2017R0583_FR.0]] |
+| RTS1 Equity Transpa    | RTS  | [[2017R0587_EN.0]] | [[2017R0587_FR.0]] |
+| RTS2 Bond Transpa      | RTS  | [[2017R0583_EN.0]] | [[2017R0583_FR.0]] |
 | RTS3 Volume cap        | RTS  | [[2017R0577_EN.0]] | [[2017R0577_FR.0]] |
 | RTS4 Derivative CO     | RTS  | [[2016R2020_EN.0]] | [[2016R2020_FR.0]] |
 | RTS5                   | RTS  | [[2017R0579_EN.0]] | [[2017R0579_FR.0]] |
@@ -52,15 +51,14 @@ Transposition into French law; transposition de la directive en droit français 
 | RTS10                  | RTS  | [[2017R0573_EN.0]] | [[2017R0573_FR.0]] |
 | RTS11                  | RTS  | [[2017R0588_EN.0]] | [[2017R0588_FR.0]] |
 | RTS12                  | RTS  | [[2017R0570_EN.0]] | [[2017R0570_FR.0]] |
-| RTS13                  | RTS  | [[2017R0571_EN.0]] | [[2017R0571_FR.0]] |
 | RTS14                  | RTS  | [[2017R0572_EN.0]] | [[2017R0572_FR.0]] |
 | RTS15 Clearing access  | RTS  | [[2017R0581_EN.0]] | [[2017R0581_FR.0]] |
-| RTS16 Derivative CO    | RTS  | [[2016R2021_EN.0]] | [[2016R2021_FR.0]] |
+| RTS16 BMR Acess        | RTS  | [[2016R2021_EN.0]] | [[2016R2021_FR.0]] |
 | RTS17                  | RTS  | [[2017R0568_EN.0]] | [[2017R0568_FR.0]] |
 | RTS18                  | RTS  | [[2017R0569_EN.0]] | [[2017R0569_FR.0]] |
 | RTS20a                 | RTS  | [[2021R1833_EN.0]] | [[2021R1833_EN.0]] |
 | RTS21a                 | RTS  | [[2022R1302_EN.0]] | [[2022R1302_FR.0]] |
-| RTS22 Report transac   | RTS  | [[2017R0590_EN.0]] | [[2017R0590_FR.0]] |
+| RTS22 Trade Report     | RTS  | [[2017R0590_EN.0]] | [[2017R0590_FR.0]] |
 | RTS23 FIRDS            | RTS  | [[2017R0585_EN.0]] | [[2017R0585_FR.0]] |
 | RTS24 Data orders      | RTS  | [[2017R0580_EN.0]] | [[2017R0580_FR.0]] |
 | RTS25                  | RTS  | [[2017R0574_EN.0]] | [[2017R0574_FR.0]] |
@@ -110,14 +108,14 @@ Transposition into French law; transposition de la directive en droit français 
 
 ### Q&A
 
-| Type | Ref                  | Name - Nom                                                                                                                                                                                                                                                                                                                    | Lien                                                                 |
-| ---- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Q&A  | ESMA35-43-349        | On MiFID II and MiFIR investor protection and intermediaries topics                                                                                                                                                                                                                                                           | [[esma35-43-349_mifid_ii_qas_on_investor_protection_topics.pdf\|EN]] |
-| Q&A  | MIF2-QA-DL           | NEW MIFIDII Q&A 20250904 [URL](https://www.esma.europa.eu/esma-qa-search-page/all?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=9462&field_qa_level1_target_id%5B%5D=4438&field_qa_level1_target_id%5B%5D=4776&field_qa_level1_target_id%5B%5D=4606&created%5Bmin%5D=&created%5Bmax%5D=) | [[MIFIDII Q&A 20250904.pdf\|EN]]                                     |
-| Q&A  | ESMA70-1861941480-56 | OLD On MiFIR data reporting                                                                                                                                                                                                                                                                                                   | [[esma70-1861941480-56_qas_mifir_data_reporting.pdf\|EN]]            |
-| Q&A  | ESMA70-1562901-35    | OLD On MiFID II and MiFIR transparency topics                                                                                                                                                                                                                                                                                 | [[esma70-872942901-35_qas_transparency_issues.pdf\|EN]]              |
-| Q&A  | ESMA70-872942901-36  | OLD On MiFID II and MiFIR commodity derivatives topics                                                                                                                                                                                                                                                                        | [[esma70-872942901-36_qas_commodity_derivatives.pdf\|EN]]            |
-| Q&A  | ESMA70-872942901-38  | OLD On MiFID II and MiFIR market structure topics                                                                                                                                                                                                                                                                             | [[esma70-872942901-38_qas_markets_structures_issues.pdf\|EN]]        |
+| Type | Ref                  | Name - Nom                                                                | Lien                                                                                                                                                                                                                                                                                                   |
+| ---- | -------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Q&A  | ESMA35-43-349        | *OLD On MiFID II and MiFIR investor protection and intermediaries topics* | [[esma35-43-349_mifid_ii_qas_on_investor_protection_topics.pdf\|EN]]                                                                                                                                                                                                                                   |
+| Q&A  | MIF2-QA-DL           | MIF2 Q&A ESMA Search Tool                                                 | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=9462&field_qa_level1_target_id%5B%5D=4438&field_qa_level1_target_id%5B%5D=4776&field_qa_level1_target_id%5B%5D=4606&created%5Bmin%5D=&created%5Bmax%5D=) |
+| Q&A  | ESMA70-1861941480-56 | *OLD On MiFIR data reporting*                                             | [[esma70-1861941480-56_qas_mifir_data_reporting.pdf\|EN]]                                                                                                                                                                                                                                              |
+| Q&A  | ESMA70-1562901-35    | *OLD On MiFID II and MiFIR transparency topics*                           | [[esma70-872942901-35_qas_transparency_issues.pdf\|EN]]                                                                                                                                                                                                                                                |
+| Q&A  | ESMA70-872942901-36  | *OLD On MiFID II and MiFIR commodity derivatives topics*                  | [[esma70-872942901-36_qas_commodity_derivatives.pdf\|EN]]                                                                                                                                                                                                                                              |
+| Q&A  | ESMA70-872942901-38  | *OLD On MiFID II and MiFIR market structure topics*                       | [[esma70-872942901-38_qas_markets_structures_issues.pdf\|EN]]                                                                                                                                                                                                                                          |
 ### Position AMF
 
 | Type |             | Name - Nom                                                                               | Lien                                                                      |

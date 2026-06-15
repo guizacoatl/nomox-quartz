@@ -1,0 +1,45 @@
+---
+surnom_texte_lvl1: EMIR
+---
+
+# ESMA_QA_2779
+
+> **Status:** ✅ Answer Published
+
+> **Link to ESMA Q&A tool:** https://www.esma.europa.eu/publications-data/questions-answers/2779
+
+---
+
+## Regulatory Context
+Regulation : EMIR
+
+**Level 1 Regulation:** Regulation 648/2012 - OTC derivatives, central counterparties and trade repositories (EMIR) - CCPs
+
+**Level 2 Regulation:** *No information available*
+
+**Level 3 Regulation:** *No information available*
+
+**Topic:** EU-CCPs
+
+**Subject Matter:** AAR threshold calculation
+
+
+---
+
+## Question
+
+**Submission Date:** 16 February 2026
+
+In calculating the second AAR condition under Article 7a(1) of EMIR, should only cleared interest rate derivatives be included, or both cleared and uncleared?
+
+---
+
+## ESMA Answer
+
+**Answer Date:** 27-02-2026
+
+In accordance with Article 7a(2) of EMIR, for the purpose of calculating the second condition under Article 7a(1), a counterparty belonging to a group subject to consolidated supervision in the Union shall only consider derivatives contracts cleared by that counterparty or by other entities within the group, with the exception of intragroup transactions.
+
+---
+
+*This document was automatically extracted from the ESMA EMIR Q&A database.*

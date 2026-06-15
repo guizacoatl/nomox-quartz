@@ -25,3 +25,4 @@
 | User Guide   |                | Taxonomy User Guide                                                    | [[Taxonomy User Guide.pdf\|EN]]                                                          |
 | AMF          |                | Etude sur le reporting taxonomie des sociétés financières cotées       | [[etude-sur-le-reporting-taxonomie-des-societes-financieres.pdf\|FR]]                    |
 | AMF          |                | Rapport sur le reporting taxonomie des sociétés non-financières cotées | [[rapport-taxonomie-2023.pdf\|FR]]                                                       |
+| Commission   | Q&A            | Frequently asked questions on the EU taxonomy                          | [[241129-draft-commission-notice-eu-taxonomy-delegated-acts_en.pdf\|EN]]                 |

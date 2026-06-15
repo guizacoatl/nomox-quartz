@@ -1,0 +1,46 @@
+---
+surnom_texte_lvl1: SECR
+---
+
+# ESMA_QA_1359
+
+> **Status:** ✅ Answer Published
+
+> **Link to ESMA Q&A tool:** https://www.esma.europa.eu/publications-data/questions-answers/1359
+
+---
+
+## Regulatory Context
+Regulation : SECR
+
+**Level 1 Regulation:** Securitisation Regulation (EU) 2017/2402
+
+**Level 2 Regulation:** *No information available*
+
+**Level 3 Regulation:** *No information available*
+
+**Topic:** Securitisation Disclosure Templates
+
+**Subject Matter:** Interpretation of Date Last in Arrears field
+
+
+---
+
+## Question
+
+**Submission Date:** 17 July 2019
+
+Do the arrears mentioned in this field refer only to arrears on this specific underlying exposure or to arrears on any exposure of the obligor?
+
+---
+
+## ESMA Answer
+
+**Answer Date:** 17-07-2019
+
+[ESMA 33-128-563 Securitisation Q&A, Q&A 5.3.25]
+This field only refers to arrears on this specific underlying exposure being reported. It does not refer to arrears on any other underlying exposure associated with the same obligor.
+
+---
+
+*This document was automatically extracted from the ESMA EMIR Q&A database.*

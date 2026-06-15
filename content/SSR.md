@@ -18,6 +18,6 @@
 
 ## Level 3 - Niveau 3
 
-| Type | Ref       | Name - Nom       | Lien                         |
-| ---- | --------- | ---------------- | ---------------------------- |
-| Q&A  | SSR-QA-DL | SSR Q&A 20250904 | [[SSR Q&A 20250904.pdf\|EN]] |
+| Type | Ref       | Name - Nom               | Lien                                                                                                                                                                                    |
+| ---- | --------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Q&A  | SSR-QA-DL | SSR Q&A ESMA Search Tool | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=5401&created%5Bmin%5D=&created%5Bmax%5D=) |
