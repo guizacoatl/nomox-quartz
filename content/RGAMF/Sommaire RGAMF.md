@@ -1,8 +1,8 @@
 
 > [!info]
-> RGAMF en date du 23/03/2026
+> RGAMF en date du 15/06/2026
 > Lien URL vers le [RG AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20250602/notes)
-> [[RG-en-vigueur-au-20260101_notes.pdf|PDF intégral du RG AMF]]
+> [[RG-en-vigueur-au-20260520_notes.pdf|PDF intégral du RG AMF]]
 
 
 # Livre I - L'Autorité des marchés financiers
@@ -163,9 +163,10 @@ Paragraphe 6 - Note complémentaire au prospectus
 [[222-4]]
 [[222-5]]
 [[222-6]]
-#### Section 2 - Autres informations (Articles 222-8 à 222-9)
+#### Section 2 - Autres informations (Articles 222-8 à 222-9-1)
 [[222-8]]
 [[222-9]]
+[[222-9-1]]
 #### Section 3 - Critères d'équivalence de l'information périodique pour les émetteurs dont le siège est situé hors de l'Espace économique européen (Articles 222-10 à 222-15)
 [[222-10]]
 [[222-11]]

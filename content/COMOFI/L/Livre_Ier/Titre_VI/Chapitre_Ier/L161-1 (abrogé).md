@@ -11,3 +11,5 @@
 
 
 Est punie d'une amende de 15 000 euros le fait de méconnaître les obligations prescrites à l'article L. [[L112-8|112-8]].
+
+abrogé Chapitre II : Fausse monnaie.

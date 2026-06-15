@@ -7,8 +7,10 @@
 
 > [!warning] Article abrogé.
 
-> _Abrogé par Décret n°2021-898 du 6 juillet 2021 - art. 3 Créé par DÉCRET n°2014-1315 du 3 novembre 2014 - art. 4_
+> _Abrogé par Décret n°2021-898 du 6 juillet 2021 - art. 3_
 
+
+Création DÉCRET n°2014-1315 du 3 novembre 2014 - art. 4
 
 I. – Les parts ou titres de créances émis par un organisme de titrisation ou une entité similaire mentionnés à l'article L. [[L513-5|513-5]] ne peuvent être refinancés par des ressources privilégiées que dans la limite du plus petit des montants ci-dessous :
 

@@ -12,4 +12,4 @@
 
 L'établissement de crédit visé à l'article L. [[L518-26|518-26]] ouvre un compte sur livret à toute personne par laquelle des fonds sont versés, à titre d'épargne.
 
-Sous-section 4 : Dispositions spécifiques au Crédit mutuel. (abrogé)
+abrogé Sous-section 4 : Dispositions spécifiques au Crédit mutuel.

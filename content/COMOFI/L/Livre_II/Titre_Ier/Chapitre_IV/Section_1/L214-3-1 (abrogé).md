@@ -15,3 +15,7 @@ Création LOI n°2010-1249 du 22 octobre 2010 - art. 26
 Dans les conditions définies par le règlement général de l'Autorité des marchés financiers, la responsabilité à l'égard des tiers de la centralisation des ordres de souscription et de rachat des parts ou actions d'organismes de placement collectif en valeurs mobilières est confiée par l'organisme de placement collectif en valeurs mobilières ou, le cas échéant, la société de gestion de portefeuille qui le représente soit audit organisme, soit au dépositaire, soit à une société de gestion de portefeuille, soit à un prestataire de services d'investissement agréé pour fournir l'un des services mentionnés à l'article L. [[L321-1|321-1]].L'entité à qui est confiée cette responsabilité dispose de moyens adaptés et suffisants.
 
 Un ordre de souscription ou de rachat transmis à l'entité responsable de la centralisation des ordres est irrévocable, à la date et dans les conditions définies par le règlement général de l'Autorité des marchés financiers.
+
+abrogé Section 2 : Les organismes de titrisation
+abrogé Sous-section 1 : Dispositions communes aux organismes de titrisation
+abrogé Paragraphe 1 : Dispositions générales

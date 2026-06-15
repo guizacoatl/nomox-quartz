@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
-> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à D744-17) > Chapitre III : Dispositions particulières à la Polynésie française (Articles R743-1 à D743-18) > Section 2 : Produits d'épargne réglementée (Articles R743-15 à D743-18)
+> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à R744-18) > Chapitre III : Dispositions particulières à la Polynésie française (Articles R743-1 à R743-19) > Section 2 : Produits d'épargne réglementée (Articles R743-15 à D743-18)
 > [[R743-17-10]] ⬅️ |   ➡️ [[R743-17-1]]
 
 > [!warning] Article abrogé.

@@ -16,4 +16,4 @@ Cette direction peut obtenir des autres services de l'Autorité de contrôle pru
 
 II.-Le budget de l'Autorité de contrôle prudentiel et de résolution comporte une section relative au fonctionnement de la direction de la résolution, arrêtée après avis du directeur de la résolution.
 
-Paragraphe 2 : Mesures de résolution (abrogé)
+abrogé Paragraphe 2 : Mesures de résolution

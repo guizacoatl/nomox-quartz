@@ -16,7 +16,7 @@ Les établissements de crédit fournissent à l'observatoire les informations n�
 
 Un décret en Conseil d'Etat précise l'organisation et le fonctionnement de l'observatoire, ainsi que la liste et la périodicité des informations que les établissements distribuant le livret A lui adressent. L'observatoire de l'épargne réglementée remet un rapport annuel au Parlement et au Gouvernement sur la mise en œuvre de la généralisation de la distribution du livret A.
 
-Sous-section 1 : Dispositions communes (abrogé)
-Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel. (abrogé)
-Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (abrogé)
-Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance. (abrogé)
+abrogé Sous-section 1 : Dispositions communes
+abrogé Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.
+abrogé Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.
+abrogé Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.

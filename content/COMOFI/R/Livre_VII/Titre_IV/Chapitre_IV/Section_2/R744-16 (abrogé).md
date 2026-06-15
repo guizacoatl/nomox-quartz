@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
-> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à D744-17) > Chapitre IV : Dispositions particulières aux îles Wallis et Futuna (Articles R744-1 à D744-17) > Section 2 : Produits d'épargne réglementée (Articles R744-15 à D744-17)
+> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à R744-18) > Chapitre IV : Dispositions particulières aux îles Wallis et Futuna (Articles R744-1 à R744-18) > Section 2 : Produits d'épargne réglementée (Articles R744-15 à D744-17)
 > [[R744-16-10]] ⬅️ |   ➡️ [[R744-16-1]]
 
 > [!warning] Article abrogé.

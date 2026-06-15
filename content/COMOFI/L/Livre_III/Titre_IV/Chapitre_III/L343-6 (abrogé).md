@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
-> 🧭 Chemin - Livre III : Les services (Articles L311-1 à L362-2) > Titre IV : Le démarchage et le colportage (abrogé) > Chapitre III : Démarchage concernant les opérations sur le marché à terme. (abrogé)
+> 🧭 Chemin - Livre III : Les services (Articles L311-1 à L362-2) > Titre IV : Démarchage, colportage et fourniture à distance de services financiers (Articles L341-1 à L343-2) > Chapitre III : Fourniture à distance de services financiers à un consommateur (Articles L343-1 à L343-2)
 > [[L343-5 (abrogé)]] ⬅️ |   ➡️ [[L351-1]]
 
 > [!warning] Article abrogé.
@@ -15,3 +15,7 @@ Les personnes mentionnées aux articles L. 343-2 et L. 343-3 ne peuvent recueill
 Avant l'expiration de ce délai de sept jours, nul ne peut exiger ou obtenir de la personne sollicitée, directement ou indirectement, à quelque titre ou sous quelque forme que ce soit, une contrepartie quelconque, pécuniaire ou non, ni aucun engagement sur remise de fonds. Ce délai ne s'applique que lors du premier ordre ou du premier mandat de gestion donné sur le marché à terme à la personne pour le compte de laquelle le démarchage est fait.
 
 Les fonds correspondant aux ordres recueillis ne peuvent en aucun cas être remis aux démarcheurs.
+
+abrogé Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers
+abrogé Section 1 : Opérations sur matières précieuses.
+abrogé Section 2 : Opérations sur les billets de banque étrangers.

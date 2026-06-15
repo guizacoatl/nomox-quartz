@@ -7,8 +7,10 @@
 
 > [!warning] Article abrogé.
 
-> _Abrogé par Décret n°2019-1197 du 20 novembre 2019 - art. 19 Créé par Décret n°2008-781 du 18 août 2008 - art. 2_
+> _Abrogé par Décret n°2019-1197 du 20 novembre 2019 - art. 19_
 
+
+Création Décret n°2008-781 du 18 août 2008 - art. 2
 
 Peuvent être nommés contrôleurs généraux de la Caisse des dépôts et consignations, par voie de détachement, les fonctionnaires occupant depuis deux ans au moins un emploi de directeur, chef de service, directeur adjoint ou sous-directeur au sein de l'établissement public. Peuvent également être nommés les fonctionnaires relevant de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière, appartenant depuis dix ans au moins à un corps ou un cadre d'emploi classé dans la catégorie A ou assimilée, dont l'indice terminal est supérieur à l'indice brut 1015 et ayant exercé leurs fonctions à la Caisse des dépôts et consignations ou dans les filiales pendant cinq années au moins.
 

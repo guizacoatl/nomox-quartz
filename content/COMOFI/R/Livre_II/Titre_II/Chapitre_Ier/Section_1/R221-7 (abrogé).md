@@ -14,4 +14,4 @@ Création Décret 2005-1006 2005-08-02 Annexe JORF 25 août 2005
 
 L'autorité administrative compétente mentionnée à l'article R. [[R221-6|221-6]] est le ministre chargé de l'économie.
 
-Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (abrogé)
+abrogé Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.

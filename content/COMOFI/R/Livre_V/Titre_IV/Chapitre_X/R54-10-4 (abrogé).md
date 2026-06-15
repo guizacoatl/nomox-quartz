@@ -7,8 +7,10 @@
 
 > [!warning] Article abrogé.
 
-> _Abrogé par Décret n°2024-1205 du 23 décembre 2024 - art. 2 Créé par Décret n°2019-1248 du 28 novembre 2019 - art. 1_
+> _Abrogé par Décret n°2024-1205 du 23 décembre 2024 - art. 2_
 
+
+Création Décret n°2019-1248 du 28 novembre 2019 - art. 1
 
 Le délai à l'expiration duquel le silence gardé par l'Autorité des marchés financiers sur les demandes d'enregistrement formées en application de l'article L. 54-10-3 vaut décision d'acceptation est de six mois suivant la date de réception du dossier complet.
 

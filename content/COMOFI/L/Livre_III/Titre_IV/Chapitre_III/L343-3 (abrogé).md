@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
-> 🧭 Chemin - Livre III : Les services (Articles L311-1 à L362-2) > Titre IV : Le démarchage et le colportage (abrogé) > Chapitre III : Démarchage concernant les opérations sur le marché à terme. (abrogé)
+> 🧭 Chemin - Livre III : Les services (Articles L311-1 à L362-2) > Titre IV : Démarchage, colportage et fourniture à distance de services financiers (Articles L341-1 à L343-2) > Chapitre III : Fourniture à distance de services financiers à un consommateur (Articles L343-1 à L343-2)
 > [[L343-2 (abrogé)]] ⬅️ |   ➡️ [[L343-4 (abrogé)]]
 
 > [!warning] Article abrogé.

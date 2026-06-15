@@ -43,6 +43,13 @@
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-18.md|L511-18]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-19.md|L511-19]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20.md|L511-20]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-1.md|L511-20-1]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-2.md|L511-20-2]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-3.md|L511-20-3]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-4.md|L511-20-4]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-5.md|L511-20-5]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-6.md|L511-20-6]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-20-7.md|L511-20-7]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-21.md|L511-21]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-22.md|L511-22]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_3/L511-23.md|L511-23]]
@@ -89,6 +96,7 @@
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_7/L511-50-1.md|L511-50-1]]
 #### Section 8 : Gouvernance des établissements de crédit et des sociétés de financement (Articles L511-51 à L511-103)
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_8/L511-51.md|L511-51]]
+- [[Livre_V/Titre_Ier/Chapitre_Ier/Section_8/L511-51-1.md|L511-51-1]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_8/L511-52.md|L511-52]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_8/L511-53.md|L511-53]]
 - [[Livre_V/Titre_Ier/Chapitre_Ier/Section_8/L511-53-1.md|L511-53-1]]
@@ -213,7 +221,6 @@
 - [[Livre_V/Titre_Ier/Chapitre_II/Section_4/L512-59.md|L512-59]]
 #### Section 5 : Le crédit mutuel agricole et rural (Article L512-60)
 - [[Livre_V/Titre_Ier/Chapitre_II/Section_5/L512-60.md|L512-60]]
-#### Section 5 : Le crédit coopératif. (abrogé)
 - [[Livre_V/Titre_Ier/Chapitre_II/Section_5/L512-60 (abrogé).md|L512-60 (abrogé)]]
 #### Section 6 : Les sociétés coopératives de banque (Articles L512-61 à L512-67)
 - [[Livre_V/Titre_Ier/Chapitre_II/Section_6/L512-61.md|L512-61]]
@@ -359,6 +366,7 @@
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-12.md|L517-12]]
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-13.md|L517-13]]
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-14.md|L517-14]]
+- [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-14-1.md|L517-14-1]]
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-15.md|L517-15]]
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-16.md|L517-16]]
 - [[Livre_V/Titre_Ier/Chapitre_VII/Section_3/L517-17.md|L517-17]]
@@ -400,10 +408,9 @@
 #### Section 3 : La Poste (Articles L518-25 à L518-25-1)
 - [[Livre_V/Titre_Ier/Chapitre_VIII/Section_3/L518-25.md|L518-25]]
 - [[Livre_V/Titre_Ier/Chapitre_VIII/Section_3/L518-25-1.md|L518-25-1]]
-#### Section 4 : La Caisse nationale d'épargne (abrogé)
-- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_4/L518-26 (abrogé).md|L518-26 (abrogé)]]
-- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_4/L518-27 (abrogé).md|L518-27 (abrogé)]]
-- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_4/L518-28 (abrogé).md|L518-28 (abrogé)]]
+- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_3/L518-26 (abrogé).md|L518-26 (abrogé)]]
+- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_3/L518-27 (abrogé).md|L518-27 (abrogé)]]
+- [[Livre_V/Titre_Ier/Chapitre_VIII/Section_3/L518-28 (abrogé).md|L518-28 (abrogé)]]
 ### Chapitre IX : Les intermédiaires en opérations de banque et en services de paiement (Articles L519-1 à L519-17)
 #### Section 1 : Définitions et obligation d'immatriculation (Articles L519-1 à L519-3-2)
 - [[Livre_V/Titre_Ier/Chapitre_IX/Section_1/L519-1.md|L519-1]]
@@ -445,6 +452,7 @@
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-4.md|L521-4]]
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-5.md|L521-5]]
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-6.md|L521-6]]
+- [[Livre_V/Titre_II/Chapitre_Ier/L521-6-1.md|L521-6-1]]
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-7.md|L521-7]]
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-8.md|L521-8]]
 - [[Livre_V/Titre_II/Chapitre_Ier/L521-9.md|L521-9]]
@@ -650,9 +658,8 @@
 - [[Livre_V/Titre_III/Chapitre_II/Section_4/L532-52.md|L532-52]]
 - [[Livre_V/Titre_III/Chapitre_II/Section_4/L532-53.md|L532-53]]
 ### Chapitre III : Obligations des prestataires de services d'investissement (Articles L533-1 à L533-33)
-#### Section 1 : Normes de gestion (abrogé)
-- [[Livre_V/Titre_III/Chapitre_III/Section_1/L533-1-1 (abrogé).md|L533-1-1 (abrogé)]]
-- [[Livre_V/Titre_III/Chapitre_III/Section_1/L533-1-2 (abrogé).md|L533-1-2 (abrogé)]]
+- [[Livre_V/Titre_III/Chapitre_III/L533-1-1 (abrogé).md|L533-1-1 (abrogé)]]
+- [[Livre_V/Titre_III/Chapitre_III/L533-1-2 (abrogé).md|L533-1-2 (abrogé)]]
 #### Section 1 : Dispositions générales communes aux prestataires de services d'investissement (Article L533-1)
 - [[Livre_V/Titre_III/Chapitre_III/Section_1/L533-1.md|L533-1]]
 #### Section 2 : Normes de gestion applicables aux prestataires de services d'investissement et dispositions prudentielles applicables aux entreprises d'investissement (Articles L533-2 à L533-4-9)
@@ -671,7 +678,6 @@
 - [[Livre_V/Titre_III/Chapitre_III/Section_2/L533-4-7.md|L533-4-7]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_2/L533-4-8.md|L533-4-8]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_2/L533-4-9.md|L533-4-9]]
-#### Section 2 : Obligations comptables et déclaratives (abrogé)
 - [[Livre_V/Titre_III/Chapitre_III/Section_2/L533-3-1 (abrogé).md|L533-3-1 (abrogé)]]
 #### Section 3 : Obligations comptables et déclaratives applicables aux prestataires de services d'investissement (Articles L533-5 à L533-9)
 - [[Livre_V/Titre_III/Chapitre_III/Section_3/L533-5.md|L533-5]]
@@ -727,13 +733,14 @@
 - [[Livre_V/Titre_III/Chapitre_III/Section_7/L533-24.md|L533-24]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_7/L533-24-1.md|L533-24-1]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_7/L533-24-1-1.md|L533-24-1-1]]
-#### Section 8 : Gouvernance des entreprises d'investissement (Articles L533-24-2 à L533-31-5)
+#### Section 8 : Gouvernance des entreprises d'investissement (Articles L533-24-2 à L533-31-7)
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-24-2.md|L533-24-2]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-24-3.md|L533-24-3]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-25.md|L533-25]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-26.md|L533-26]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-27.md|L533-27]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-27-1.md|L533-27-1]]
+- [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-27-2.md|L533-27-2]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-28.md|L533-28]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-29.md|L533-29]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-29-1.md|L533-29-1]]
@@ -764,6 +771,8 @@
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-31-3.md|L533-31-3]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-31-4.md|L533-31-4]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-31-5.md|L533-31-5]]
+- [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-31-6.md|L533-31-6]]
+- [[Livre_V/Titre_III/Chapitre_III/Section_8/L533-31-7.md|L533-31-7]]
 #### Section 9 : Dispositions communes aux prestataires de services d'investissement autres que les sociétés de gestion de portefeuille relatives aux internalisateurs systématiques (Articles L533-32 à L533-33)
 - [[Livre_V/Titre_III/Chapitre_III/Section_9/L533-32.md|L533-32]]
 - [[Livre_V/Titre_III/Chapitre_III/Section_9/L533-33.md|L533-33]]
@@ -789,7 +798,6 @@
 - [[Livre_V/Titre_IV/Chapitre_II/L542-1.md|L542-1]]
 ### Chapitre III : Les sociétés de gestion de placements collectifs (Article L543-1)
 - [[Livre_V/Titre_IV/Chapitre_III/L543-1.md|L543-1]]
-### Chapitre III : Les sociétés de gestion collective (abrogé)
 - [[Livre_V/Titre_IV/Chapitre_III/L543-1 (abrogé).md|L543-1 (abrogé)]]
 ### Chapitre IV : Services de recherche en investissement, d'analyse financière ou de conseil en vote (Articles L544-2 à L544-6)
 - [[Livre_V/Titre_IV/Chapitre_IV/L544-2.md|L544-2]]
@@ -818,17 +826,14 @@
 - [[Livre_V/Titre_IV/Chapitre_VII/L547-4.md|L547-4]]
 - [[Livre_V/Titre_IV/Chapitre_VII/L547-5.md|L547-5]]
 - [[Livre_V/Titre_IV/Chapitre_VII/L547-6.md|L547-6]]
-#### Section 1 : Définition (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_1/L547-2 (abrogé).md|L547-2 (abrogé)]]
-#### Section 2 : Conditions d'accès à l'activité et règles d'organisation (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_2/L547-4-1 (abrogé).md|L547-4-1 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_2/L547-5-1 (abrogé).md|L547-5-1 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_2/L547-7 (abrogé).md|L547-7 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_2/L547-8 (abrogé).md|L547-8 (abrogé)]]
-#### Section 3 : Règles de bonne conduite (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_3/L547-9 (abrogé).md|L547-9 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_3/L547-10 (abrogé).md|L547-10 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_VII/Section_3/L547-11 (abrogé).md|L547-11 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-2 (abrogé).md|L547-2 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-4-1 (abrogé).md|L547-4-1 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-5-1 (abrogé).md|L547-5-1 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-7 (abrogé).md|L547-7 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-8 (abrogé).md|L547-8 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-9 (abrogé).md|L547-9 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-10 (abrogé).md|L547-10 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_VII/L547-11 (abrogé).md|L547-11 (abrogé)]]
 ### Chapitre VIII : Les intermédiaires en financement participatif (Articles L548-1 à L548-6)
 #### Section 1 : Définitions et obligation d'immatriculation (Articles L548-1 à L548-3)
 - [[Livre_V/Titre_IV/Chapitre_VIII/Section_1/L548-1.md|L548-1]]
@@ -841,34 +846,29 @@
 - [[Livre_V/Titre_IV/Chapitre_VIII/Section_3/L548-6.md|L548-6]]
 ### Chapitre IX : Les prestataires de services de communication de données (Articles L549-1 à L549-2)
 - [[Livre_V/Titre_IV/Chapitre_IX/L549-1.md|L549-1]]
-#### Section 2 : Agrément des prestataires de services de communication de données (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-3 (abrogé).md|L549-3 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-4 (abrogé).md|L549-4 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-5 (abrogé).md|L549-5 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-6 (abrogé).md|L549-6 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-7 (abrogé).md|L549-7 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-8 (abrogé).md|L549-8 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-9 (abrogé).md|L549-9 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_2/L549-10 (abrogé).md|L549-10 (abrogé)]]
-#### Section 3 : Dispositifs de publication agréés (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_3/L549-11 (abrogé).md|L549-11 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_3/L549-12 (abrogé).md|L549-12 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_3/L549-13 (abrogé).md|L549-13 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_3/L549-14 (abrogé).md|L549-14 (abrogé)]]
-#### Section 4 : Systèmes consolidés de publication (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_4/L549-15 (abrogé).md|L549-15 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_4/L549-16 (abrogé).md|L549-16 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_4/L549-17 (abrogé).md|L549-17 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_4/L549-18 (abrogé).md|L549-18 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_4/L549-19 (abrogé).md|L549-19 (abrogé)]]
-#### Section 5 : Mécanismes de déclaration agréés (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_5/L549-20 (abrogé).md|L549-20 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_5/L549-21 (abrogé).md|L549-21 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_5/L549-22 (abrogé).md|L549-22 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_5/L549-23 (abrogé).md|L549-23 (abrogé)]]
-#### Section 6 : Libre prestation de services sur le territoire des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen (abrogé)
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_6/L549-24 (abrogé).md|L549-24 (abrogé)]]
-- [[Livre_V/Titre_IV/Chapitre_IX/Section_6/L549-2.md|L549-2]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-3 (abrogé).md|L549-3 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-4 (abrogé).md|L549-4 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-5 (abrogé).md|L549-5 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-6 (abrogé).md|L549-6 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-7 (abrogé).md|L549-7 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-8 (abrogé).md|L549-8 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-9 (abrogé).md|L549-9 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-10 (abrogé).md|L549-10 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-11 (abrogé).md|L549-11 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-12 (abrogé).md|L549-12 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-13 (abrogé).md|L549-13 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-14 (abrogé).md|L549-14 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-15 (abrogé).md|L549-15 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-16 (abrogé).md|L549-16 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-17 (abrogé).md|L549-17 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-18 (abrogé).md|L549-18 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-19 (abrogé).md|L549-19 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-20 (abrogé).md|L549-20 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-21 (abrogé).md|L549-21 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-22 (abrogé).md|L549-22 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-23 (abrogé).md|L549-23 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-24 (abrogé).md|L549-24 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_IX/L549-2.md|L549-2]]
 ### Chapitre X : Prestataires de services sur actifs numériques et prestataires de services sur crypto-actifs (Articles L54-10-1 à L54-10-7)
 - [[Livre_V/Titre_IV/Chapitre_X/L54-10-1.md|L54-10-1]]
 - [[Livre_V/Titre_IV/Chapitre_X/L54-10-2.md|L54-10-2]]
@@ -1068,9 +1068,7 @@
 ### Chapitre IV : Obligations relatives à l'identification des clients, des comptes et des personnes dans le cadre de la lutte contre l'évasion et la fraude fiscales (Articles L564-1 à L564-2)
 - [[Livre_V/Titre_VI/Chapitre_IV/L564-1.md|L564-1]]
 - [[Livre_V/Titre_VI/Chapitre_IV/L564-2.md|L564-2]]
-## Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (abrogé)
-### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (abrogé)
-- [[Livre_V/Titre_VI/Chapitre_II/L562-9 (abrogé).md|L562-9 (abrogé)]]
+- [[Livre_V/Titre_VI/Chapitre_IV/L562-9 (abrogé).md|L562-9 (abrogé)]]
 ## Titre VII : Dispositions pénales (Articles L570-1 à L574-7)
 - [[Livre_V/Titre_VII/L570-1.md|L570-1]]
 - [[Livre_V/Titre_VII/L570-2.md|L570-2]]
@@ -1238,13 +1236,11 @@
 - [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-15.md|L212-15]]
 - [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-16.md|L212-16]]
 - [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-17.md|L212-17]]
-### Chapitre II : Actions et titres donnant accès au capital (abrogé)
-#### Section 2 : Les titres donnant accès au capital (abrogé)
-- [[Livre_II/Titre_Ier/Chapitre_II/Section_2/L212-8 (abrogé).md|L212-8 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_II/Section_2/L212-9 (abrogé).md|L212-9 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_II/Section_2/L212-10 (abrogé).md|L212-10 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_II/Section_2/L212-11 (abrogé).md|L212-11 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_II/Section_2/L212-12 (abrogé).md|L212-12 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-8 (abrogé).md|L212-8 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-9 (abrogé).md|L212-9 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-10 (abrogé).md|L212-10 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-11 (abrogé).md|L212-11 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_II/Section_3/L212-12 (abrogé).md|L212-12 (abrogé)]]
 ### Chapitre III : Titres de créance (Articles L213-0-1 à L213-35)
 - [[Livre_II/Titre_Ier/Chapitre_III/L213-0-1.md|L213-0-1]]
 #### Section 1 : Les titres de créances négociables (Articles L213-1 à L213-4-1)
@@ -1362,21 +1358,20 @@
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-23-1.md|L214-23-1]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-23-2.md|L214-23-2]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-3-1 (abrogé).md|L214-3-1 (abrogé)]]
-#### Section 2 : Les organismes de titrisation (abrogé)
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-42-1 (abrogé).md|L214-42-1 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-46-1 (abrogé).md|L214-46-1 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-4 (abrogé).md|L214-49-4 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-5 (abrogé).md|L214-49-5 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-6 (abrogé).md|L214-49-6 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-7 (abrogé).md|L214-49-7 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-8 (abrogé).md|L214-49-8 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-9 (abrogé).md|L214-49-9 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-10 (abrogé).md|L214-49-10 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-11 (abrogé).md|L214-49-11 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-12 (abrogé).md|L214-49-12 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-13 (abrogé).md|L214-49-13 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-13-1 (abrogé).md|L214-49-13-1 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-49-14 (abrogé).md|L214-49-14 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-42-1 (abrogé).md|L214-42-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-46-1 (abrogé).md|L214-46-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-4 (abrogé).md|L214-49-4 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-5 (abrogé).md|L214-49-5 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-6 (abrogé).md|L214-49-6 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-7 (abrogé).md|L214-49-7 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-8 (abrogé).md|L214-49-8 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-9 (abrogé).md|L214-49-9 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-10 (abrogé).md|L214-49-10 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-11 (abrogé).md|L214-49-11 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-12 (abrogé).md|L214-49-12 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-13 (abrogé).md|L214-49-13 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-13-1 (abrogé).md|L214-49-13-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_1/L214-49-14 (abrogé).md|L214-49-14 (abrogé)]]
 #### Section 2 : FIA (Articles L214-24 à L214-190-3-1)
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-24.md|L214-24]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-24-0.md|L214-24-0]]
@@ -1669,75 +1664,72 @@
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-36-5 (abrogé).md|L214-36-5 (abrogé)]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-38-1 (abrogé).md|L214-38-1 (abrogé)]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-38-2 (abrogé).md|L214-38-2 (abrogé)]]
-#### Section 3 : Les sociétés civiles de placement immobilier (abrogé)
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-61 (abrogé).md|L214-61 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-77-1 (abrogé).md|L214-77-1 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-84-1 (abrogé).md|L214-84-1 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-84-2 (abrogé).md|L214-84-2 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-84-3 (abrogé).md|L214-84-3 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-84 (abrogé).md|L214-84 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-83-1 (abrogé).md|L214-83-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-61 (abrogé).md|L214-61 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-77-1 (abrogé).md|L214-77-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-84-1 (abrogé).md|L214-84-1 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-84-2 (abrogé).md|L214-84-2 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-84-3 (abrogé).md|L214-84-3 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-84 (abrogé).md|L214-84 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-83-1 (abrogé).md|L214-83-1 (abrogé)]]
 #### Section 3 : Autres placements collectifs (Article L214-191)
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-191.md|L214-191]]
-#### Section 4 : Les sociétés d'épargne forestière (Articles L214-86 à L214-125) (abrogé)
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-86.md|L214-86]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-87.md|L214-87]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-88.md|L214-88]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-89.md|L214-89]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-90.md|L214-90]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-91.md|L214-91]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-92-1.md|L214-92-1]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-92.md|L214-92]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-93.md|L214-93]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-94.md|L214-94]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-95.md|L214-95]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-96.md|L214-96]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-97.md|L214-97]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-98.md|L214-98]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-99.md|L214-99]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-100.md|L214-100]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-101.md|L214-101]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-102.md|L214-102]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-102-1.md|L214-102-1]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-103.md|L214-103]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-104.md|L214-104]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-105.md|L214-105]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-106.md|L214-106]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-107.md|L214-107]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-107-1.md|L214-107-1]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-108.md|L214-108]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-109.md|L214-109]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-110.md|L214-110]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-111.md|L214-111]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-112.md|L214-112]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-113.md|L214-113]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-114.md|L214-114]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-115.md|L214-115]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-116.md|L214-116]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-117.md|L214-117]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-118.md|L214-118]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-119 (abrogé).md|L214-119 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-120 (abrogé).md|L214-120 (abrogé)]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-121.md|L214-121]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-122.md|L214-122]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-123.md|L214-123]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-124.md|L214-124]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-125.md|L214-125]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_4/L214-126 (abrogé).md|L214-126 (abrogé)]]
-#### Section 6 : Les sociétés d'investissement à capital fixe (Articles L214-127 à L214-138) (abrogé)
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-127.md|L214-127]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-127-1.md|L214-127-1]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-128.md|L214-128]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-129.md|L214-129]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-130.md|L214-130]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-131.md|L214-131]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-132.md|L214-132]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-133.md|L214-133]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-134.md|L214-134]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-135.md|L214-135]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-136.md|L214-136]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-137.md|L214-137]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_6/L214-138.md|L214-138]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-86.md|L214-86]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-87.md|L214-87]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-88.md|L214-88]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-89.md|L214-89]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-90.md|L214-90]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-91.md|L214-91]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-92-1.md|L214-92-1]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-92.md|L214-92]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-93.md|L214-93]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-94.md|L214-94]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-95.md|L214-95]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-96.md|L214-96]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-97.md|L214-97]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-98.md|L214-98]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-99.md|L214-99]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-100.md|L214-100]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-101.md|L214-101]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-102.md|L214-102]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-102-1.md|L214-102-1]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-103.md|L214-103]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-104.md|L214-104]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-105.md|L214-105]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-106.md|L214-106]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-107.md|L214-107]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-107-1.md|L214-107-1]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-108.md|L214-108]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-109.md|L214-109]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-110.md|L214-110]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-111.md|L214-111]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-112.md|L214-112]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-113.md|L214-113]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-114.md|L214-114]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-115.md|L214-115]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-116.md|L214-116]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-117.md|L214-117]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-118.md|L214-118]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-119 (abrogé).md|L214-119 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-120 (abrogé).md|L214-120 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-121.md|L214-121]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-122.md|L214-122]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-123.md|L214-123]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-124.md|L214-124]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-125.md|L214-125]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-126 (abrogé).md|L214-126 (abrogé)]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-127.md|L214-127]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-127-1.md|L214-127-1]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-128.md|L214-128]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-129.md|L214-129]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-130.md|L214-130]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-131.md|L214-131]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-132.md|L214-132]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-133.md|L214-133]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-134.md|L214-134]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-135.md|L214-135]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-136.md|L214-136]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-137.md|L214-137]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-138.md|L214-138]]
 ## Titre II : Les produits d'épargne (Articles L221-1 à L225-5)
 ### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique (Articles L221-1 à L221-38)
 #### Section 1 : Le livret A (Articles L221-1 à L221-8)
@@ -2116,7 +2108,9 @@
 #### Section 3 : Dispositions pénales (Articles L744-13 à L744-14)
 - [[Livre_VII/Titre_IV/Chapitre_IV/Section_3/L744-13.md|L744-13]]
 - [[Livre_VII/Titre_IV/Chapitre_IV/Section_3/L744-14.md|L744-14]]
-## Titre V : CONDITIONS D'APPLICATION EN OUTRE-MER DES DISPOSITIONS DU LIVRE III RELATIF AUX SERVICES (Articles L752-1 à L754-20)
+## Titre V : CONDITIONS D'APPLICATION EN OUTRE-MER DES DISPOSITIONS DU LIVRE III RELATIF AUX SERVICES (Articles L751-1 à L754-20)
+### Chapitre I : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON (Article L751-1)
+- [[Livre_VII/Titre_V/Chapitre_I/L751-1.md|L751-1]]
 ### Chapitre II : DISPOSITIONS PARTICULIÈRES À LA NOUVELLE-CALÉDONIE (Articles L752-1 à L752-21)
 #### Section 1 : Opérations de banque, services de paiement et monnaie électronique (Articles L752-1 à L752-4)
 - [[Livre_VII/Titre_V/Chapitre_II/Section_1/L752-1.md|L752-1]]
@@ -2559,8 +2553,7 @@
 - [[Livre_III/Titre_Ier/Chapitre_Ier/Section_5/L311-13.md|L311-13]]
 #### Section 6 : Obligations d'accessibilité (Article L311-14)
 - [[Livre_III/Titre_Ier/Chapitre_Ier/Section_6/L311-14.md|L311-14]]
-#### Section 4 : Compensation. (abrogé)
-- [[Livre_III/Titre_Ier/Chapitre_Ier/Section_4/L311-4 (abrogé).md|L311-4 (abrogé)]]
+- [[Livre_III/Titre_Ier/Chapitre_Ier/Section_6/L311-4 (abrogé).md|L311-4 (abrogé)]]
 ### Chapitre II : Comptes et dépôts (Articles L312-1 à L312-23)
 #### Section 1 : Droit au compte et relations avec le client (Articles L312-1 à L312-1-8)
 - [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1.md|L312-1]]
@@ -2742,9 +2735,8 @@
 - [[Livre_III/Titre_II/Chapitre_II/L322-8.md|L322-8]]
 - [[Livre_III/Titre_II/Chapitre_II/L322-9.md|L322-9]]
 - [[Livre_III/Titre_II/Chapitre_II/L322-10.md|L322-10]]
-### Chapitre III : Les services de communication de données (abrogé)
-- [[Livre_III/Titre_II/Chapitre_III/L323-1 (abrogé).md|L323-1 (abrogé)]]
-- [[Livre_III/Titre_II/Chapitre_III/L323-2 (abrogé).md|L323-2 (abrogé)]]
+- [[Livre_III/Titre_II/Chapitre_II/L323-1 (abrogé).md|L323-1 (abrogé)]]
+- [[Livre_III/Titre_II/Chapitre_II/L323-2 (abrogé).md|L323-2 (abrogé)]]
 ### Chapitre III : Obligations d'accessibilité (Articles L323-1 à L323-2)
 - [[Livre_III/Titre_II/Chapitre_III/L323-1.md|L323-1]]
 - [[Livre_III/Titre_II/Chapitre_III/L323-2.md|L323-2]]
@@ -2789,27 +2781,24 @@
 ### Chapitre III : Fourniture à distance de services financiers à un consommateur (Articles L343-1 à L343-2)
 - [[Livre_III/Titre_IV/Chapitre_III/L343-1.md|L343-1]]
 - [[Livre_III/Titre_IV/Chapitre_III/L343-2.md|L343-2]]
-## Titre IV : Le démarchage et le colportage (abrogé)
-### Chapitre II : Démarchage concernant les valeurs mobilières. (abrogé)
-- [[Livre_III/Titre_IV/Chapitre_II/L342-4 (abrogé).md|L342-4 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-5 (abrogé).md|L342-5 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-6 (abrogé).md|L342-6 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-7 (abrogé).md|L342-7 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-8 (abrogé).md|L342-8 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-9 (abrogé).md|L342-9 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-10 (abrogé).md|L342-10 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-11 (abrogé).md|L342-11 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-12 (abrogé).md|L342-12 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-13 (abrogé).md|L342-13 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-14 (abrogé).md|L342-14 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-15 (abrogé).md|L342-15 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-16 (abrogé).md|L342-16 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-17 (abrogé).md|L342-17 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-18 (abrogé).md|L342-18 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-19 (abrogé).md|L342-19 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-20 (abrogé).md|L342-20 (abrogé)]]
-- [[Livre_III/Titre_IV/Chapitre_II/L342-21 (abrogé).md|L342-21 (abrogé)]]
-### Chapitre III : Démarchage concernant les opérations sur le marché à terme. (abrogé)
+- [[Livre_III/Titre_IV/Chapitre_III/L342-4 (abrogé).md|L342-4 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-5 (abrogé).md|L342-5 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-6 (abrogé).md|L342-6 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-7 (abrogé).md|L342-7 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-8 (abrogé).md|L342-8 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-9 (abrogé).md|L342-9 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-10 (abrogé).md|L342-10 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-11 (abrogé).md|L342-11 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-12 (abrogé).md|L342-12 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-13 (abrogé).md|L342-13 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-14 (abrogé).md|L342-14 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-15 (abrogé).md|L342-15 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-16 (abrogé).md|L342-16 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-17 (abrogé).md|L342-17 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-18 (abrogé).md|L342-18 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-19 (abrogé).md|L342-19 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-20 (abrogé).md|L342-20 (abrogé)]]
+- [[Livre_III/Titre_IV/Chapitre_III/L342-21 (abrogé).md|L342-21 (abrogé)]]
 - [[Livre_III/Titre_IV/Chapitre_III/L343-1 (abrogé).md|L343-1 (abrogé)]]
 - [[Livre_III/Titre_IV/Chapitre_III/L343-2 (abrogé).md|L343-2 (abrogé)]]
 - [[Livre_III/Titre_IV/Chapitre_III/L343-3 (abrogé).md|L343-3 (abrogé)]]
@@ -2867,6 +2856,7 @@
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-8-1.md|L612-8-1]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-9.md|L612-9]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-10.md|L612-10]]
+- [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-10-1.md|L612-10-1]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-11.md|L612-11]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-12.md|L612-12]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_2/L612-13.md|L612-13]]
@@ -2878,6 +2868,7 @@
 #### Section 3 : Moyens de fonctionnement (Articles L612-18 à L612-20)
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_3/L612-18.md|L612-18]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_3/L612-19.md|L612-19]]
+- [[Livre_VI/Titre_Ier/Chapitre_II/Section_3/L612-19-1.md|L612-19-1]]
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_3/L612-20.md|L612-20]]
 #### Section 4 : Agréments et modifications de participations (Articles L612-21 à L612-22)
 - [[Livre_VI/Titre_Ier/Chapitre_II/Section_4/L612-21.md|L612-21]]
@@ -3123,17 +3114,14 @@
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-1.md|L614-1]]
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-2.md|L614-2]]
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-3.md|L614-3]]
-#### Section 1 : Conseil national du crédit et du titre et comité consultatif (abrogé)
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-4 (abrogé).md|L614-4 (abrogé)]]
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-5 (abrogé).md|L614-5 (abrogé)]]
 - [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-6 (abrogé).md|L614-6 (abrogé)]]
-#### Section 2 : Haut conseil du secteur financier public et semi-public (abrogé)
-- [[Livre_VI/Titre_Ier/Chapitre_IV/Section_2/L614-7 (abrogé).md|L614-7 (abrogé)]]
+- [[Livre_VI/Titre_Ier/Chapitre_IV/Section_1/L614-7 (abrogé).md|L614-7 (abrogé)]]
 ### Chapitre V : Autres institutions (Article L615-1)
 #### Section 1 : Commissaires du Gouvernement et mission de contrôle des activités financières (Article L615-1)
 - [[Livre_VI/Titre_Ier/Chapitre_V/Section_1/L615-1.md|L615-1]]
-#### Section 2 : Le comité de la médiation bancaire (abrogé)
-- [[Livre_VI/Titre_Ier/Chapitre_V/Section_2/L615-2 (abrogé).md|L615-2 (abrogé)]]
+- [[Livre_VI/Titre_Ier/Chapitre_V/Section_1/L615-2 (abrogé).md|L615-2 (abrogé)]]
 ## Titre II : L'Autorité des marchés financiers (Articles L621-1 à L621-35)
 ### Chapitre unique : L'Autorité des marchés financiers (Articles L621-1 à L621-35)
 #### Section 1 : Missions (Article L621-1)
@@ -3241,51 +3229,39 @@
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-33.md|L621-33]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-34.md|L621-34]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-35.md|L621-35]]
-## Titre II : Les autorités des marchés financiers (abrogé)
-### Chapitre Ier : Commission des opérations de bourse (abrogé)
-#### Section 5 : Contrôle des gestionnaires de portefeuille (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_5/L621-26 (abrogé).md|L621-26 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_5/L621-26-1 (abrogé).md|L621-26-1 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_5/L621-27 (abrogé).md|L621-27 (abrogé)]]
-#### Section 6 : Comité consultatif de la gestion financière (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_6/L621-28 (abrogé).md|L621-28 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_6/L621-29 (abrogé).md|L621-29 (abrogé)]]
-#### Section 7 : Voies de recours (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_Ier/Section_7/L621-31 (abrogé).md|L621-31 (abrogé)]]
-### Chapitre II : Conseil des marchés financiers (abrogé)
-#### Section 1 : Organisation (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-1 (abrogé).md|L622-1 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-2 (abrogé).md|L622-2 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-3 (abrogé).md|L622-3 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-4 (abrogé).md|L622-4 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-5 (abrogé).md|L622-5 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_1/L622-6 (abrogé).md|L622-6 (abrogé)]]
-#### Section 2 : Attributions (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-7 (abrogé).md|L622-7 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-8 (abrogé).md|L622-8 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-9 (abrogé).md|L622-9 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-10 (abrogé).md|L622-10 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-13 (abrogé).md|L622-13 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-14 (abrogé).md|L622-14 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-15 (abrogé).md|L622-15 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-16 (abrogé).md|L622-16 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-17 (abrogé).md|L622-17 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-18 (abrogé).md|L622-18 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-19 (abrogé).md|L622-19 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-20 (abrogé).md|L622-20 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-20-1 (abrogé).md|L622-20-1 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-22 (abrogé).md|L622-22 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-23 (abrogé).md|L622-23 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_II/Section_2/L622-24 (abrogé).md|L622-24 (abrogé)]]
-#### Section 3 : Voies de recours (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_II/Section_3/L622-25 (abrogé).md|L622-25 (abrogé)]]
-### Chapitre III : Conseil de discipline de la gestion financière (abrogé)
-#### Section 1 : Composition (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_III/Section_1/L623-1 (abrogé).md|L623-1 (abrogé)]]
-#### Section 2 : Exercice du pouvoir disciplinaire (abrogé)
-- [[Livre_VI/Titre_II/Chapitre_III/Section_2/L623-2 (abrogé).md|L623-2 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_III/Section_2/L623-3 (abrogé).md|L623-3 (abrogé)]]
-- [[Livre_VI/Titre_II/Chapitre_III/Section_2/L623-4 (abrogé).md|L623-4 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-26 (abrogé).md|L621-26 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-26-1 (abrogé).md|L621-26-1 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-27 (abrogé).md|L621-27 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-28 (abrogé).md|L621-28 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-29 (abrogé).md|L621-29 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L621-31 (abrogé).md|L621-31 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-1 (abrogé).md|L622-1 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-2 (abrogé).md|L622-2 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-3 (abrogé).md|L622-3 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-4 (abrogé).md|L622-4 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-5 (abrogé).md|L622-5 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-6 (abrogé).md|L622-6 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-7 (abrogé).md|L622-7 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-8 (abrogé).md|L622-8 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-9 (abrogé).md|L622-9 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-10 (abrogé).md|L622-10 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-13 (abrogé).md|L622-13 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-14 (abrogé).md|L622-14 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-15 (abrogé).md|L622-15 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-16 (abrogé).md|L622-16 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-17 (abrogé).md|L622-17 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-18 (abrogé).md|L622-18 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-19 (abrogé).md|L622-19 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-20 (abrogé).md|L622-20 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-20-1 (abrogé).md|L622-20-1 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-22 (abrogé).md|L622-22 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-23 (abrogé).md|L622-23 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-24 (abrogé).md|L622-24 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L622-25 (abrogé).md|L622-25 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L623-1 (abrogé).md|L623-1 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L623-2 (abrogé).md|L623-2 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L623-3 (abrogé).md|L623-3 (abrogé)]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_7/L623-4 (abrogé).md|L623-4 (abrogé)]]
 ## Titre III : Surveillance du système financier, coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers (Articles L631-1 à L634-4)
 ### Chapitre Ier : Surveillance du système financier, coopération et échanges d'informations sur le territoire national. (Articles L631-1 à L631-2-3)
 #### Section 1 : Coopération et échanges d'informations entre autorités (Article L631-1)
@@ -3361,13 +3337,10 @@
 - [[Livre_VI/Titre_IV/Chapitre_II/L642-1.md|L642-1]]
 - [[Livre_VI/Titre_IV/Chapitre_II/L642-2.md|L642-2]]
 - [[Livre_VI/Titre_IV/Chapitre_II/L642-3.md|L642-3]]
-### Chapitre II : Dispositions relatives aux autorités des marchés financiers (abrogé)
-#### Section 2 : Conseil des marchés financiers (abrogé)
-- [[Livre_VI/Titre_IV/Chapitre_II/Section_2/L642-4 (abrogé).md|L642-4 (abrogé)]]
-- [[Livre_VI/Titre_IV/Chapitre_II/Section_2/L642-5 (abrogé).md|L642-5 (abrogé)]]
-#### Section 3 : Conseil de discipline de la gestion financière (abrogé)
-- [[Livre_VI/Titre_IV/Chapitre_II/Section_3/L642-6 (abrogé).md|L642-6 (abrogé)]]
-- [[Livre_VI/Titre_IV/Chapitre_II/Section_3/L642-7 (abrogé).md|L642-7 (abrogé)]]
+- [[Livre_VI/Titre_IV/Chapitre_II/L642-4 (abrogé).md|L642-4 (abrogé)]]
+- [[Livre_VI/Titre_IV/Chapitre_II/L642-5 (abrogé).md|L642-5 (abrogé)]]
+- [[Livre_VI/Titre_IV/Chapitre_II/L642-6 (abrogé).md|L642-6 (abrogé)]]
+- [[Livre_VI/Titre_IV/Chapitre_II/L642-7 (abrogé).md|L642-7 (abrogé)]]
 # Livre IV : Les marchés (Articles L411-1 à L466-1)
 ## Titre Ier : Opérations (Articles L411-1 à L412-3)
 ### Chapitre Ier : Définitions et champ d'application (Articles L411-1 à L411-4)
@@ -3378,15 +3351,11 @@
 - [[Livre_IV/Titre_Ier/Chapitre_Ier/L411-4.md|L411-4]]
 ### Chapitre II : Dispositions générales (Articles L412-1 à L412-3)
 - [[Livre_IV/Titre_Ier/Chapitre_II/L412-1.md|L412-1]]
-#### Section 2 : Interdictions et sanctions (abrogé)
-- [[Livre_IV/Titre_Ier/Chapitre_II/Section_2/L412-4 (abrogé).md|L412-4 (abrogé)]]
-- [[Livre_IV/Titre_Ier/Chapitre_II/Section_2/L412-2.md|L412-2]]
-- [[Livre_IV/Titre_Ier/Chapitre_II/Section_2/L412-3.md|L412-3]]
-## Titre II : Les catégories de marchés (abrogé)
-### Chapitre Ier : Marchés réglementés français (abrogé)
-#### Section 5 : Centralisation des ordres sur les marchés réglementés. (abrogé)
-- [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-12 (abrogé).md|L421-12 (abrogé)]]
-- [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-13 (abrogé).md|L421-13 (abrogé)]]
+- [[Livre_IV/Titre_Ier/Chapitre_II/L412-4 (abrogé).md|L412-4 (abrogé)]]
+- [[Livre_IV/Titre_Ier/Chapitre_II/L412-2.md|L412-2]]
+- [[Livre_IV/Titre_Ier/Chapitre_II/L412-3.md|L412-3]]
+- [[Livre_IV/Titre_Ier/Chapitre_II/L421-12 (abrogé).md|L421-12 (abrogé)]]
+- [[Livre_IV/Titre_Ier/Chapitre_II/L421-13 (abrogé).md|L421-13 (abrogé)]]
 ## Titre II : Les plates-formes de négociation (Articles L420-1 à L426-1)
 ### Chapitre préliminaire : Dispositions communes (Articles L420-1 à L420-18)
 #### Section 1 : Définitions (Article L420-1)
@@ -3448,10 +3417,9 @@
 - [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-18.md|L421-18]]
 - [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-19.md|L421-19]]
 - [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-20.md|L421-20]]
-#### Section 6 : Obligations de transparence avant et après négociation (abrogé)
-- [[Livre_IV/Titre_II/Chapitre_Ier/Section_6/L421-21 (abrogé).md|L421-21 (abrogé)]]
-- [[Livre_IV/Titre_II/Chapitre_Ier/Section_6/L421-22 (abrogé).md|L421-22 (abrogé)]]
-- [[Livre_IV/Titre_II/Chapitre_Ier/Section_6/L421-23 (abrogé).md|L421-23 (abrogé)]]
+- [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-21 (abrogé).md|L421-21 (abrogé)]]
+- [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-22 (abrogé).md|L421-22 (abrogé)]]
+- [[Livre_IV/Titre_II/Chapitre_Ier/Section_5/L421-23 (abrogé).md|L421-23 (abrogé)]]
 ### Chapitre II : Marchés réglementés européens (Article L422-1)
 - [[Livre_IV/Titre_II/Chapitre_II/L422-1.md|L422-1]]
 ### Chapitre III : Marchés étrangers reconnus (Article L423-1)
@@ -3475,8 +3443,7 @@
 #### Section 6 : Systèmes multilatéraux de négociation européens (Articles L424-9 à L424-10)
 - [[Livre_IV/Titre_II/Chapitre_IV/Section_6/L424-9.md|L424-9]]
 - [[Livre_IV/Titre_II/Chapitre_IV/Section_6/L424-10.md|L424-10]]
-#### Section 7 : Dispositions transitoires (abrogé)
-- [[Livre_IV/Titre_II/Chapitre_IV/Section_7/L424-11 (abrogé).md|L424-11 (abrogé)]]
+- [[Livre_IV/Titre_II/Chapitre_IV/Section_6/L424-11 (abrogé).md|L424-11 (abrogé)]]
 ### Chapitre V : Systèmes organisés de négociation (Articles L425-1 à L425-10)
 #### Section 1 : Définition ; agrément ou autorisation du gestionnaire (Article L425-1)
 - [[Livre_IV/Titre_II/Chapitre_V/Section_1/L425-1.md|L425-1]]
@@ -3496,47 +3463,38 @@
 ### Chapitre VI : Détention, commerce et transport de l'or (Article L426-1)
 - [[Livre_IV/Titre_II/Chapitre_VI/L426-1.md|L426-1]]
 ## Titre III : Les négociations sur instruments financiers (Articles L433-1 à L433-5)
-### Chapitre Ier : Dispositions générales (abrogé)
-#### Section 1 : Transfert de propriété des titres et mise en gage (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_1/L431-1 (abrogé).md|L431-1 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_1/L431-2 (abrogé).md|L431-2 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_1/L431-3 (abrogé).md|L431-3 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_1/L431-4 (abrogé).md|L431-4 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_1/L431-5 (abrogé).md|L431-5 (abrogé)]]
-#### Section 2 : Compensation et cession de créances (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_2/L431-7 (abrogé).md|L431-7 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_2/L431-7-1 (abrogé).md|L431-7-1 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_2/L431-7-2 (abrogé).md|L431-7-2 (abrogé)]]
-#### Section 3 : Garanties (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_3/L431-7-3 (abrogé).md|L431-7-3 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_3/L431-7-4 (abrogé).md|L431-7-4 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_Ier/Section_3/L431-7-5 (abrogé).md|L431-7-5 (abrogé)]]
-### Chapitre II : Formes particulières de cessions d'instruments financiers (abrogé)
-#### Section 1 : Vente à crédit. (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_II/Section_1/L432-1 (abrogé).md|L432-1 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_1/L432-2 (abrogé).md|L432-2 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_1/L432-3 (abrogé).md|L432-3 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_1/L432-4 (abrogé).md|L432-4 (abrogé)]]
-#### Section 2 : Adjudication. (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_II/Section_2/L432-5 (abrogé).md|L432-5 (abrogé)]]
-#### Section 3 : Cessions temporaires (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-6 (abrogé).md|L432-6 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-7 (abrogé).md|L432-7 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-8 (abrogé).md|L432-8 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-9 (abrogé).md|L432-9 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-10 (abrogé).md|L432-10 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-11 (abrogé).md|L432-11 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-12 (abrogé).md|L432-12 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-13 (abrogé).md|L432-13 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-14 (abrogé).md|L432-14 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-15 (abrogé).md|L432-15 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-16 (abrogé).md|L432-16 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-17 (abrogé).md|L432-17 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-18 (abrogé).md|L432-18 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_3/L432-19 (abrogé).md|L432-19 (abrogé)]]
-#### Section 4 : Opérations à terme. (abrogé)
-- [[Livre_IV/Titre_III/Chapitre_II/Section_4/L432-20 (abrogé).md|L432-20 (abrogé)]]
-- [[Livre_IV/Titre_III/Chapitre_II/Section_4/L432-21 (abrogé).md|L432-21 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-1 (abrogé).md|L431-1 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-2 (abrogé).md|L431-2 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-3 (abrogé).md|L431-3 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-4 (abrogé).md|L431-4 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-5 (abrogé).md|L431-5 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7 (abrogé).md|L431-7 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7-1 (abrogé).md|L431-7-1 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7-2 (abrogé).md|L431-7-2 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7-3 (abrogé).md|L431-7-3 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7-4 (abrogé).md|L431-7-4 (abrogé)]]
+- [[Livre_IV/Titre_III/L431-7-5 (abrogé).md|L431-7-5 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-1 (abrogé).md|L432-1 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-2 (abrogé).md|L432-2 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-3 (abrogé).md|L432-3 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-4 (abrogé).md|L432-4 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-5 (abrogé).md|L432-5 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-6 (abrogé).md|L432-6 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-7 (abrogé).md|L432-7 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-8 (abrogé).md|L432-8 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-9 (abrogé).md|L432-9 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-10 (abrogé).md|L432-10 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-11 (abrogé).md|L432-11 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-12 (abrogé).md|L432-12 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-13 (abrogé).md|L432-13 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-14 (abrogé).md|L432-14 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-15 (abrogé).md|L432-15 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-16 (abrogé).md|L432-16 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-17 (abrogé).md|L432-17 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-18 (abrogé).md|L432-18 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-19 (abrogé).md|L432-19 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-20 (abrogé).md|L432-20 (abrogé)]]
+- [[Livre_IV/Titre_III/L432-21 (abrogé).md|L432-21 (abrogé)]]
 ### Chapitre III : Opérations spécifiques aux marchés réglementés (Articles L433-1 à L433-5)
 #### Section 1 : Offres publiques d'achat et d'échange (Articles L433-1 à L433-2)
 - [[Livre_IV/Titre_III/Chapitre_III/Section_1/L433-1.md|L433-1]]
@@ -3564,11 +3522,9 @@
 ### Chapitre II : Les dépositaires centraux (Articles L441-1 à L441-2)
 - [[Livre_IV/Titre_IV/Chapitre_II/L441-1.md|L441-1]]
 - [[Livre_IV/Titre_IV/Chapitre_II/L441-2.md|L441-2]]
-## Titre IV : Les entreprises de marché et les chambres de compensation (abrogé)
-### Chapitre Ier : Entreprises de marché. (abrogé)
-- [[Livre_IV/Titre_IV/Chapitre_Ier/L441-1 (abrogé).md|L441-1 (abrogé)]]
-- [[Livre_IV/Titre_IV/Chapitre_Ier/L441-2 (abrogé).md|L441-2 (abrogé)]]
-- [[Livre_IV/Titre_IV/Chapitre_Ier/L441-3 (abrogé).md|L441-3 (abrogé)]]
+- [[Livre_IV/Titre_IV/Chapitre_II/L441-1 (abrogé).md|L441-1 (abrogé)]]
+- [[Livre_IV/Titre_IV/Chapitre_II/L441-2 (abrogé).md|L441-2 (abrogé)]]
+- [[Livre_IV/Titre_IV/Chapitre_II/L441-3 (abrogé).md|L441-3 (abrogé)]]
 ## Titre V : La protection des investisseurs (Articles L451-1-1 à L452-4)
 ### Chapitre Ier : La transparence des marchés (Articles L451-1-1 à L451-4)
 #### Section 1 : Les obligations d'information relative aux comptes (Articles L451-1-1 à L451-1-6)
@@ -3595,14 +3551,12 @@
 - [[Livre_IV/Titre_V/Chapitre_II/L452-3.md|L452-3]]
 - [[Livre_IV/Titre_V/Chapitre_II/L452-4.md|L452-4]]
 ## Titre VI : Dispositions pénales (Articles L462-2 à L466-1)
-### Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (abrogé)
-- [[Livre_IV/Titre_VI/Chapitre_Ier/L461-1 (abrogé).md|L461-1 (abrogé)]]
+- [[Livre_IV/Titre_VI/L461-1 (abrogé).md|L461-1 (abrogé)]]
 ### Chapitre II : Infractions relatives aux marchés réglementés (Article L462-2)
 - [[Livre_IV/Titre_VI/Chapitre_II/L462-1 (abrogé).md|L462-1 (abrogé)]]
 - [[Livre_IV/Titre_VI/Chapitre_II/L462-2.md|L462-2]]
-### Chapitre III : Infractions relatives aux négociations sur instruments financiers. (abrogé)
-- [[Livre_IV/Titre_VI/Chapitre_III/L463-1 (abrogé).md|L463-1 (abrogé)]]
-- [[Livre_IV/Titre_VI/Chapitre_III/L463-2 (abrogé).md|L463-2 (abrogé)]]
+- [[Livre_IV/Titre_VI/Chapitre_II/L463-1 (abrogé).md|L463-1 (abrogé)]]
+- [[Livre_IV/Titre_VI/Chapitre_II/L463-2 (abrogé).md|L463-2 (abrogé)]]
 ### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (Articles L464-1 à L464-2)
 - [[Livre_IV/Titre_VI/Chapitre_IV/L464-1.md|L464-1]]
 - [[Livre_IV/Titre_VI/Chapitre_IV/L464-2.md|L464-2]]
@@ -3656,15 +3610,12 @@
 - [[Livre_Ier/Titre_Ier/Chapitre_II/Section_6/L112-14.md|L112-14]]
 ### Chapitre III : Conversion à l'unité euro (Article L113-1)
 - [[Livre_Ier/Titre_Ier/Chapitre_III/L113-1.md|L113-1]]
-#### Section 1 : Utilisation de l'euro par les marchés financiers. (abrogé)
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_1/L113-2 (abrogé).md|L113-2 (abrogé)]]
-#### Section 2 : Modalités de conversion en euros des dettes publiques et privées. (abrogé)
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_2/L113-3 (abrogé).md|L113-3 (abrogé)]]
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_2/L113-4 (abrogé).md|L113-4 (abrogé)]]
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_2/L113-5 (abrogé).md|L113-5 (abrogé)]]
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_2/L113-6 (abrogé).md|L113-6 (abrogé)]]
-#### Section 3 : Continuité des relations contractuelles. (abrogé)
-- [[Livre_Ier/Titre_Ier/Chapitre_III/Section_3/L113-8 (abrogé).md|L113-8 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-2 (abrogé).md|L113-2 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-3 (abrogé).md|L113-3 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-4 (abrogé).md|L113-4 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-5 (abrogé).md|L113-5 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-6 (abrogé).md|L113-6 (abrogé)]]
+- [[Livre_Ier/Titre_Ier/Chapitre_III/L113-8 (abrogé).md|L113-8 (abrogé)]]
 ## Titre II : La monnaie fiduciaire (Articles L121-1 à L123-1)
 ### Chapitre Ier : Les monnaies métalliques (Articles L121-1 à L121-6)
 #### Section 1 : Les pièces métalliques (Articles L121-1 à L121-2)
@@ -3782,9 +3733,7 @@
 - [[Livre_Ier/Titre_III/Chapitre_Ier/Section_12/L131-86.md|L131-86]]
 - [[Livre_Ier/Titre_III/Chapitre_Ier/Section_12/L131-86-1.md|L131-86-1]]
 - [[Livre_Ier/Titre_III/Chapitre_Ier/Section_12/L131-87.md|L131-87]]
-### Chapitre Ier : Le chèque (abrogé)
-#### Section 2 : Le chèque postal. (abrogé)
-- [[Livre_Ier/Titre_III/Chapitre_Ier/Section_2/L131-88 (abrogé).md|L131-88 (abrogé)]]
+- [[Livre_Ier/Titre_III/Chapitre_Ier/Section_12/L131-88 (abrogé).md|L131-88 (abrogé)]]
 ### Chapitre II : La lettre de change et le billet à ordre (Articles L132-1 à L132-2)
 - [[Livre_Ier/Titre_III/Chapitre_II/L132-1.md|L132-1]]
 - [[Livre_Ier/Titre_III/Chapitre_II/L132-2.md|L132-2]]
@@ -3882,11 +3831,10 @@
 #### Section 2 : Le conseil général (Articles L142-2 à L142-3)
 - [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-2.md|L142-2]]
 - [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-3.md|L142-3]]
-#### Section 3 : Le comité monétaire du conseil général. (abrogé)
-- [[Livre_Ier/Titre_IV/Chapitre_II/Section_3/L142-4 (abrogé).md|L142-4 (abrogé)]]
-- [[Livre_Ier/Titre_IV/Chapitre_II/Section_3/L142-5 (abrogé).md|L142-5 (abrogé)]]
-- [[Livre_Ier/Titre_IV/Chapitre_II/Section_3/L142-6 (abrogé).md|L142-6 (abrogé)]]
-- [[Livre_Ier/Titre_IV/Chapitre_II/Section_3/L142-7 (abrogé).md|L142-7 (abrogé)]]
+- [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-4 (abrogé).md|L142-4 (abrogé)]]
+- [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-5 (abrogé).md|L142-5 (abrogé)]]
+- [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-6 (abrogé).md|L142-6 (abrogé)]]
+- [[Livre_Ier/Titre_IV/Chapitre_II/Section_2/L142-7 (abrogé).md|L142-7 (abrogé)]]
 #### Section 4 : Le gouverneur et les sous-gouverneurs (Article L142-8)
 - [[Livre_Ier/Titre_IV/Chapitre_II/Section_4/L142-8.md|L142-8]]
 #### Section 5 : Le personnel de la banque (Article L142-9)

@@ -12,4 +12,4 @@
 
 Est constitué à la caisse centrale des banques populaires, un fonds collectif de garantie. Ce fonds est alimenté par un prélèvement de 10 % sur les bénéfices nets réalisés par les banques populaires avant tout amortissement et toute répartition.
 
-Sous-section 4 : Contrôles. (abrogé)
+abrogé Sous-section 4 : Contrôles.

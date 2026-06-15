@@ -3,7 +3,7 @@
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
 > 🧭 Chemin - Livre V : Les prestataires de services (Articles R511-1 à R571-3) > Titre IV : Autres prestataires de services (Articles D541-8 à R54-11-7) > Chapitre Ier : Les conseillers en investissements financiers. (Articles D541-8 à R541-11)
-> [[R533-22 (abrogé)]] ⬅️ |   ➡️ [[D541-2 (abrogé)]]
+> [[R533-22]] ⬅️ |   ➡️ [[D541-2 (abrogé)]]
 
 > [!warning] Article abrogé.
 

@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Réglementaire.md|Sommaire]]
-> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à D744-17) > Chapitre Ier : Dispositions particulières à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (Articles R741-1 à R741-6-0) > Section 2 : Dispositions particulières à Saint-Martin (Articles R741-2 à R741-2-1-0)
+> 🧭 Chemin - Livre VII : Dispositions relatives à l'Outre-mer (Articles R711-1 à R784-22) > Titre IV : Conditions d'application en Outre-mer des dispositions du livre II relatif aux produits (Articles R741-1 à R744-18) > Chapitre Ier : Dispositions particulières à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (Articles R741-1 à R741-6-0) > Section 2 : Dispositions particulières à Saint-Martin (Articles R741-2 à R741-2-1-0)
 > [[R741-2]] ⬅️ |   ➡️ [[R741-2-1-0]]
 
 > [!warning] Article abrogé.

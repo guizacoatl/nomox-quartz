@@ -12,4 +12,4 @@
 
 Les banques populaires et leur chambre syndicale sont soumises aux vérifications de l'inspection générale des finances.
 
-Sous-section 5 : Dispositions diverses. (abrogé)
+abrogé Sous-section 5 : Dispositions diverses.

@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
-> 🧭 Chemin - Livre VI : Les institutions en matière bancaire et financière (Articles L611-1 à L642-3) > Titre Ier : Les institutions compétentes en matière de réglementation et de contrôle (Articles L611-1 à L615-1) > Chapitre IV : Institutions consultatives (Articles L614-1 à L614-3) > Section 1 : Conseil national du crédit et du titre et comité consultatif (abrogé)
+> 🧭 Chemin - Livre VI : Les institutions en matière bancaire et financière (Articles L611-1 à L642-3) > Titre Ier : Les institutions compétentes en matière de réglementation et de contrôle (Articles L611-1 à L615-1) > Chapitre IV : Institutions consultatives (Articles L614-1 à L614-3) > Section 1 : Comité consultatif du secteur financier et Comité consultatif de la législation et de la réglementation financières (Articles L614-1 à L614-3)
 > [[L614-5 (abrogé)]] ⬅️ |   ➡️ [[L614-7 (abrogé)]]
 
 > [!warning] Article abrogé.
@@ -17,3 +17,5 @@ Le comité fait annuellement rapport au conseil national du crédit et du titre.
 Le comité est présidé par une personnalité choisie en raison de sa compétence en matière bancaire et financière et est composé en majorité, et en nombre égal, de représentants des établissements de crédit et de représentants de la clientèle.
 
 Les conditions de désignation des membres du comité ainsi que ses règles d'organisation et de fonctionnement sont fixées par décret.
+
+abrogé Section 2 : Haut conseil du secteur financier public et semi-public

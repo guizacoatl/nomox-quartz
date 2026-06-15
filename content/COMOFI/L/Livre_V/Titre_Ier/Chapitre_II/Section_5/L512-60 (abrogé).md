@@ -2,7 +2,7 @@
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
-> 🧭 Chemin - Livre V : Les prestataires de services (Articles L500-1 à L574-7) > Titre Ier : Prestataires de services bancaires (Articles L511-1 à L519-17) > Chapitre II : Les banques mutualistes ou coopératives (Articles L512-1 à L512-108) > Section 5 : Le crédit coopératif. (abrogé)
+> 🧭 Chemin - Livre V : Les prestataires de services (Articles L500-1 à L574-7) > Titre Ier : Prestataires de services bancaires (Articles L511-1 à L519-17) > Chapitre II : Les banques mutualistes ou coopératives (Articles L512-1 à L512-108) > Section 5 : Le crédit mutuel agricole et rural (Article L512-60)
 > [[L512-60]] ⬅️ |   ➡️ [[L512-61]]
 
 > [!warning] Article abrogé.
