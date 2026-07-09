@@ -11,18 +11,20 @@
 
 ## Level 2 - Niveau 2
 
-| Name - Nom                | Type     | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
-| ------------------ | -------- | ------------------ | ------------------ |
-| Designation CTPP   | Criteria | [[2024R1502_EN.0]] | [[2024R1502_FR.0]] |
-| Oversight fee CTPP |          | [[2024R1505_EN.0]] | [[2024R1505_FR.0]] |
-| Criteria incident  | RTS      | [[2024R1772_EN.0]] | [[2024R1772_FR.0]] |
-| ICT risk mgt       | RTS      | [[2024R1774_EN.0]] | [[2024R1774_FR.0]] |
-| Contract argmt ICT | RTS      | [[2024R1773_EN.0]] | [[2024R1773_FR.0]] |
-| DORA2956           | ITS      | [[2024R2956_EN.0]] | [[2024R2956_FR.0]] |
-| DORA301            | RTS      | [[2025R0301_EN.0]] | [[2025R0301_FR.0]] |
-| DORA302            | ITS      | [[2025R0302_EN.0]] | [[2025R0302_FR.0]] |
-| DORA295            | RTS      | [[2025R0295_EN.0]] | [[2025R0295_FR.0]] |
-| DORA420            | RTS      | [[2025R0420_EN.0]] | [[2025R0420_FR.0]] |
+| Name - Nom              | Type     | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
+| ----------------------- | -------- | ------------------ | ------------------ |
+| Designation CTPP        | Criteria | [[2024R1502_EN.0]] | [[2024R1502_FR.0]] |
+| Oversight fee CTPP      |          | [[2024R1505_EN.0]] | [[2024R1505_FR.0]] |
+| Criteria incident       | RTS      | [[2024R1772_EN.0]] | [[2024R1772_FR.0]] |
+| ICT risk mgt            | RTS      | [[2024R1774_EN.0]] | [[2024R1774_FR.0]] |
+| ICT 3rd party policy    | RTS      | [[2024R1773_EN.0]] | [[2024R1773_FR.0]] |
+| Register of information | ITS      | [[2024R2956_EN.0]] | [[2024R2956_FR.0]] |
+| Incident reporting      | RTS      | [[2025R0301_EN.0]] | [[2025R0301_FR.0]] |
+| Incident reporting ITS  | ITS      | [[2025R0302_EN.0]] | [[2025R0302_FR.0]] |
+| Oversight harmonisation | RTS      | [[2025R0295_EN.0]] | [[2025R0295_FR.0]] |
+| Joint examination teams | RTS      | [[2025R0420_EN.0]] | [[2025R0420_FR.0]] |
+| Pen testing             | RTS      | [[2025R1190_EN.0]] | [[2025R1190_FR.0]] |
+| ICT subcontracting      | RTS      | [[2025R0532_EN.0]] | [[2025R0532_FR.0]] |
 
 ## Level 3 - Niveau 3
 
