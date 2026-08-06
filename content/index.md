@@ -11,7 +11,7 @@ What **NOMOX** do:
 - **Interconnection**: Cross-references between Level 1 frameworks, Level 2 technical standards and transposition into French law are pre-mapped via bi-directional links.
 - **Flexibility**: An open ecosystem, accessible to all.
 
-Explore the fully updated and transposed regulatory corpus now via our general [[Récapitulatif|Summary]].
+Explore the fully updated and transposed regulatory corpus now via our general [[Recap|Summary]].
 
 ---
 
@@ -24,7 +24,7 @@ Ce que **NOMOX** propose :
 - **Interconnexion** : Les liaisons entre le Niveau 1 (Directives/Regulations), le Niveau 2 (Normes techniques) et la transposition des directives en droit français sont pré-cartographiées.
 - **Flexibilité** : Un écosystème ouvert, accessibles à tous.
 
-Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Récapitulatif]] général.
+Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap]] général.
 
 ---
 
@@ -90,6 +90,11 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Réca
     <span class="card-label">MIF2</span>
     <span class="card-title">Markets in Financial Instruments Directive</span>
     <span class="card-ref">Directive 2014/65/UE</span>
+  </a>
+  <a href="./MIFIR" class="card">
+    <span class="card-label">MIFIR</span>
+    <span class="card-title">Markets in financial instruments</span>
+    <span class="card-ref">Regulation (UE) n° 600/2014</span>
   </a>
   <a href="./PILOT" class="card">
     <span class="card-label">PILOT</span>
