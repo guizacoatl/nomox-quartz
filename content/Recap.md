@@ -359,7 +359,7 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 ## Level 2 - Niveau 2
 
-| Name - Nom                           | Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
+| Name - Nom                    | Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
 | ----------------------------- | ---- | ------------------ | ------------------ |
 | Market practice               | RTS  | [[2016R0908_EN.0]] | [[2016R0908_FR.0]] |
 | Notification NCA              | RTS  | [[2016R0909_EN.0]] | [[2016R0909_FR.0]] |
@@ -370,7 +370,7 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 | Cooperation arrangement       | RTS  | [[2021R1783_EN.0]] | [[2021R1783_FR.0]] |
 | Liquidity contract            | RTS  | [[2022R1959_EN.0]] | [[2022R1959_FR.0]] |
 | NCA report info               |      | [[2016R0522_EN.0]] | [[2016R0522_FR.0]] |
-| Format insider list           |      | [[2022R1210_EN.0]] | [[2022R1210_FR.0]] |
+| Format insider list           |      | [[2026R1291_EN.0]] | [[2026R1291_FR.0]] |
 | Public disclo inside info     |      | [[2016R1055_EN.0]] | [[2016R1055_FR.0]] |
 
 ## Level 3 - Niveau 3
