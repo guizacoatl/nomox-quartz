@@ -13,6 +13,8 @@ What **NOMOX** do:
 
 Explore the fully updated and transposed regulatory corpus now via our general [[Recap|Summary]].
 
+*Contact form below.*
+
 ---
 
 # 🇫🇷 NOMOX - La donnée réglementaire, enfin structurée
@@ -26,6 +28,8 @@ Ce que **NOMOX** propose :
 
 Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap]] général.
 
+*Formulaire de contact en bas de page.*
+
 ---
 
 🇪🇺 European regulation in 🇬🇧 & 🇫🇷
@@ -33,7 +37,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 <div class="card-grid">
   <a href="./AIFMD" class="card">
     <span class="card-label">AIFMD</span>
-    <span class="card-title">Alternative Investment Fund Managers and amending Directives</span>
+    <span class="card-title">Alternative Investment Fund Managers</span>
     <span class="card-ref">Directive 2011/61/UE</span>
   </a>
   <a href="./BMR" class="card">
@@ -131,8 +135,8 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
     <span class="card-title">Framework to facilitate sustainable investment</span>
     <span class="card-ref">Regulation (UE) n° 852/2020</span>
   </a>
-  <a href="./TRANSPARENCE" class="card">
-    <span class="card-label">TRANSPARENCE</span>
+  <a href="./TRANSPARENCY" class="card">
+    <span class="card-label">TRANSPARENCY</span>
     <span class="card-title">Harmonisation of transparency requirements...</span>
     <span class="card-ref">Directive 2004/109/UE</span>
   </a>
@@ -150,11 +154,44 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
   <a href="./COMOFI" class="card">
     <span class="card-label">COMOFI</span>
     <span class="card-title">Code Monétaire et Financier</span>
-    <span class="card-ref">Directive 2011/61/UE</span>
   </a>
   <a href="./RGAMF" class="card">
     <span class="card-label">RGAMF</span>
     <span class="card-title">Règlement Général de l'AMF</span>
-    <span class="card-ref">Regulation (UE) n° 1011/2016</span>
   </a>
+</div>
+
+
+---
+
+## 📬 Contact
+
+<div class="contact-section">
+
+<p><strong>🇬🇧</strong> A question, a suggestion, or a bug to report? Send us a message directly — no email address required.</p>
+
+<p><strong>🇫🇷</strong> Une question, une suggestion, ou un bug à signaler ? Envoyez-nous un message directement — sans passer par une adresse mail.</p>
+
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+  <input type="hidden" name="form-name" value="contact" />
+  <p style="display:none">
+    <label>Ne pas remplir / Leave this blank: <input name="bot-field" /></label>
+  </p>
+  <p>
+    <label for="contact-name">Nom / Name</label><br/>
+    <input type="text" id="contact-name" name="name" required />
+  </p>
+  <p>
+    <label for="contact-email">Email</label><br/>
+    <input type="email" id="contact-email" name="email" required />
+  </p>
+  <p>
+    <label for="contact-message">Message</label><br/>
+    <textarea id="contact-message" name="message" rows="5" required></textarea>
+  </p>
+  <p>
+    <button type="submit">Envoyer / Send</button>
+  </p>
+</form>
+
 </div>
