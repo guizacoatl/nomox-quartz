@@ -22,13 +22,13 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 ## Level 2 - Niveau 2
 
-| Name - Nom              | Type  | LVL2  (🇬🇧)                      | LVL2 (🇫🇷)                                                                                |
-| ---------------- | ----- | --------------------------------- | ------------------------------------------------------------------------------------------ |
-| Exemption        | DAC   | [[2013R0231_EN.0]]                | [[2013R0231_FR.0]]                                                                         |
-| Info to ESMA     | DAC   | [[2015R0514_EN.0]]                | [[2015R0514_FR.0]]                                                                         |
-| Info crossborder | RTS   | [[2024R0912_EN.0]]                | [[2024R0912_FR.0]]                                                                         |
-| 2024R0913        | *Bug* | [[OJ_L_202400913_EN_TXT.pdf\|EN]] | [[OJ_L_202400913_FR_TXT.pdf\|FR]]                                                          |
-| Liquidity mgt    | RTS   | A venir                           | [URL](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)7643&lang=en) |
+| Name - Nom       | Type  | LVL2  (🇬🇧)                                                                                                                        | LVL2 (🇫🇷)                                                                                                                         |
+| ---------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Exemption        | DAC   | [[2013R0231_EN.0]]                                                                                                                  | [[2013R0231_FR.0]]                                                                                                                  |
+| Info to ESMA     | DAC   | [[2015R0514_EN.0]]                                                                                                                  | [[2015R0514_FR.0]]                                                                                                                  |
+| Info crossborder | RTS   | [[2024R0912_EN.0]]                                                                                                                  | [[2024R0912_FR.0]]                                                                                                                  |
+| 2024R0913        | *Bug* | [[OJ_L_202400913_EN_TXT.pdf\|PDF]] [URL](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202400913&qid=1786128370353) | [[OJ_L_202400913_FR_TXT.pdf\|PDF]] [URL](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=OJ:L_202400913&qid=1786128370353) |
+| Liquidity mgt    | RTS   | A venir                                                                                                                             | [URL](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)7643&lang=en)                                          |
 
 ## Level 3 - Niveau 3
 
@@ -53,7 +53,7 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2016R1011_EN.0]] | [[2016R1011_FR.0]] |
 
