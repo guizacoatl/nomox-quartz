@@ -13,6 +13,8 @@ surnom_texte_lvl1: DORA
 ## Regulatory Context
 Regulation : DORA
 
+**Linked Articles:** [[2024R1774_EN.28]]
+
 **Level 1 Regulation:** Regulation (EU) 2022/2554 - The Digital Operational Resilience Act (DORA)
 
 **Level 2 Regulation:** *No information available*

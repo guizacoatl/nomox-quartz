@@ -13,6 +13,8 @@ surnom_texte_lvl1: EMIR
 ## Regulatory Context
 Regulation : EMIR
 
+**Linked Articles:** [[2012R0648_EN.10]]
+
 **Level 1 Regulation:** European Market Infrastructure Regulation (EMIR) Regulation (EU) No 648/2012- PTR- Derivatives
 
 **Level 2 Regulation:** Regulation 149/2013 on indirect clearing arrangements, the clearing obligation, the public register, access to a TV, non-financial ctps, and risk mitigation for OTC derivatives not CCP cleared

@@ -13,6 +13,8 @@ surnom_texte_lvl1: MICA
 ## Regulatory Context
 Regulation : MICA
 
+**Linked Articles:** [[2023R1114_EN.2]]
+
 **Level 1 Regulation:** MiCA
 
 **Level 2 Regulation:** *No information available*

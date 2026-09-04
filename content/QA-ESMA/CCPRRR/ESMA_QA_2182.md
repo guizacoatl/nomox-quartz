@@ -13,6 +13,8 @@ surnom_texte_lvl1: CCPRRR
 ## Regulatory Context
 Regulation : CCPRRR
 
+**Linked Articles:** [[2012R0648_EN.18]]
+
 **Level 1 Regulation:** Regulation 2021/23 - recovery and resolution of central counterparties (CCPRRR)
 
 **Level 2 Regulation:** *No information available*

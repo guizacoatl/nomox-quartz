@@ -13,6 +13,8 @@ surnom_texte_lvl1: SSR
 ## Regulatory Context
 Regulation : SSR
 
+**Linked Articles:** [[2012R0236_EN.13]]
+
 **Level 1 Regulation:** Short Selling Regulation (SSR) Regulation (EU) No 236/2012
 
 **Level 2 Regulation:** *No information available*

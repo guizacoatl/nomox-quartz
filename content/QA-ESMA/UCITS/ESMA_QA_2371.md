@@ -13,6 +13,8 @@ surnom_texte_lvl1: UCITS
 ## Regulatory Context
 Regulation : UCITS
 
+**Linked Articles:** [[2020R1818_EN.12]]
+
 **Level 1 Regulation:** Undertakings for Collective Investment in Transferable Securities Directive (UCITS) Directive 2009/65/EC
 
 **Level 2 Regulation:** UCITS - Directive 2010/43/EU on organisational requirements, conflicts of interest, conduct of business, risk management and content of the agreement between a depositary and a management company

@@ -13,6 +13,8 @@ surnom_texte_lvl1: SFDR
 ## Regulatory Context
 Regulation : SFDR
 
+**Linked Articles:** [[2020R1818_EN.12]]
+
 **Level 1 Regulation:** Regulation (EU) 2019/2088 - Sustainable Finance Disclosure Regulation (SFDR)
 
 **Level 2 Regulation:** UCITS - Directive 2007/16/EC on the coordination of laws, regulations and administrative provisions relating to UCITS as regard the clarification of certain definitions

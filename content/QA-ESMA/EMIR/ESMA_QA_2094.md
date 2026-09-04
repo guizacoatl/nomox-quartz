@@ -13,6 +13,8 @@ surnom_texte_lvl1: EMIR
 ## Regulatory Context
 Regulation : EMIR
 
+**Linked Articles:** [[2022R1860_EN.0]]
+
 **Level 1 Regulation:** European Market Infrastructure Regulation (EMIR) Regulation (EU) No 648/2012- MDP
 
 **Level 2 Regulation:** *No information available*

@@ -13,6 +13,8 @@ surnom_texte_lvl1: AIFMD
 ## Regulatory Context
 Regulation : AIFMD
 
+**Linked Articles:** [[2011L0061_EN.4]]
+
 **Level 1 Regulation:** Alternative Investment Fund Managers Directive (AIFMD) Directive 2011/61/EU
 
 **Level 2 Regulation:** AIFMD - Regulation 231/2013 with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision

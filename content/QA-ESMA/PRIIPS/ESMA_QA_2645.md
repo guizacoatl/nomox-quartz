@@ -13,6 +13,8 @@ surnom_texte_lvl1: PRIIPS
 ## Regulatory Context
 Regulation : PRIIPS
 
+**Linked Articles:** Not available
+
 **Level 1 Regulation:** Packaged Retail and Insurance-based Investment Products Regulation (PRIIPS) Regulation (EU) No 1286/2014
 
 **Level 2 Regulation:** PRIIPS - Regulation 2017/653 on the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents

@@ -13,6 +13,8 @@ surnom_texte_lvl1: MAR
 ## Regulatory Context
 Regulation : MAR
 
+**Linked Articles:** [[2014R0596_EN.16]]
+
 **Level 1 Regulation:** Market Abuse Regulation (MAR) Regulation (EU) No 596/2014 - Market Intergrity
 
 **Level 2 Regulation:** Regulation  2016/957- RTS on arrangements, systems, procedures and notification templates for preventing, detecting and reporting abusive practices or reporting suspicious orders or transactions

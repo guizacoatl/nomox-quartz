@@ -4,7 +4,7 @@ title: Welcome to Nomox
 
 # 🇬🇧 NOMOX - Regulatory data, finally structured
 
-Stop wasting time navigating between dense EUR-Lex PDFs and complex national legislative trees. **NOMOX** is the first article-by-article reference database designed specifically for demanding compliance and legal professionals.
+Stop wasting time navigating between dense [EUR-LEX](https://eur-lex.europa.eu/homepage.html?locale=en) PDFs and complex national legislative trees. **NOMOX** is the first article-by-article reference database designed specifically for demanding compliance and legal professionals.
 
 What **NOMOX** do:
 - **Absolute Granularity**: Every regulatory provision (Level 1 Laws/Directives, RTS, ITS, level 3) has its own standalone Markdown file.
@@ -19,7 +19,7 @@ Explore the fully updated and transposed regulatory corpus now via our general [
 
 # 🇫🇷 NOMOX - La donnée réglementaire, enfin structurée
 
-Ne perdez plus votre temps à naviguer entre les PDFs d'Eur-Lex et les arborescences complexes de Légifrance. **NOMOX** est le premier référentiel fragmenté par article conçu spécifiquement pour les professionnels exigeants de la conformité et du juridique.
+Ne perdez plus votre temps à naviguer entre les PDFs d'[EUR-LEX](https://eur-lex.europa.eu/homepage.html?locale=fr) et les arborescences complexes de Légifrance. **NOMOX** est le premier référentiel fragmenté par article conçu spécifiquement pour les professionnels exigeants de la conformité et du juridique.
 
 Ce que **NOMOX** propose :
 - **Granularité** : Chaque disposition (Lois, Regulations, RTS, ITS) dispose de sa propre fiche autonome au format Markdown.
@@ -32,7 +32,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 
 ---
 
-🇪🇺 European regulation in 🇬🇧 & 🇫🇷
+# 🇪🇺 European regulation
 
 <div class="card-grid">
   <a href="./AIFMD" class="card">
@@ -148,29 +148,25 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 </div>
 
 
-🇫🇷 French law
+# 🇫🇷 French law
 
 <div class="card-grid">
-  <a href="./COMOFI" class="card">
+  <a href="./CMF" class="card">
     <span class="card-label">COMOFI</span>
     <span class="card-title">Code Monétaire et Financier</span>
-  </a>
-  <a href="./RGAMF" class="card">
-    <span class="card-label">RGAMF</span>
-    <span class="card-title">Règlement Général de l'AMF</span>
   </a>
 </div>
 
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 <div class="contact-section">
 
-<p><strong>🇬🇧</strong> A question, a suggestion, or a bug to report? Send us a message directly — no email address required.</p>
+<p><strong>🇬🇧</strong> A question, a suggestion, or a bug to report? Send us a message directly.</p>
 
-<p><strong>🇫🇷</strong> Une question, une suggestion, ou un bug à signaler ? Envoyez-nous un message directement — sans passer par une adresse mail.</p>
+<p><strong>🇫🇷</strong> Une question, une suggestion, ou un bug à signaler ? Envoyez-nous un message directement.</p>
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
   <input type="hidden" name="form-name" value="contact" />

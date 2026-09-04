@@ -13,6 +13,8 @@ surnom_texte_lvl1: TRANSPARENCE
 ## Regulatory Context
 Regulation : TRANSPARENCE
 
+**Linked Articles:** [[2004L0109_EN.17]]
+
 **Level 1 Regulation:** Transparency Directive (TD) Directive 2004/109/EC
 
 **Level 2 Regulation:** *No information available*

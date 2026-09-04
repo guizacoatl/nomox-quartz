@@ -13,6 +13,8 @@ surnom_texte_lvl1: PILOT
 ## Regulatory Context
 Regulation : PILOT
 
+**Linked Articles:** [[2014L0065_EN.25]]
+
 **Level 1 Regulation:** Regulation (EU) 2022/858 - DLT Pilot Regime Regulation (DLTR)
 
 **Level 2 Regulation:** *No information available*

@@ -13,6 +13,8 @@ surnom_texte_lvl1: MIFIR
 ## Regulatory Context
 Regulation : MIFIR
 
+**Linked Articles:** [[2014R0600_EN.9]]
+
 **Level 1 Regulation:** Markets in Financial Instruments Regulation (MiFIR) Regulation (EU) No 600/2014 - Investor Protection and Intermediaries
 
 **Level 2 Regulation:** Directive 2017/593 - MiFID II Delegated Directive

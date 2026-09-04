@@ -13,6 +13,8 @@ surnom_texte_lvl1: MIF2
 ## Regulatory Context
 Regulation : MIF2
 
+**Linked Articles:** Not available
+
 **Level 1 Regulation:** Directive 2014/65/EU - Markets in Financial Instruments Directive (MiFID II)
 
 **Level 2 Regulation:** *No information available*

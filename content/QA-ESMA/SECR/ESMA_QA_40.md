@@ -13,6 +13,8 @@ surnom_texte_lvl1: SECR
 ## Regulatory Context
 Regulation : SECR
 
+**Linked Articles:** [[2017R2402_EN.7]]
+
 **Level 1 Regulation:** Securitisation Regulation (EU) 2017/2402
 
 **Level 2 Regulation:** ITS on the format and standardised templates for making available the information and details of a securitisation by the originator, sponsor and SSPE  and associated ANNEXES

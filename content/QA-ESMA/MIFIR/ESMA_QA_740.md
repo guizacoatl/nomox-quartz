@@ -13,6 +13,8 @@ surnom_texte_lvl1: MIFIR
 ## Regulatory Context
 Regulation : MIFIR
 
+**Linked Articles:** [[2014R0600_EN.27]]
+
 **Level 1 Regulation:** Markets in Financial Instruments Regulation (MiFIR) Regulation (EU) No 600/2014- MDP
 
 **Level 2 Regulation:** RTS 23 - Regulation 2017/585 on the data standards and formats for financial instruments reference data and technical measures in relation to arrangements to be made by ESMA and competent authorities

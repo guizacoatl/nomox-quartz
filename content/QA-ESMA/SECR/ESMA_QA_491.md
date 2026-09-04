@@ -13,6 +13,8 @@ surnom_texte_lvl1: SECR
 ## Regulatory Context
 Regulation : SECR
 
+**Linked Articles:** [[2017R2402_EN.7]]
+
 **Level 1 Regulation:** Securitisation Regulation (EU) 2017/2402
 
 **Level 2 Regulation:** RTS on securitisation repository operational standards for data collection, aggregation, comparison, access and verification of completeness and consistency  and associated ANNEXES

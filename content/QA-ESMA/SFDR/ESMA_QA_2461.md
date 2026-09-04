@@ -13,6 +13,8 @@ surnom_texte_lvl1: SFDR
 ## Regulatory Context
 Regulation : SFDR
 
+**Linked Articles:** [[2019R2088_EN.14]]
+
 **Level 1 Regulation:** Regulation (EU) 2019/2088 - Sustainable Finance Disclosure Regulation (SFDR)
 
 **Level 2 Regulation:** *No information available*

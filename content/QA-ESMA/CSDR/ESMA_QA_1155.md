@@ -13,6 +13,8 @@ surnom_texte_lvl1: CSDR
 ## Regulatory Context
 Regulation : CSDR
 
+**Linked Articles:** [[2014R0909_EN.6]]
+
 **Level 1 Regulation:** Central Securities Depositories Regulation (CSDR) Regulation (EU) No 909/2014- PTR- CSDR
 
 **Level 2 Regulation:** *No information available*

@@ -13,6 +13,8 @@ surnom_texte_lvl1: MAR
 ## Regulatory Context
 Regulation : MAR
 
+**Linked Articles:** [[2016R1052_EN.3]]
+
 **Level 1 Regulation:** Market Abuse Regulation (MAR) Regulation (EU) No 596/2014 - Market Intergrity
 
 **Level 2 Regulation:** Regulation 2016/1052-RTS on conditions applicable to buy-back programmes and stabilisation measures

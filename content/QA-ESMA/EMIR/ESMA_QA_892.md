@@ -13,6 +13,8 @@ surnom_texte_lvl1: EMIR
 ## Regulatory Context
 Regulation : EMIR
 
+**Linked Articles:** [[2012R0648_EN.37]]
+
 **Level 1 Regulation:** Regulation 648/2012 - OTC derivatives, central counterparties and trade repositories (EMIR) - CCPs
 
 **Level 2 Regulation:** *No information available*

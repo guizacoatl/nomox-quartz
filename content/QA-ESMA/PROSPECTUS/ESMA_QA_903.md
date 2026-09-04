@@ -13,6 +13,8 @@ surnom_texte_lvl1: PROSPECTUS
 ## Regulatory Context
 Regulation : PROSPECTUS
 
+**Linked Articles:** [[2014L0065_EN.4]]
+
 **Level 1 Regulation:** Prospectus Regulation 2017/1129
 
 **Level 2 Regulation:** *No information available*

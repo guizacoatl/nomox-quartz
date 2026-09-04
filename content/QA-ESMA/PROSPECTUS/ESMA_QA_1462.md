@@ -13,6 +13,8 @@ surnom_texte_lvl1: PROSPECTUS
 ## Regulatory Context
 Regulation : PROSPECTUS
 
+**Linked Articles:** [[2019R0980_EN.14]]
+
 **Level 1 Regulation:** Prospectus Regulation 2017/1129
 
 **Level 2 Regulation:** Regulation 2019/980 on the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market

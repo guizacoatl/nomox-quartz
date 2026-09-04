@@ -13,6 +13,8 @@ surnom_texte_lvl1: ELTIF
 ## Regulatory Context
 Regulation : ELTIF
 
+**Linked Articles:** [[2024R2759_EN.3]]
+
 **Level 1 Regulation:** European Long-Term Investment Funds Regulation (ELTIF) Regulation (EU) 2015/760
 
 **Level 2 Regulation:** *No information available*

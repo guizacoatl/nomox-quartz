@@ -13,6 +13,8 @@ surnom_texte_lvl1: MIF2
 ## Regulatory Context
 Regulation : MIF2
 
+**Linked Articles:** [[2014L0065_EN.2]]
+
 **Level 1 Regulation:** Markets in Financial Instruments Directive II (MiFID II) Directive 2014/65/EU- Secondary Markets
 
 **Level 2 Regulation:** Regulation 2017/589 - RTS specifying the organisational requirements for investment firms (RTS 6)

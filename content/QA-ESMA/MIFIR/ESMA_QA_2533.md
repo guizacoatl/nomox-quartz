@@ -13,6 +13,8 @@ surnom_texte_lvl1: MIFIR
 ## Regulatory Context
 Regulation : MIFIR
 
+**Linked Articles:** [[2014R0600_EN.11]]
+
 **Level 1 Regulation:** Markets in Financial Instruments Regulation (MiFIR) Regulation (EU) No 600/2014- Secondary Markets
 
 **Level 2 Regulation:** Regulation 2017/583 - RTS on transparency requirements in respect of non-equity financial instruments (RTS 2)

@@ -13,6 +13,8 @@ surnom_texte_lvl1: MAR
 ## Regulatory Context
 Regulation : MAR
 
+**Linked Articles:** [[2014R0596_EN.7]]
+
 **Level 1 Regulation:** Market Abuse Regulation (MAR) Regulation (EU) No 596/2014 - Market Intergrity
 
 **Level 2 Regulation:** *No information available*

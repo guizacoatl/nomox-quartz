@@ -13,6 +13,8 @@ surnom_texte_lvl1: SFTR
 ## Regulatory Context
 Regulation : SFTR
 
+**Linked Articles:** [[2014R0600_EN.22]]
+
 **Level 1 Regulation:** Securities Financing Transactions Regulation (SFTR) Regulation (EU) 2015/2365- MDP
 
 **Level 2 Regulation:** *No information available*
