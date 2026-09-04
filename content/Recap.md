@@ -5,6 +5,11 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 🔗 [[Sommaire COMOFI Législatif]]  
 🔗 [[Sommaire COMOFI Réglementaire]]  
 
+# RGAMF
+ Règlement général de l'AMF en vigueur du 20/05/2026 au 29/06/2026 (version du 15/06/2026) : [site web AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20260520/notes)
+
+🔗 [[Sommaire RGAMF]]
+
 # AIFMD - 2011/61
 *Alternative Investment Fund Managers and amending Directives - Gestionnaires de fonds d’investissement alternatifs*
 

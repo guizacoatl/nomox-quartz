@@ -151,7 +151,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 # 🇫🇷 French law
 
 <div class="card-grid">
-  <a href="./CMF" class="card">
+  <a href="./COMOFI" class="card">
     <span class="card-label">COMOFI</span>
     <span class="card-title">Code Monétaire et Financier</span>
   </a>
