@@ -100,7 +100,7 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 ## Level 2 - Niveau 2
 
-| Name - Nom                 | Type | LVL2  (🇬🇧)          | LVL2 (🇫🇷)          |
+| Name - Nom          | Type | LVL2  (🇬🇧)       | LVL2 (🇫🇷)        |
 | ------------------- | ---- | ------------------ | ------------------ |
 | Order pay           | RTS  | [[2023R0450_EN.0]] | [[2023R0450_FR.0]] |
 | Assessment RP       | RTS  | [[2023R0451_EN.0]] | [[2023R0451_FR.0]] |
@@ -114,17 +114,18 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 | Type       | Ref                    | Name - Nom                                                                                                                                                                                        | Lien                                                                                                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Q&A        | CCPRRR-QA-DL           | CCPRRR Q&A ESMA Search Tool                                                                                                                                                                       | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=10144&created%5Bmin%5D=&created%5Bmax%5D=)                 |
 | Guidelines | ESMA91-372-1700        | On the consistent application of the triggers for the use of Early Intervention Measures ([[2021R0023_EN.18#8\|Article 18(8)]] of CCPRRR)                                                         | [[ESMA91-372-1700_Guidelines_on_EIM_Article_18_8__CCPRRR.pdf\|EN]] [[ESMA91-372-1700_Guidelines_on_EIM_Article_18_8__CCPRRR_FR.pdf\|FR]]                                                                 |
+| Guidelines | ESMA91-372-1701        | On CCP recovery plan scenarios ([[2021R0023_EN.9\|Article 9(12)]] of CCPRRR)                                                                                                                      | [[Guidelines_on_Recovery_Plan_Scenarios_Article_9(12)_CCPRRR.pdf\|EN]] [[Guidelines_on_Recovery_Plan_Scenarios_Article_9(12)_CCPRRR_FR.pdf\|FR]]                                                         |
+| Guidelines | ESMA91-372-1702        | On CCP recovery plan indicators ([[2021R0023_EN.9\|Article 9(5)]] CCPRRR)                                                                                                                         | [[Guidelines_on_Recovery_Plan_Indicators_Article_9(5)_CCPRRR.pdf\|EN]] [[Guidelines_on_Recovery_Plan_Indicators_Article_9(5)_CCPRRR_FR.pdf\|FR]]                                                         |
+| Guidelines | ESMA91-372-1704        | On restrictions following a non-default event                                                                                                                                                     |                                                                                                                                                                                                          |
 | Guidelines | ESMA91-372-1791        | On the types and content of the provisions of Cooperation Arrangements ([[2021R0023_EN.79\|Article 79]] of CCPRRR)                                                                                | [[ESMA91-372-1791_Guidelines_on_Cooperation_Arrangements__Article_79_of_CCPRRR_.pdf\|EN]]                                                                                                                |
 | Guidelines | ESMA91-372-1958        | On written arrangements and procedures for the functioning of resolution colleges                                                                                                                 | [[ESMA91-372-1958_GLs_on_written_arrangements_and_procedures_for_the_resolution_colleges.pdf\|EN]] [[ESMA91-372-1958_GLs_on_written_arrangements_and_procedures_for_the_resolution_colleges_FR.pdf\|FR]] |
 | Guidelines | ESMA91-372-2067        | On the methodology to be used by the resolution authority for determining the valuation of contracts prior to their termination as referred to in [[2021R0023_EN.29#1.\|Article 29(1)]] of CCPRRR | [[ESMA91-372-206_Guidelines_on_Valuation_prior_to_Termination.pdf\|EN]] [[ESMA91-372-206_Guidelines_on_Valuation_prior_to_Termination_FR.pdf\|FR]]                                                       |
 | Guidelines | ESMA91-372-2070        | On the application of the circumstances under which a central counterparty is deemed to be failing or likely to fail ([[2021R0023_EN.22\|Article 22(6)]] of CCPRRR)                               | [[ESMA91-372-2070_Guidelines_FoLTF_Art.22_6__CCPRRR.pdf\|EN]] [[ESMA91-372-2070_Guidelines_FoLTF_Art.22_6__CCPRRR_FR.pdf\|FR]]                                                                           |
 | Guidelines | ESMA91-372-2345        | On the summary of resolution plans                                                                                                                                                                | [[ESMA91-372-2345_Guidelines_on_the_summary_of_resolution_plans.pdf\|EN]] [[ESMA91-372-2345_Guidelines_on_the_summary_of_resolution_plans_FR.pdf\|FR]]                                                   |
 | Guidelines | ESMA91-372-2346        | On the assessment of resolvability ([[2021R0023_EN.15\|Article 15(5)]] of CCPRRR)                                                                                                                 | [[ESMA91-372-2346_Guidelines_on_the_assessment_of_resolvability__Article_15_5__of_CCPRRR_.pdf\|EN]]                                                                                                      |
-| Guidelines | ESMA91-372-1702        | On CCP recovery plan indicators ([[2021R0023_EN.9\|Article 9(5)]] CCPRRR)                                                                                                                         | [[Guidelines_on_Recovery_Plan_Indicators_Article_9(5)_CCPRRR.pdf\|EN]] [[Guidelines_on_Recovery_Plan_Indicators_Article_9(5)_CCPRRR_FR.pdf\|FR]]                                                         |
-| Guidelines | ESMA91-372-1701        | On CCP recovery plan scenarios ([[2021R0023_EN.9\|Article 9(12)]] of CCPRRR)                                                                                                                      | [[Guidelines_on_Recovery_Plan_Scenarios_Article_9(12)_CCPRRR.pdf\|EN]] [[Guidelines_on_Recovery_Plan_Scenarios_Article_9(12)_CCPRRR_FR.pdf\|FR]]                                                         |
 | Briefing   | ESMA91-1525761655-4698 | On the operationalisation of resolution cash calls                                                                                                                                                | [[ESMA91-1525761655-4698_CCP_Resolution_Briefing_on_the_Operationalisation_of_resolution_cash_calls.pdf\|EN]]                                                                                            |
-| Q&A        | CCPRRR-QA-DL           | CCPRRR Q&A ESMA Search Tool                                                                                                                                                                       | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=10144&created%5Bmin%5D=&created%5Bmax%5D=)                 |
 
 
 # CSDR - 2014/909
@@ -678,6 +679,30 @@ Transposition into French law; transposition de la directive en droit français 
 | Q&A              | ESMA70-872942901-38    | *OLD On MiFID II and MiFIR market structure topics*                                                                                   | [[esma70-872942901-38_qas_markets_structures_issues.pdf\|EN]]                                                                                                                                                                                                                                                                               |
 | Q&A              | MIFIR-QA-DL            | MIFIR Q&A ESMA Search Tool                                                                                                            | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4439&field_qa_level1_target_id%5B%5D=4777&field_qa_level1_target_id%5B%5D=4746&field_qa_level1_target_id%5B%5D=4607&field_qa_level1_target_id%5B%5D=9461&created%5Bmin%5D=&created%5Bmax%5D=) |
 
+# MMF - 2017/1131
+
+_Money market funds regulation - Fonds monétaires_
+
+## Level 1 - Niveau 1
+
+| LVL1 (🇬🇧)        | LVL1 (🇫🇷)        |
+| ------------------ | ------------------ |
+| [[2017R1131_EN.0]] | [[2017R1131_FR.0]] |
+
+## Level 2 - Niveau 2
+
+| Name - Nom | Type | LVL2 (🇬🇧)        | LVL2 (🇫🇷)        |
+| ---------- | ---- | ------------------ | ------------------ |
+| MMF STS    | RTS  | [[2018R0990_EN.0]] | [[2018R0990_FR.0]] |
+
+## Level 3 - Niveau 3
+
+| Type | Ref                    | Name - Nom                                                                                                 | Lien                                                                                                                                                                                               |
+| ---- | ---------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GL   | ESMA34-49-168          | Final Report - Guidelines on the reporting to competent authorities under Article 37 of the MMF Regulation | [[esma34-49-168_final_report_on_mmf_reporting.pdf\|EN]]                                                                                                                                            |
+| GL   | ESMA50-481369926-30585 | Final Report - Guidelines on stress test scenarios under the MMF Regulation                                | [[ESMA50-481369926-30585_Final_Report_-_Guidelines_on_stress_test_scenarios_under_the_MMF_Regulation.pdf\|EN]]                                                                                     |
+| GL   | ESMA50-481369926-30848 | On stress test scenarios under the MMF Regulation                                                          | [[ESMA50-481369926-30848_Guidelines_on_stress_test_scenarios_under_the_MMF_Regulation.pdf\|EN]] [[ESMA50-481369926-30848_Guidelines_on_stress_test_scenarios_under_the_MMF_Regulation_FR.pdf\|FR]] |
+| AMF  | DOC-2018-05            | Exigences relatives au règlement sur les fonds monétaires                                                  | [[doc-2018-05_fr8.pdf\|FR]]                                                                                                                                                                        |
 
 # PILOT - 2022/858
 *Pilot regime for market infrastructures based on distributed ledger technology - Régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués*

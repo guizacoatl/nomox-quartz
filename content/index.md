@@ -32,7 +32,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 
 ---
 
-# 🇪🇺 European regulation
+# 🇪🇺 European Regulations
 
 <div class="card-grid">
   <a href="./AIFMD" class="card">
@@ -100,6 +100,11 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
     <span class="card-title">Markets in financial instruments</span>
     <span class="card-ref">Regulation (UE) n° 600/2014</span>
   </a>
+  <a href="./MMF" class="card">
+    <span class="card-label">MMF</span>
+    <span class="card-title">Money market funds</span>
+    <span class="card-ref">Regulation (UE) n° 1131/2017</span>
+  </a>
   <a href="./PILOT" class="card">
     <span class="card-label">PILOT</span>
     <span class="card-title">Pilot regime for market...</span>
@@ -125,8 +130,8 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
     <span class="card-title">Securities financing transactions Regulation</span>
     <span class="card-ref">Regulation (UE) n° 2365/2015</span>
   </a>
-  <a href="./SHORT" class="card">
-    <span class="card-label">SHORT</span>
+  <a href="./SSR" class="card">
+    <span class="card-label">SSR</span>
     <span class="card-title">Short selling Regulation</span>
     <span class="card-ref">Regulation (UE) n° 236/2012</span>
   </a>
@@ -151,12 +156,15 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
 # 🇫🇷 French law
 
 <div class="card-grid">
-  <a href="./COMOFI" class="card">
+  <a href="./CMF" class="card">
     <span class="card-label">COMOFI</span>
     <span class="card-title">Code Monétaire et Financier</span>
   </a>
+    <a href="./RGAMF" class="card">
+    <span class="card-label">RGAMF</span>
+    <span class="card-title">Réglement Général de l'AMF</span>
+  </a>
 </div>
-
 
 ---
 

@@ -20,7 +20,7 @@
 
 | Type         | Ref            | Name - Nom                                                             | Lien                                                                                     |
 | ------------ | -------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Final Report | ESMA30-379-471 | Advice on Article 8 of the Taxonomy Regulation                         | [[esma30-379-471_final_report_-_advice_on_article_8_of_the_Taxonomy_regulation.pdf\|EN]] |
+| Final Report | ESMA30-379-471 | Advice on Article 8 of the Taxonomy Regulation                         | [EN](https://www.esma.europa.eu/sites/default/files/library/esma30-379-471_final_report_-_advice_on_article_8_of_the_taxonomy_regulation.pdf) |
 | External     |                | EU Taxonomy Calculator                                                 | [URL](https://ec.europa.eu/sustainable-finance-Taxonomy/wizard)                          |
 | User Guide   |                | Taxonomy User Guide                                                    | [[Taxonomy User Guide.pdf\|EN]]                                                          |
 | AMF          |                | Etude sur le reporting taxonomie des sociétés financières cotées       | [[etude-sur-le-reporting-taxonomie-des-societes-financieres.pdf\|FR]]                    |
