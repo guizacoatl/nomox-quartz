@@ -11,13 +11,13 @@
 
 ## Level 2 - Niveau 2
 
-| Name - Nom       | Type | LVL2  (🇬🇧)         | LVL2 (🇫🇷)                                                                                  |
-| --------- | ---- | -------------------- | -------------------------------------------------------------------------------------------- |
-| 2019R0815 |      | Bug sur ce Règlement | [2019R0815](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02019R0815-20250101) |
-| 2007L0014 |      | [[2007L0014_EN.0]]   | [[2007L0014_FR.0]]                                                                           |
-| 2015R0761 |      | [[2015R0761_EN.0]]   | [[2015R0761_FR.0]]                                                                           |
-| 2016R1437 |      | [[2016R1437_EN.0]]   | [[2016R1437_FR.0]]                                                                           |
-| 2007R1569 |      | [[2007R1569_EN.0]]   | [[2007R1569_FR.0]]                                                                           |
+| Name - Nom | Type      | LVL2  (🇬🇧)                                                                              | LVL2 (🇫🇷)                                                                               |
+| ---------- | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 2019R0815  | DAC (bug) | [URL EN](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0815-20250101) | [URL FR](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02019R0815-20250101) |
+| 2007L0014  |           | [[2007L0014_EN.0]]                                                                        | [[2007L0014_FR.0]]                                                                        |
+| 2015R0761  |           | [[2015R0761_EN.0]]                                                                        | [[2015R0761_FR.0]]                                                                        |
+| 2016R1437  |           | [[2016R1437_EN.0]]                                                                        | [[2016R1437_FR.0]]                                                                        |
+| 2007R1569  |           | [[2007R1569_EN.0]]                                                                        | [[2007R1569_FR.0]]                                                                        |
 
 ## Level 3 - Niveau 3
 
@@ -25,7 +25,7 @@
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Guidelines | ESMA70-460-213        | On standard forms, formats and templates to apply for permission to operate a DLT market infrastructure | [EN](https://www.esma.europa.eu/sites/default/files/library/ESMA70-460-213_DLTR_GLs_on_application_standard_forms_formats_templates.pdf) [FR](https://www.esma.europa.eu/sites/default/files/library/ESMA70-460-213_DLTR_GLs_on_application_standard_forms_formats_templates_FR.pdf)                             |
 | Guidelines | ESMA/2015/1415        | Alternative Performance Measures                                                                        | [EN](https://www.esma.europa.eu/sites/default/files/library/2015/10/2015-esma-1415en.pdf) [FR](https://www.esma.europa.eu/sites/default/files/library/2015/10/2015-esma-1415fr.pdf)                                                                                                                                              |
-| Guidelines | ESMA32-50-218         | Guidelines on enforcement of financial information                                                      | [[esma32-50-218_guidelines_on_enforcement_of_financial_information.pdf\|EN]] [FR](https://www.esma.europa.eu/sites/default/files/library/esma32-50-218_guidelines_on_enforcement_of_financial_information_fr.pdf)                                           |
+| Guidelines | ESMA32-50-218         | Guidelines on enforcement of financial information                                                      | [EN](https://www.esma.europa.eu/sites/default/files/library/esma32-50-218_guidelines_on_enforcement_of_financial_information_en.pdf) [FR](https://www.esma.europa.eu/sites/default/files/library/esma32-50-218_guidelines_on_enforcement_of_financial_information_fr.pdf)                                           |
 | Guidelines | ESMA/2014/1293        | Enforcement of financial information                                                                    | [EN](https://www.esma.europa.eu/sites/default/files/library/2015/11/2014-esma-1293en.pdf)                                                                                                                                                                           |
 | Guidelines | ESMA32-992851010-1815 | On Enforcement of Sustainability Information                                                            | [EN](https://www.esma.europa.eu/sites/default/files/2025-04/ESMA32-992851010-1815_Guidelines_on_Enforcement_of_Sustainability_Information__GLESI_.pdf) [FR](https://www.esma.europa.eu/sites/default/files/2025-04/ESMA32-992851010-1815_Guidelines_on_Enforcement_of_Sustainability_Information__GLESI__FR.pdf) |
 | Q&A        | TRANSPARENCE-QA-DL    | Transparence Q&A ESMA Search Tool                                                                       | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4487&created%5Bmin%5D=&created%5Bmax%5D=)                |
