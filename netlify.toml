@@ -1,5 +1,5 @@
 [build]
-  command = "npx quartz build"
+  command = "npx quartz build && npx pagefind --site public --output-subdir _pagefind"
   publish = "public"
 
 [build.environment]
