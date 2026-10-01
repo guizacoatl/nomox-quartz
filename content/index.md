@@ -160,7 +160,7 @@ Explorez dès maintenant l'ensemble des textes réglementaires sur notre [[Recap
     <span class="card-label">COMOFI</span>
     <span class="card-title">Code Monétaire et Financier</span>
   </a>
-    <a href="./RGAMF" class="card">
+    <a href="./RG_AMF" class="card">
     <span class="card-label">RGAMF</span>
     <span class="card-title">Réglement Général de l'AMF</span>
   </a>

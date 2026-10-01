@@ -1,3 +1,7 @@
+---
+lang: fr
+---
+
 # D213-1-A (abrogé)
 
 > [!info]+

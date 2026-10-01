@@ -5,7 +5,7 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 🔗 [[Sommaire COMOFI Législatif]]  
 🔗 [[Sommaire COMOFI Réglementaire]]  
 
-# RGAMF
+# RG_AMF
  Règlement général de l'AMF en vigueur du 20/05/2026 au 29/06/2026 (version du 15/06/2026) : [site web AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20260520/notes)
 
 🔗 [[Sommaire RGAMF]]
@@ -801,11 +801,12 @@ _Money market funds regulation - Fonds monétaires_
 
 ## Level 3 - Niveau 3
 
-| Type                 | Ref            | Name - Nom                                                                | Lien                                                                                    |
-| -------------------- | -------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Annual Report        | JC 2025 26     | Principal Adverse Impact disclosures under the SFDR                       | [EN](https://www.esma.europa.eu/sites/default/files/2025-09/JC_2025_26_Report_on_PAI_disclosures_under_Article_18_SFDR.pdf)                  |
-| Q&A                  | JC 2023 18     | Consolidated Q&A on the SFDR                                              | [EN](https://www.esma.europa.eu/sites/default/files/2023-05/JC_2023_18_-_Consolidated_JC_SFDR_QAs.pdf)                                       |
-| Supervisory briefing | ESMA34-45-1427 | Sustainability risks and disclosures in the area of investment management | [EN](https://www.esma.europa.eu/sites/default/files/library/esma34-45-1427_supervisory_briefing_on_sustainability_risks_and_disclosures.pdf) |
+| Type                 | Ref            | Name - Nom                                                                                                                                                                 | Lien                                                                                                                                                                                                                              |
+| -------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Annual Report        | JC 2025 26     | Principal Adverse Impact disclosures under the SFDR                                                                                                                        | [EN](https://www.esma.europa.eu/sites/default/files/2025-09/JC_2025_26_Report_on_PAI_disclosures_under_Article_18_SFDR.pdf)                                                                                                                                                            |
+| Q&A                  | JC 2023 18     | Consolidated Q&A on the SFDR                                                                                                                                               | [EN](https://www.esma.europa.eu/sites/default/files/2023-05/JC_2023_18_-_Consolidated_JC_SFDR_QAs.pdf)                                                                                                                                                                                 |
+| Supervisory briefing | ESMA34-45-1427 | Sustainability risks and disclosures in the area of investment management                                                                                                  | [EN](https://www.esma.europa.eu/sites/default/files/library/esma34-45-1427_supervisory_briefing_on_sustainability_risks_and_disclosures.pdf)                                                                                                                                           |
+| AMF                  | Report         | Report and recommendations on operational issues relating to the revision of the SFDR<br>Regulation: concept of ‘credibility of transition plans’ and main adverse impacts | [EN](https://www.amf-france.org/sites/institutionnel/files/private/2026-10/AMF%20-%20Report%20and%20recommendations%20on%20operational%20issues%20relating%20to%20the%20revision%20of%20the%20SFDR%20Regulation.pdf) [FR](https://www.amf-france.org/sites/institutionnel/files/private/2026-10/AMF%20-%20Rapport%20et%20conclusions%20sur%20des%20enjeux%20op%C3%A9rationnels%20relatifs%20%C3%A0%20la%20r%C3%A9vision%20du%20r%C3%A8glement%20SFDR.pdf) |
 
 # SFTR - 2015/2365
 *Transparency of securities financing transactions and of reuse - Transparence des opérations de financement sur titres et de la réutilisation*

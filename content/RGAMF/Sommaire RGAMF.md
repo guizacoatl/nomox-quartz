@@ -1,8 +1,10 @@
+---
+lang: fr
+---
 
 > [!info]
 > RGAMF en date du 15/06/2026
 > Lien URL vers le [RG AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20250602/notes)
-> [[RG-en-vigueur-au-20260520_notes.pdf|PDF intégral du RG AMF]]
 
 
 # Livre I - L'Autorité des marchés financiers

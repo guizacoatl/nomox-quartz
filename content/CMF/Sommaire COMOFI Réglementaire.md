@@ -1,8 +1,10 @@
+---
+lang: fr
+---
 
 > [!info]
 > COMOFI en date du 23/03/2026
 > Lien URL vers le [COMOFI](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026/)
-> [[LEGITEXT000006072026.pdf|PDF intégral du COMOFI]]
 
 
 # Livre IV : Les marchés (Articles D411-2 à R465-4)
