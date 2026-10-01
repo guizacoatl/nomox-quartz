@@ -1,5 +1,5 @@
 [build]
-  command = "npx quartz build && npx pagefind --site public --output-subdir _pagefind"
+  command = "npx quartz build && npx pagefind --site public --output-subdir _pagefind --root-selector \"article.popover-hint\""
   publish = "public"
 
 [build.environment]
