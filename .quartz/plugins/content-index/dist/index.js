@@ -2369,8 +2369,15 @@ var ContentIndex = (opts) => {
     }
     const fp = joinSegments("static", "contentIndex");
     const simplifiedIndex = Object.fromEntries(
-      Array.from(linkIndex).map(([slug2]) => {
-        return [slug2, {}];
+      Array.from(linkIndex).map(([slug2, content2]) => {
+        return [
+          slug2,
+          {
+            slug: content2.slug,
+            title: content2.title,
+            filePath: content2.filePath
+          }
+        ];
       })
     );
     outputs.push(

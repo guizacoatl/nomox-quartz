@@ -185,8 +185,15 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
 
     const fp = joinSegments("static", "contentIndex") as unknown as FullSlug;
     const simplifiedIndex = Object.fromEntries(
-      Array.from(linkIndex).map(([slug]) => {
-        return [slug, {}]; // seules les clés (slugs) sont utilisées côté client (redirection 404)
+      Array.from(linkIndex).map(([slug, content]) => {
+        return [
+          slug,
+          {
+            slug: content.slug,
+            title: content.title,
+            filePath: content.filePath,
+          },
+        ]; // seules les clés (slugs) sont utilisées côté client (redirection 404)
       }),
     );
 
