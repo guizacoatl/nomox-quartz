@@ -7,28 +7,69 @@ var __export = (target, all2) => {
     __defProp(target, name, { get: all2[name], enumerable: true });
 };
 
-// node_modules/@quartz-community/types/dist/index.js
+// ../../../node_modules/@quartz-community/types/dist/index.js
 function joinSegments(...segments) {
   return segments.filter((segment) => segment.length > 0).join("/").replace(/\/+/g, "/");
 }
+"function" == typeof Promise ? Promise.prototype.then.bind(Promise.resolve()) : setTimeout, Math.random().toString(8);
 
-// node_modules/comma-separated-tokens/index.js
-function stringify(values, options) {
-  const settings = options || {};
-  const input = values[values.length - 1] === "" ? [...values, ""] : values;
-  return input.join(
-    (settings.padRight ? " " : "") + "," + (settings.padLeft === false ? "" : " ")
-  ).trim();
+// ../../../node_modules/@quartz-community/utils/dist/index.js
+function simplifySlug(fp) {
+  const res = stripSlashes(trimSuffix(fp, "index"));
+  return res.length === 0 ? "/" : res;
+}
+function endsWith(s2, suffix) {
+  return s2 === suffix || s2.endsWith("/" + suffix);
+}
+function trimSuffix(s2, suffix) {
+  if (endsWith(s2, suffix)) {
+    s2 = s2.slice(0, -suffix.length);
+  }
+  return s2;
+}
+function stripSlashes(s2, onlyStripPrefix) {
+  if (s2.startsWith("/")) {
+    s2 = s2.substring(1);
+  }
+  return s2;
+}
+function escapeHTML(unsafe) {
+  return unsafe.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#039;");
 }
 
-// node_modules/hast-util-whitespace/lib/index.js
-var re = /[ \t\n\f\r]/g;
-function whitespace(thing) {
-  return typeof thing === "object" ? thing.type === "text" ? empty(thing.value) : false : empty(thing);
+// ../../../node_modules/@quartz-community/utils/dist/sort.js
+function getDate(data) {
+  const defaultDateType = data.defaultDateType;
+  if (!defaultDateType) {
+    return void 0;
+  }
+  const dates = data.dates;
+  return dates?.[defaultDateType];
 }
-function empty(value) {
-  return value.replace(re, "") === "";
-}
+
+// node_modules/html-void-elements/index.js
+var htmlVoidElements = [
+  "area",
+  "base",
+  "basefont",
+  "bgsound",
+  "br",
+  "col",
+  "command",
+  "embed",
+  "frame",
+  "hr",
+  "image",
+  "img",
+  "input",
+  "keygen",
+  "link",
+  "meta",
+  "param",
+  "source",
+  "track",
+  "wbr"
+];
 
 // node_modules/property-information/lib/util/schema.js
 var Schema = class {
@@ -268,6 +309,7 @@ var html = create({
     allowFullScreen: boolean,
     allowPaymentRequest: boolean,
     allowUserMedia: boolean,
+    alpha: boolean,
     alt: null,
     as: null,
     async: boolean,
@@ -281,8 +323,12 @@ var html = create({
     checked: boolean,
     cite: null,
     className: spaceSeparated,
+    closedBy: null,
+    colorSpace: null,
     cols: number,
-    colSpan: null,
+    colSpan: number,
+    command: null,
+    commandFor: null,
     content: null,
     contentEditable: booleanish,
     controls: boolean,
@@ -462,8 +508,10 @@ var html = create({
     seamless: boolean,
     selected: boolean,
     shadowRootClonable: boolean,
+    shadowRootCustomElementRegistry: boolean,
     shadowRootDelegatesFocus: boolean,
     shadowRootMode: null,
+    shadowRootSerializable: boolean,
     shape: null,
     size: number,
     sizes: null,
@@ -600,8 +648,11 @@ var html = create({
     allowTransparency: null,
     autoCorrect: null,
     autoSave: null,
+    credentialless: boolean,
     disablePictureInPicture: boolean,
     disableRemotePlayback: boolean,
+    exportParts: commaSeparated,
+    part: spaceSeparated,
     prefix: null,
     property: null,
     results: number,
@@ -655,6 +706,7 @@ var svg = create({
     markerEnd: "marker-end",
     markerMid: "marker-mid",
     markerStart: "marker-start",
+    maskType: "mask-type",
     navDown: "nav-down",
     navDownLeft: "nav-down-left",
     navDownRight: "nav-down-right",
@@ -925,6 +977,7 @@ var svg = create({
     markerWidth: null,
     mask: null,
     maskContentUnits: null,
+    maskType: null,
     maskUnits: null,
     mathematical: null,
     max: null,
@@ -1247,70 +1300,6 @@ function camelcase($0) {
 // node_modules/property-information/index.js
 var html2 = merge([aria, html, xlink, xmlns, xml], "html");
 var svg2 = merge([aria, svg, xlink, xmlns, xml], "svg");
-
-// node_modules/space-separated-tokens/index.js
-function stringify2(values) {
-  return values.join(" ").trim();
-}
-"function" == typeof Promise ? Promise.prototype.then.bind(Promise.resolve()) : setTimeout, Math.random().toString(8);
-
-// node_modules/@quartz-community/utils/dist/index.js
-function simplifySlug(fp) {
-  const res = stripSlashes(trimSuffix(fp, "index"));
-  return res.length === 0 ? "/" : res;
-}
-function endsWith(s2, suffix) {
-  return s2 === suffix || s2.endsWith("/" + suffix);
-}
-function trimSuffix(s2, suffix) {
-  if (endsWith(s2, suffix)) {
-    s2 = s2.slice(0, -suffix.length);
-  }
-  return s2;
-}
-function stripSlashes(s2, onlyStripPrefix) {
-  if (s2.startsWith("/")) {
-    s2 = s2.substring(1);
-  }
-  return s2;
-}
-function escapeHTML(unsafe) {
-  return unsafe.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#039;");
-}
-
-// node_modules/@quartz-community/utils/dist/sort.js
-function getDate(data) {
-  const defaultDateType = data.defaultDateType;
-  if (!defaultDateType) {
-    return void 0;
-  }
-  const dates = data.dates;
-  return dates?.[defaultDateType];
-}
-
-// node_modules/html-void-elements/index.js
-var htmlVoidElements = [
-  "area",
-  "base",
-  "basefont",
-  "bgsound",
-  "br",
-  "col",
-  "command",
-  "embed",
-  "frame",
-  "hr",
-  "image",
-  "img",
-  "input",
-  "keygen",
-  "link",
-  "meta",
-  "param",
-  "source",
-  "track",
-  "wbr"
-];
 
 // node_modules/zwitch/index.js
 var own2 = {}.hasOwnProperty;
@@ -1865,6 +1854,29 @@ function ccount(value, character) {
   return count;
 }
 
+// node_modules/comma-separated-tokens/index.js
+function stringify(values, options) {
+  const settings = options || {};
+  const input = values[values.length - 1] === "" ? [...values, ""] : values;
+  return input.join(
+    (settings.padRight ? " " : "") + "," + (settings.padLeft === false ? "" : " ")
+  ).trim();
+}
+
+// node_modules/space-separated-tokens/index.js
+function stringify2(values) {
+  return values.join(" ").trim();
+}
+
+// node_modules/hast-util-whitespace/lib/index.js
+var re = /[ \t\n\f\r]/g;
+function whitespace(thing) {
+  return typeof thing === "object" ? thing.type === "text" ? empty(thing.value) : false : empty(thing);
+}
+function empty(value) {
+  return value.replace(re, "") === "";
+}
+
 // node_modules/hast-util-to-html/lib/omission/util/siblings.js
 var siblingAfter = siblings(1);
 var siblingBefore = siblings(-1);
@@ -2357,10 +2369,8 @@ var ContentIndex = (opts) => {
     }
     const fp = joinSegments("static", "contentIndex");
     const simplifiedIndex = Object.fromEntries(
-      Array.from(linkIndex).map(([slug2, content2]) => {
-        delete content2.description;
-        delete content2.date;
-        return [slug2, content2];
+      Array.from(linkIndex).map(([slug2]) => {
+        return [slug2, {}];
       })
     );
     outputs.push(

@@ -29,6 +29,7 @@ export type ContentDetails = {
   description?: string;
 };
 
+
 interface Options {
   enableSiteMap: boolean;
   enableRSS: boolean;
@@ -184,10 +185,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
 
     const fp = joinSegments("static", "contentIndex") as unknown as FullSlug;
     const simplifiedIndex = Object.fromEntries(
-      Array.from(linkIndex).map(([slug, content]) => {
-        delete content.description;
-        delete content.date;
-        return [slug, content];
+      Array.from(linkIndex).map(([slug]) => {
+        return [slug, {}]; // seules les clés (slugs) sont utilisées côté client (redirection 404)
       }),
     );
 
