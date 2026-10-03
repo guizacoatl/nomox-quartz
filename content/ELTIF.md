@@ -1,5 +1,6 @@
 # ELTIF - 2015/760
-*European long-term investment funds - Fonds européens d'investissement à long terme*
+*🇬🇧 European long-term investment funds*
+*🇫🇷 Fonds européens d'investissement à long terme*
 
 ## Level 1 - Niveau 1
 

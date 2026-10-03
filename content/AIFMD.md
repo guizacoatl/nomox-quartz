@@ -1,22 +1,23 @@
 # AIFMD - 2011/61
-*Alternative Investment Fund Managers and amending Directives - Gestionnaires de fonds d’investissement alternatifs*
+*🇬🇧 Alternative Investment Fund Managers and amending Directives*
+*🇫🇷 Gestionnaires de fonds d’investissement alternatifs*
 
 ## Level 1 - Niveau 1
-*Transposition into French law; Transposition en loi française: [[Transpo AIFMD]]*
+Transposition into French law; Transposition en loi française: [[Transpo AIFMD]]
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2011L0061_EN.0]] | [[2011L0061_FR.0]] |
 
 ## Level 2 - Niveau 2
 
-| Name - Nom       | Type      | LVL2  (🇬🇧)                                                     | LVL2 (🇫🇷)                                                                                |
-| ---------------- | --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Exemption        | DAC       | [[2013R0231_EN.0]]                                               | [[2013R0231_FR.0]]                                                                         |
-| Info to ESMA     | DAC       | [[2015R0514_EN.0]]                                               | [[2015R0514_FR.0]]                                                                         |
-| Info crossborder | RTS       | [[2024R0912_EN.0]]                                               | [[2024R0912_FR.0]]                                                                         |
-| 2024R0913        | ITS (bug) | [URL EN](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj/eng) | [URL FR](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj)                               |
-| Liquidity mgt    | RTS       | A venir                                                          | [URL](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)7643&lang=en) |
+| Name - Nom       | Type      | LVL2  (🇬🇧)                                                                                            | LVL2 (🇫🇷)                                                                                             |
+| ---------------- | --------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Exemption        | DAC       | [[2013R0231_EN.0]]                                                                                      | [[2013R0231_FR.0]]                                                                                      |
+| Info to ESMA     | DAC       | [[2015R0514_EN.0]]                                                                                      | [[2015R0514_FR.0]]                                                                                      |
+| Info crossborder | RTS       | [[2024R0912_EN.0]]                                                                                      | [[2024R0912_FR.0]]                                                                                      |
+| 2024R0913        | ITS (bug) | [URL EN](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj/eng)                                        | [URL FR](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj)                                            |
+| Liquidity mgt    | RTS       | [URL EN](https://ec.europa.eu/transparency/documents-register/api/files/C(2025)7643_0/090166e5251c2780) | [URL FR](https://ec.europa.eu/transparency/documents-register/api/files/C(2025)7643_0/090166e5251c38e0) |
 
 ## Level 3 - Niveau 3
 

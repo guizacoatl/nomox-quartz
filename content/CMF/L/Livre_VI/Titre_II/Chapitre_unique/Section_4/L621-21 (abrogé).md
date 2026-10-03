@@ -7,7 +7,7 @@ lang: fr
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
 > 🧭 Chemin - Livre VI : Les institutions en matière bancaire et financière (Articles L611-1 à L642-3) > Titre II : L'Autorité des marchés financiers (Articles L621-1 à L621-35) > Chapitre unique : L'Autorité des marchés financiers (Articles L621-1 à L621-35) > Section 4 : Pouvoirs (Articles L621-6 à L621-21-1)
-> [[L621-20-11]] ⬅️ |   ➡️ [[L621-21]]
+> [[L621-20-12]] ⬅️ |   ➡️ [[L621-21]]
 
 > [!warning] Article abrogé.
 

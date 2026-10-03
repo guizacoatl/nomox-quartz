@@ -3,7 +3,7 @@ lang: fr
 ---
 
 > [!info]
-> RGAMF en date du 15/06/2026
+> RGAMF en date du 01/10/2026
 > Lien URL vers le [RG AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20250602/notes)
 
 

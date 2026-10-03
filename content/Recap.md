@@ -1,34 +1,35 @@
 
 # COMOFI
-COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026/).
+COMOFI en date du 01/10/2026. Lien URL vers le [COMOFI](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026/).
 
 🔗 [[Sommaire COMOFI Législatif]]  
 🔗 [[Sommaire COMOFI Réglementaire]]  
 
 # RG_AMF
- Règlement général de l'AMF en vigueur du 20/05/2026 au 29/06/2026 (version du 15/06/2026) : [site web AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20260520/notes)
+ Règlement général de l'AMF en vigueur du 20/05/2026 au 29/06/2026 (version du 01/10/2026) : [site web AMF](https://www.amf-france.org/fr/eli/fr/aai/amf/rg/20260520/notes)
 
 🔗 [[Sommaire RGAMF]]
 
 # AIFMD - 2011/61
-*Alternative Investment Fund Managers and amending Directives - Gestionnaires de fonds d’investissement alternatifs*
+*🇬🇧 Alternative Investment Fund Managers and amending Directives*
+*🇫🇷 Gestionnaires de fonds d’investissement alternatifs*
 
 ## Level 1 - Niveau 1
-*Transposition into French law; Transposition en loi française: [[Transpo AIFMD]]*
+Transposition into French law; Transposition en loi française: [[Transpo AIFMD]]
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2011L0061_EN.0]] | [[2011L0061_FR.0]] |
 
 ## Level 2 - Niveau 2
 
-| Name - Nom       | Type      | LVL2  (🇬🇧)                                                     | LVL2 (🇫🇷)                                                                                |
-| ---------------- | --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Exemption        | DAC       | [[2013R0231_EN.0]]                                               | [[2013R0231_FR.0]]                                                                         |
-| Info to ESMA     | DAC       | [[2015R0514_EN.0]]                                               | [[2015R0514_FR.0]]                                                                         |
-| Info crossborder | RTS       | [[2024R0912_EN.0]]                                               | [[2024R0912_FR.0]]                                                                         |
-| 2024R0913        | ITS (bug) | [URL EN](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj/eng) | [URL FR](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj)                               |
-| Liquidity mgt    | RTS       | A venir                                                          | [URL](https://ec.europa.eu/transparency/documents-register/detail?ref=C(2025)7643&lang=en) |
+| Name - Nom       | Type      | LVL2  (🇬🇧)                                                                                            | LVL2 (🇫🇷)                                                                                             |
+| ---------------- | --------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Exemption        | DAC       | [[2013R0231_EN.0]]                                                                                      | [[2013R0231_FR.0]]                                                                                      |
+| Info to ESMA     | DAC       | [[2015R0514_EN.0]]                                                                                      | [[2015R0514_FR.0]]                                                                                      |
+| Info crossborder | RTS       | [[2024R0912_EN.0]]                                                                                      | [[2024R0912_FR.0]]                                                                                      |
+| 2024R0913        | ITS (bug) | [URL EN](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj/eng)                                        | [URL FR](https://eur-lex.europa.eu/eli/reg_impl/2024/913/oj)                                            |
+| Liquidity mgt    | RTS       | [URL EN](https://ec.europa.eu/transparency/documents-register/api/files/C(2025)7643_0/090166e5251c2780) | [URL FR](https://ec.europa.eu/transparency/documents-register/api/files/C(2025)7643_0/090166e5251c38e0) |
 
 ## Level 3 - Niveau 3
 
@@ -49,7 +50,8 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 | Final Report | ESMA34-1985693317-1259 | Draft RTS on Liquidity Management Tools under the AIFMD and UCITS Directive                                                   | [EN](https://www.esma.europa.eu/sites/default/files/2025-04/ESMA34-1985693317-1259_Final_Report_on_the_Draft_Regulatory_Technical_Standards_on_Liquidity_Management_Tools_under_the_AIFMD_and_UCITS_Directive.pdf)                                                  |
 
 # BMR - 2016/1011
-*Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds - Les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement*
+*🇬🇧 Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds*
+*🇫🇷 Les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/benchmarks-regulation)*
 
@@ -92,11 +94,12 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 | Guidelines | ESMA80-634726060-3082 | On Internal Controls for Benchmark Administrators, Credit Rating Agencies and Market Transparency Infrastructures | [EN](https://www.esma.europa.eu/sites/default/files/2026-05/ESMA80-634726060-3082_Guidelines_on_Internal_Controls_for_Benchmark_Administrators__Credit_Rating_Agencies_and_Market_Transparency_Infrastructures.pdf) [FR](https://www.esma.europa.eu/sites/default/files/2026-05/ESMA80-634726060-3082_Guidelines_on_Internal_Controls_for_Benchmark_Administrators__Credit_Rating_Agencies_and_Market_Transparency_Infrastructures_FR.pdf) |
 
 # CCPRR - 2021/23
-*Framework for the recovery and resolution of central counterparties - Cadre pour le redressement et la résolution des contreparties centrales*
+*🇬🇧 Framework for the recovery and resolution of central counterparties*
+*🇫🇷 Cadre pour le redressement et la résolution des contreparties centrales*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2021R0023_EN.0]] | [[2021R0023_FR.0]] |
 
@@ -131,13 +134,14 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # CSDR - 2014/909
-*Improving securities settlement in the European Union and on central securities depositories - Amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres*
+*🇬🇧 Improving securities settlement in the European Union and on central securities depositories*
+*🇫🇷 Amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/csdr-0)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0909_EN.0]] | [[2014R0909_FR.0]] |
 
@@ -167,13 +171,14 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # DORA - 2022/2554
-*Digital operational resilience for the financial sector - Résilience opérationnelle numérique du secteur financier*
+*🇬🇧 Digital operational resilience for the financial sector*
+*🇫🇷 Résilience opérationnelle numérique du secteur financier*
 
 *[EBA Interactive Single Rulebook](https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/17716)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2022R2554_EN.0]] | [[2022R2554_FR.0]] |
 
@@ -242,7 +247,8 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # ELTIF - 2015/760
-*European long-term investment funds - Fonds européens d'investissement à long terme*
+*🇬🇧 European long-term investment funds*
+*🇫🇷 Fonds européens d'investissement à long terme*
 
 ## Level 1 - Niveau 1
 
@@ -267,18 +273,17 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 | Q&A          | ESMA34-36-253         | EuSEF Q&A ESMA Search Tool                                                                        | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4532&created%5Bmin%5D=&created%5Bmax%5D=)                        |
 
 # EMIR - 2012/648
-*OTC derivatives, central counterparties and trade repositories - Produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux*
+*🇬🇧 OTC derivatives, central counterparties and trade repositories*
+*🇫🇷 Produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/emir-0)*
 
 ## Level 1 - Niveau 1
 
-| Name - Nom          | LVL1  (🇬🇧)                      | LVL1 (🇫🇷)                      | Date         |
-| ------------ | ------------------------------ | ------------------------------ | ------------ |
-| EMIR3        | **[[2012R0648_EN.0]]**         | **[[2012R0648_FR.0]]**         | 24/12/2024   |
-| *EMIR2.2*    | *[[2012R0648EMIR 2.2_EN.0]]*   | *[[2012R0648EMIR 2.2_FR.0]]*   | *01/01/2020* |
-| *EMIR REFIT* | *[[2012R0648EMIR REFIT_EN.0]]* | *[[2012R0648EMIR REFIT_FR.0]]* | *17/06/2019* |
-| *EMIR*       | *[[2012R0648EMIR1_EN.0]]*      | *[[2012R0648EMIR1_FR.0]]*      | *16/08/2012* |
+| Name - Nom | LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
+| ---------- | ------------------ | ------------------ |
+| EMIR3      | [[2012R0648_EN.0]] | [[2012R0648_FR.0]] |
+
 
 ## Level 2 - Niveau 2
 
@@ -326,7 +331,8 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # EuSEF - 2013/346
-*European social entrepreneurship funds - Fonds d'entrepreneuriat social européens*
+*🇬🇧 European social entrepreneurship funds*
+*🇫🇷 Fonds d'entrepreneuriat social européens*
 
 ## Level 1 - Niveau 1
 
@@ -351,11 +357,12 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # MAR - 2014/596 
-*Market abuse regulation - Abus de marché*
+*🇬🇧 Market abuse regulation*
+*🇫🇷 Abus de marché*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0596_EN.0]] | [[2014R0596_FR.0]] |
 
@@ -385,13 +392,14 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 | Q&A        | MAR-QA-DL       | MAR Q&A ESMA Search Tool                                                                                                                                       | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4775&field_qa_level1_target_id%5B%5D=4668&created%5Bmin%5D=&created%5Bmax%5D=) |
 
 # MICA - 2023/1114
-*Markets in crypto-assets - Marchés de crypto-actifs*
+*🇬🇧 Markets in crypto-assets*
+*🇫🇷 Marchés de crypto-actifs*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2023R1114_EN.0]] | [[2023R1114_FR.0]] |
 
@@ -494,14 +502,15 @@ COMOFI en date du 15/06/2026. Lien URL vers le [COMOFI](https://www.legifrance.
 
 
 # MIF2 - 2014/65
-*Markets in financial instruments - Marchés d’instruments financiers*
+*🇬🇧 Markets in financial instruments*
+*🇫🇷 Marchés d’instruments financiers*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii)*
-Transposition into French law; transposition de la directive en droit français : [[Transpo MIF2]]
 
 ## Level 1 - Niveau 1
+Transposition into French law; transposition de la directive en droit français : [[Transpo MIF2]]
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014L0065_EN.0]] | [[2014L0065_FR.0]] |
 
@@ -556,7 +565,7 @@ Transposition into French law; transposition de la directive en droit français 
 | RTS22 Trade Report     | RTS  | [[2017R0590_EN.0]] | [[2017R0590_FR.0]] |
 | RTS23 FIRDS            | RTS  | [[2017R0585_EN.0]] | [[2017R0585_FR.0]] |
 | RTS24 Data orders      | RTS  | [[2017R0580_EN.0]] | [[2017R0580_FR.0]] |
-| RTS25                  | RTS  | [[2017R0574_EN.0]] | [[2017R0574_FR.0]] |
+| RTS25                  | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
 | RTS26 Clear derivative | RTS  | [[2017R0582_EN.0]] | [[2017R0582_FR.0]] |
 | RTS27                  | RTS  | [[2017R0575_EN.0]] | [[2017R0575_FR.0]] |
 | RTS28                  | RTS  | [[2017R0576_EN.0]] | [[2017R0576_FR.0]] |
@@ -622,13 +631,14 @@ Transposition into French law; transposition de la directive en droit français 
 
 
 # MIFIR - 2014/600
-*Markets in financial instruments - Marchés d’instruments financiers*
+*🇬🇧 Markets in financial instruments*
+*🇫🇷 Marchés d’instruments financiers*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifir)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0600_EN.0]] | [[2014R0600_FR.0]] |
 
@@ -654,7 +664,7 @@ Transposition into French law; transposition de la directive en droit français 
 | Transpa data            | RTS  | [[2025R1156_EN.0]] | [[2025R1156_FR.0]] |
 | RTS1157                 | RTS  | [[2025R1157_EN.0]] | [[2025R1157_FR.0]] |
 | RTS1143                 | RTS  | [[2025R1143_EN.0]] | [[2025R1143_FR.0]] |
-| RTS1155                 | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
+| RTS25                   | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
 
 ## Level 3 - Niveau 3
 
@@ -673,8 +683,8 @@ Transposition into French law; transposition de la directive en droit français 
 | Q&A              | MIFIR-QA-DL            | MIFIR Q&A ESMA Search Tool                                                                                                            | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4439&field_qa_level1_target_id%5B%5D=4777&field_qa_level1_target_id%5B%5D=4746&field_qa_level1_target_id%5B%5D=4607&field_qa_level1_target_id%5B%5D=9461&created%5Bmin%5D=&created%5Bmax%5D=) |
 
 # MMF - 2017/1131
-
-_Money market funds regulation - Fonds monétaires_
+*🇬🇧 Money market funds regulation*
+*🇫🇷 Fonds monétaires*
 
 ## Level 1 - Niveau 1
 
@@ -698,11 +708,12 @@ _Money market funds regulation - Fonds monétaires_
 | AMF  | DOC-2018-05            | Exigences relatives au règlement sur les fonds monétaires                                                  | [FR](https://www.amf-france.org/sites/institutionnel/files/private/2025-05/doc-2018-05_fr8.pdf)                                                                                                                                                                        |
 
 # PILOT - 2022/858
-*Pilot regime for market infrastructures based on distributed ledger technology - Régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués*
+*🇬🇧 Pilot regime for market infrastructures based on distributed ledger technology*
+*🇫🇷 Régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2022R0858_EN.0]] | [[2022R0858_FR.0]] |
 
@@ -721,7 +732,8 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # Prospectus - 2017/1129
-*Prospectus to be published when securities are offered to the public or admitted to trading on a regulated market - Prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé*
+*🇬🇧 Prospectus to be published when securities are offered to the public or admitted to trading on a regulated market*
+*🇫🇷 Prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/prospectus-regulation)*
 
@@ -750,7 +762,9 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # SECR - 2017/2402
-*Framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation - Cadre spécifique pour les titrisations simples, transparentes et standardisées*
+*🇬🇧 Framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation*
+*🇫🇷 Cadre spécifique pour les titrisations simples, transparentes et standardisées*
+
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/secr)*
 
 ## Level 1 - Niveau 1
@@ -785,7 +799,8 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # SFDR - 2019/2088
-*Sustainability‐related disclosures in the financial services sector - Publication d’informations en matière de durabilité dans le secteur des services financiers*
+*🇬🇧 Sustainability‐related disclosures in the financial services sector*
+*🇫🇷 Publication d’informations en matière de durabilité dans le secteur des services financiers*
 
 ## Level 1 - Niveau 1
 
@@ -806,16 +821,17 @@ _Money market funds regulation - Fonds monétaires_
 | Annual Report        | JC 2025 26     | Principal Adverse Impact disclosures under the SFDR                                                                                                                        | [EN](https://www.esma.europa.eu/sites/default/files/2025-09/JC_2025_26_Report_on_PAI_disclosures_under_Article_18_SFDR.pdf)                                                                                                                                                            |
 | Q&A                  | JC 2023 18     | Consolidated Q&A on the SFDR                                                                                                                                               | [EN](https://www.esma.europa.eu/sites/default/files/2023-05/JC_2023_18_-_Consolidated_JC_SFDR_QAs.pdf)                                                                                                                                                                                 |
 | Supervisory briefing | ESMA34-45-1427 | Sustainability risks and disclosures in the area of investment management                                                                                                  | [EN](https://www.esma.europa.eu/sites/default/files/library/esma34-45-1427_supervisory_briefing_on_sustainability_risks_and_disclosures.pdf)                                                                                                                                           |
-| AMF                  | Report         | Report and recommendations on operational issues relating to the revision of the SFDR<br>Regulation: concept of ‘credibility of transition plans’ and main adverse impacts | [EN](https://www.amf-france.org/sites/institutionnel/files/private/2026-10/AMF%20-%20Report%20and%20recommendations%20on%20operational%20issues%20relating%20to%20the%20revision%20of%20the%20SFDR%20Regulation.pdf) [FR](https://www.amf-france.org/sites/institutionnel/files/private/2026-10/AMF%20-%20Rapport%20et%20conclusions%20sur%20des%20enjeux%20op%C3%A9rationnels%20relatifs%20%C3%A0%20la%20r%C3%A9vision%20du%20r%C3%A8glement%20SFDR.pdf) |
+| AMF                  | Report         | Report and recommendations on operational issues relating to the revision of the SFDR<br>Regulation: concept of ‘credibility of transition plans’ and main adverse impacts | [EN](https://www.amf-france.org/en/news-publications/publications/reports-research-and-analysis/report-and-recommendations-operational-issues-relating-revision-sfdr-regulation) [FR](https://www.amf-france.org/fr/actualites-publications/publications/rapports-etudes-et-analyses/rapport-et-conclusions-sur-des-enjeux-operationnels-relatifs-la-revision-du-reglement-sfdr) |
 
 # SFTR - 2015/2365
-*Transparency of securities financing transactions and of reuse - Transparence des opérations de financement sur titres et de la réutilisation*
+*🇬🇧 Transparency of securities financing transactions and of reuse*
+*🇫🇷 Transparence des opérations de financement sur titres et de la réutilisation*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/sftr)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2015R2365_EN.0]] | [[2015R2365_FR.0]] |
 
@@ -840,12 +856,13 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # SSR - 2012/236
-*Short selling and certain aspects of credit default swaps - Vente à découvert et certains aspects des contrats d’échange sur risque de crédit*
+*🇬🇧 Short selling and certain aspects of credit default swaps*
+*🇫🇷 Vente à découvert et certains aspects des contrats d’échange sur risque de crédit*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/ssr)*
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2012R0236_EN.0]] | [[2012R0236_FR.0]] |
 
@@ -865,7 +882,8 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # Taxonomy - 2020/852
-*Framework to facilitate sustainable investment - Cadre visant à favoriser les investissements durables*
+*🇬🇧 Framework to facilitate sustainable investment*
+*🇫🇷 Cadre visant à favoriser les investissements durables*
 
 ## Level 1 - Niveau 1
 
@@ -895,13 +913,14 @@ _Money market funds regulation - Fonds monétaires_
 
 
 # Transparency - 2004/109
-*Harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market - Harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé*
+*🇬🇧 Harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market
+*🇫🇷 Harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/transparency-directive)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2004L0109_EN.0]] | [[2004L0109_FR.0]] |
 
@@ -912,7 +931,7 @@ _Money market funds regulation - Fonds monétaires_
 | 2019R0815  | DAC (bug) | [URL EN](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0815-20250101) | [URL FR](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02019R0815-20250101) |
 | 2007L0014  |           | [[2007L0014_EN.0]]                                                                        | [[2007L0014_FR.0]]                                                                        |
 | 2015R0761  |           | [[2015R0761_EN.0]]                                                                        | [[2015R0761_FR.0]]                                                                        |
-| 2016R1437  |           | [[2016R1437_EN.0]]                                                                        | [[2016R1437_FR.0]]                                                                        |
+| 2026R0971  |           | [[2026R0971_EN.0]]                                                                        | [[2026R0971_FR.0]]                                                                        |
 | 2007R1569  |           | [[2007R1569_EN.0]]                                                                        | [[2007R1569_FR.0]]                                                                        |
 
 ## Level 3 - Niveau 3
@@ -927,14 +946,15 @@ _Money market funds regulation - Fonds monétaires_
 | Q&A        | TRANSPARENCE-QA-DL    | Transparence Q&A ESMA Search Tool                                                                       | [URL](https://www.esma.europa.eu/esma-qa-search-page/final?field_qa_serial_value=&combine_keywords_qa_search=&field_qa_level1_target_id%5B%5D=4487&created%5Bmin%5D=&created%5Bmax%5D=)                |
 
 
-# UCITS OPCVM - 2009/65
-*Undertakings for collective investment in transferable securities (UCITS) - Organismes de placement collectif en valeurs mobilières (OPCVM)*
+# UCITS - 2009/65
+*🇬🇧 Undertakings for collective investment in transferable securities (UCITS)*
+*🇫🇷 Organismes de placement collectif en valeurs mobilières (OPCVM)*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/ucits)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2009L0065_EN.0]] | [[2009L0065_FR.0]] |
 

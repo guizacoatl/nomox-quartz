@@ -1,9 +1,10 @@
 # PILOT - 2022/858
-*Pilot regime for market infrastructures based on distributed ledger technology - Régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués*
+*🇬🇧 Pilot regime for market infrastructures based on distributed ledger technology*
+*🇫🇷 Régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2022R0858_EN.0]] | [[2022R0858_FR.0]] |
 

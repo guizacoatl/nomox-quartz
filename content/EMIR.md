@@ -1,16 +1,15 @@
 # EMIR - 2012/648
-*OTC derivatives, central counterparties and trade repositories - Produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux*
+*🇬🇧 OTC derivatives, central counterparties and trade repositories*
+*🇫🇷 Produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/emir-0)*
 
 ## Level 1 - Niveau 1
 
-| Name - Nom          | LVL1  (🇬🇧)                      | LVL1 (🇫🇷)                      | Date         |
-| ------------ | ------------------------------ | ------------------------------ | ------------ |
-| EMIR3        | **[[2012R0648_EN.0]]**         | **[[2012R0648_FR.0]]**         | 24/12/2024   |
-| *EMIR2.2*    | *[[2012R0648EMIR 2.2_EN.0]]*   | *[[2012R0648EMIR 2.2_FR.0]]*   | *01/01/2020* |
-| *EMIR REFIT* | *[[2012R0648EMIR REFIT_EN.0]]* | *[[2012R0648EMIR REFIT_FR.0]]* | *17/06/2019* |
-| *EMIR*       | *[[2012R0648EMIR1_EN.0]]*      | *[[2012R0648EMIR1_FR.0]]*      | *16/08/2012* |
+| Name - Nom | LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
+| ---------- | ------------------ | ------------------ |
+| EMIR3      | [[2012R0648_EN.0]] | [[2012R0648_FR.0]] |
+
 
 ## Level 2 - Niveau 2
 

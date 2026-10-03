@@ -1,10 +1,11 @@
 # SSR - 2012/236
-*Short selling and certain aspects of credit default swaps - Vente à découvert et certains aspects des contrats d’échange sur risque de crédit*
+*🇬🇧 Short selling and certain aspects of credit default swaps*
+*🇫🇷 Vente à découvert et certains aspects des contrats d’échange sur risque de crédit*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/ssr)*
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2012R0236_EN.0]] | [[2012R0236_FR.0]] |
 

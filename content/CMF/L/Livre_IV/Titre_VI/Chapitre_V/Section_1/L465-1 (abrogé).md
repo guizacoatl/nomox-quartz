@@ -6,8 +6,8 @@ lang: fr
 
 > [!info]+
 > 🔗 Retour au [[Sommaire COMOFI Législatif.md|Sommaire]]
-> 🧭 Chemin - Livre IV : Les marchés (Articles L411-1 à L466-1) > Titre VI : Dispositions pénales (Articles L462-2 à L466-1) > Chapitre V : Infractions relatives à la protection des investisseurs (Articles L465-1 à L465-4) > Section 1 : Atteintes à la transparence des marchés (Articles L465-1 à L465-3-7)
-> [[L464-2]] ⬅️ |   ➡️ [[L465-1]]
+> 🧭 Chemin - Livre IV : Les marchés (Articles L411-1 à L466-1) > Titre VI : Dispositions pénales (Articles L462-2 à L466-1) > Chapitre V : Infractions relatives à la protection des investisseurs (Articles L465-1 à L465-4) > Section 1 : Atteintes à la transparence des marchés (Articles L465-1 à L465-3-8)
+> [[L465-3-8]] ⬅️ |   ➡️ [[L465-2-1 (abrogé)]]
 
 > [!warning] Article abrogé.
 

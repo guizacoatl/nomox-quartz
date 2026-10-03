@@ -1,9 +1,10 @@
 # CCPRR - 2021/23
-*Framework for the recovery and resolution of central counterparties - Cadre pour le redressement et la résolution des contreparties centrales*
+*🇬🇧 Framework for the recovery and resolution of central counterparties*
+*🇫🇷 Cadre pour le redressement et la résolution des contreparties centrales*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2021R0023_EN.0]] | [[2021R0023_FR.0]] |
 

@@ -1,11 +1,12 @@
 # MIFIR - 2014/600
-*Markets in financial instruments - Marchés d’instruments financiers*
+*🇬🇧 Markets in financial instruments*
+*🇫🇷 Marchés d’instruments financiers*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifir)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0600_EN.0]] | [[2014R0600_FR.0]] |
 
@@ -31,7 +32,7 @@
 | Transpa data            | RTS  | [[2025R1156_EN.0]] | [[2025R1156_FR.0]] |
 | RTS1157                 | RTS  | [[2025R1157_EN.0]] | [[2025R1157_FR.0]] |
 | RTS1143                 | RTS  | [[2025R1143_EN.0]] | [[2025R1143_FR.0]] |
-| RTS1155                 | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
+| RTS25                   | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
 
 ## Level 3 - Niveau 3
 

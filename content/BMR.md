@@ -1,5 +1,6 @@
 # BMR - 2016/1011
-*Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds - Les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement*
+*🇬🇧 Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds*
+*🇫🇷 Les indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/benchmarks-regulation)*
 

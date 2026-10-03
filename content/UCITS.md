@@ -1,11 +1,12 @@
-# UCITS OPCVM - 2009/65
-*Undertakings for collective investment in transferable securities (UCITS) - Organismes de placement collectif en valeurs mobilières (OPCVM)*
+# UCITS - 2009/65
+*🇬🇧 Undertakings for collective investment in transferable securities (UCITS)*
+*🇫🇷 Organismes de placement collectif en valeurs mobilières (OPCVM)*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/ucits)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2009L0065_EN.0]] | [[2009L0065_FR.0]] |
 

@@ -1,5 +1,6 @@
 # Prospectus - 2017/1129
-*Prospectus to be published when securities are offered to the public or admitted to trading on a regulated market - Prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé*
+*🇬🇧 Prospectus to be published when securities are offered to the public or admitted to trading on a regulated market*
+*🇫🇷 Prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/prospectus-regulation)*
 

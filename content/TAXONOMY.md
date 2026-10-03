@@ -1,5 +1,6 @@
 # Taxonomy - 2020/852
-*Framework to facilitate sustainable investment - Cadre visant à favoriser les investissements durables*
+*🇬🇧 Framework to facilitate sustainable investment*
+*🇫🇷 Cadre visant à favoriser les investissements durables*
 
 ## Level 1 - Niveau 1
 

@@ -1,11 +1,12 @@
 # SFTR - 2015/2365
-*Transparency of securities financing transactions and of reuse - Transparence des opérations de financement sur titres et de la réutilisation*
+*🇬🇧 Transparency of securities financing transactions and of reuse*
+*🇫🇷 Transparence des opérations de financement sur titres et de la réutilisation*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/sftr)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2015R2365_EN.0]] | [[2015R2365_FR.0]] |
 

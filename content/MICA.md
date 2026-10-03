@@ -1,11 +1,12 @@
 # MICA - 2023/1114
-*Markets in crypto-assets - Marchés de crypto-actifs*
+*🇬🇧 Markets in crypto-assets*
+*🇫🇷 Marchés de crypto-actifs*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2023R1114_EN.0]] | [[2023R1114_FR.0]] |
 

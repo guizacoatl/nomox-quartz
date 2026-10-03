@@ -1,11 +1,12 @@
 # CSDR - 2014/909
-*Improving securities settlement in the European Union and on central securities depositories - Amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres*
+*🇬🇧 Improving securities settlement in the European Union and on central securities depositories*
+*🇫🇷 Amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres*
 
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/csdr-0)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0909_EN.0]] | [[2014R0909_FR.0]] |
 

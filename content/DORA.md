@@ -1,11 +1,12 @@
 # DORA - 2022/2554
-*Digital operational resilience for the financial sector - Résilience opérationnelle numérique du secteur financier*
+*🇬🇧 Digital operational resilience for the financial sector*
+*🇫🇷 Résilience opérationnelle numérique du secteur financier*
 
 *[EBA Interactive Single Rulebook](https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/17716)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2022R2554_EN.0]] | [[2022R2554_FR.0]] |
 

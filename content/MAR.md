@@ -1,9 +1,10 @@
 # MAR - 2014/596 
-*Market abuse regulation - Abus de marché*
+*🇬🇧 Market abuse regulation*
+*🇫🇷 Abus de marché*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014R0596_EN.0]] | [[2014R0596_FR.0]] |
 

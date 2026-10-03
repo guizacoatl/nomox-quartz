@@ -1,6 +1,6 @@
 # MMF - 2017/1131
-
-_Money market funds regulation - Fonds monétaires_
+*🇬🇧 Money market funds regulation*
+*🇫🇷 Fonds monétaires*
 
 ## Level 1 - Niveau 1
 

@@ -1,5 +1,7 @@
 # SECR - 2017/2402
-*Framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation - Cadre spécifique pour les titrisations simples, transparentes et standardisées*
+*🇬🇧 Framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation*
+*🇫🇷 Cadre spécifique pour les titrisations simples, transparentes et standardisées*
+
 *[ESMA Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/secr)*
 
 ## Level 1 - Niveau 1

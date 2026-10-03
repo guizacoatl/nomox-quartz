@@ -1,5 +1,6 @@
 # EuSEF - 2013/346
-*European social entrepreneurship funds - Fonds d'entrepreneuriat social européens*
+*🇬🇧 European social entrepreneurship funds*
+*🇫🇷 Fonds d'entrepreneuriat social européens*
 
 ## Level 1 - Niveau 1
 

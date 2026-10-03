@@ -3,7 +3,7 @@ lang: fr
 ---
 
 > [!info]
-> COMOFI en date du 23/03/2026
+> COMOFI en date du 01/10/2026
 > Lien URL vers le [COMOFI](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072026/)
 
 
@@ -871,13 +871,13 @@ lang: fr
 - [[Livre_V/Titre_IV/Chapitre_IX/L549-23 (abrogé).md|L549-23 (abrogé)]]
 - [[Livre_V/Titre_IV/Chapitre_IX/L549-24 (abrogé).md|L549-24 (abrogé)]]
 - [[Livre_V/Titre_IV/Chapitre_IX/L549-2.md|L549-2]]
-### Chapitre X : Prestataires de services sur actifs numériques et prestataires de services sur crypto-actifs (Articles L54-10-1 à L54-10-7)
+### Chapitre X : Prestataires de services sur crypto-actifs (Articles L54-10-1 à L54-10-7)
 - [[Livre_V/Titre_IV/Chapitre_X/L54-10-1.md|L54-10-1]]
-- [[Livre_V/Titre_IV/Chapitre_X/L54-10-2.md|L54-10-2]]
-- [[Livre_V/Titre_IV/Chapitre_X/L54-10-3.md|L54-10-3]]
+- [[Livre_V/Titre_IV/Chapitre_X/L54-10-2 (abrogé).md|L54-10-2 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_X/L54-10-3 (abrogé).md|L54-10-3 (abrogé)]]
 - [[Livre_V/Titre_IV/Chapitre_X/L54-10-4.md|L54-10-4]]
-- [[Livre_V/Titre_IV/Chapitre_X/L54-10-5.md|L54-10-5]]
-- [[Livre_V/Titre_IV/Chapitre_X/L54-10-6.md|L54-10-6]]
+- [[Livre_V/Titre_IV/Chapitre_X/L54-10-5 (abrogé).md|L54-10-5 (abrogé)]]
+- [[Livre_V/Titre_IV/Chapitre_X/L54-10-6 (abrogé).md|L54-10-6 (abrogé)]]
 - [[Livre_V/Titre_IV/Chapitre_X/L54-10-7.md|L54-10-7]]
 ### Chapitre XI : Les gestionnaires de crédits et acheteurs de crédits (Articles L54-11-1 à L54-11-33)
 #### Section 1 : Définition et champs d'application (Articles L54-11-1 à L54-11-3)
@@ -1097,7 +1097,7 @@ lang: fr
 #### Section 6 : Intermédiaires en opérations de banque (Articles L571-15 à L571-16)
 - [[Livre_V/Titre_VII/Chapitre_Ier/Section_6/L571-15.md|L571-15]]
 - [[Livre_V/Titre_VII/Chapitre_Ier/Section_6/L571-16.md|L571-16]]
-### Chapitre II : Prestataires de services de paiement, changeurs manuels , émetteurs de monnaie électronique, prestataires de services sur actifs numériques, prestataires de services sur crypto-actifs et émetteurs de jetons (Articles L572-1 à L572-28)
+### Chapitre II : Prestataires de services de paiement, changeurs manuels , émetteurs de monnaie électronique, prestataires de services sur crypto-actifs et émetteurs de jetons (Articles L572-1 à L572-28)
 #### Section 1 : Changeurs manuels (Articles L572-1 à L572-4)
 - [[Livre_V/Titre_VII/Chapitre_II/Section_1/L572-1.md|L572-1]]
 - [[Livre_V/Titre_VII/Chapitre_II/Section_1/L572-2.md|L572-2]]
@@ -1123,7 +1123,7 @@ lang: fr
 - [[Livre_V/Titre_VII/Chapitre_II/Section_3/L572-20.md|L572-20]]
 - [[Livre_V/Titre_VII/Chapitre_II/Section_3/L572-21.md|L572-21]]
 - [[Livre_V/Titre_VII/Chapitre_II/Section_3/L572-22.md|L572-22]]
-#### Section 4 : Prestataires de services sur actifs numériques et prestataires de services sur crypto-actifs (Articles L572-23 à L572-26)
+#### Section 4 : Prestataires de services sur crypto-actifs (Articles L572-23 à L572-26)
 - [[Livre_V/Titre_VII/Chapitre_II/Section_4/L572-23.md|L572-23]]
 - [[Livre_V/Titre_VII/Chapitre_II/Section_4/L572-24.md|L572-24]]
 - [[Livre_V/Titre_VII/Chapitre_II/Section_4/L572-25.md|L572-25]]
@@ -1518,8 +1518,8 @@ lang: fr
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-89.md|L214-89]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-90.md|L214-90]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-91.md|L214-91]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-92-1.md|L214-92-1]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-92.md|L214-92]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-92-1.md|L214-92-1]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-93.md|L214-93]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-94.md|L214-94]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_2/L214-95.md|L214-95]]
@@ -1681,8 +1681,8 @@ lang: fr
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-89.md|L214-89]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-90.md|L214-90]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-91.md|L214-91]]
-- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-92-1.md|L214-92-1]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-92.md|L214-92]]
+- [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-92-1.md|L214-92-1]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-93.md|L214-93]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-94.md|L214-94]]
 - [[Livre_II/Titre_Ier/Chapitre_IV/Section_3/L214-95.md|L214-95]]
@@ -1871,7 +1871,7 @@ lang: fr
 - [[Livre_II/Titre_II/Chapitre_V/L225-3.md|L225-3]]
 - [[Livre_II/Titre_II/Chapitre_V/L225-4.md|L225-4]]
 - [[Livre_II/Titre_II/Chapitre_V/L225-5.md|L225-5]]
-## Titre II bis : Les actifs numériques (Articles L226-1 à L226-5)
+## Titre II bis : Les crypto-actifs (Articles L226-1 à L226-5)
 - [[Livre_II/Titre_II/L226-1.md|L226-1]]
 - [[Livre_II/Titre_II/L226-2.md|L226-2]]
 - [[Livre_II/Titre_II/L226-3.md|L226-3]]
@@ -2559,8 +2559,8 @@ lang: fr
 ### Chapitre II : Comptes et dépôts (Articles L312-1 à L312-23)
 #### Section 1 : Droit au compte et relations avec le client (Articles L312-1 à L312-1-8)
 - [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1.md|L312-1]]
-- [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-1-A.md|L312-1-1-A]]
-- [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-1-B.md|L312-1-1-B]]
+- [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-1 A.md|L312-1-1 A]]
+- [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-1 B.md|L312-1-1 B]]
 - [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-1.md|L312-1-1]]
 - [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-2.md|L312-1-2]]
 - [[Livre_III/Titre_Ier/Chapitre_II/Section_1/L312-1-3 (abrogé).md|L312-1-3 (abrogé)]]
@@ -3214,6 +3214,7 @@ lang: fr
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-20-9.md|L621-20-9]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-20-10.md|L621-20-10]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-20-11.md|L621-20-11]]
+- [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-20-12.md|L621-20-12]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-21 (abrogé).md|L621-21 (abrogé)]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-21.md|L621-21]]
 - [[Livre_VI/Titre_II/Chapitre_unique/Section_4/L621-21-1.md|L621-21-1]]
@@ -3563,11 +3564,9 @@ lang: fr
 - [[Livre_IV/Titre_VI/Chapitre_IV/L464-1.md|L464-1]]
 - [[Livre_IV/Titre_VI/Chapitre_IV/L464-2.md|L464-2]]
 ### Chapitre V : Infractions relatives à la protection des investisseurs (Articles L465-1 à L465-4)
-#### Section 1 : Atteintes à la transparence des marchés (Articles L465-1 à L465-3-7)
-- [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-1 (abrogé).md|L465-1 (abrogé)]]
+#### Section 1 : Atteintes à la transparence des marchés (Articles L465-1 à L465-3-8)
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-1.md|L465-1]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-2.md|L465-2]]
-- [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-2-1 (abrogé).md|L465-2-1 (abrogé)]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3.md|L465-3]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-1.md|L465-3-1]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-2.md|L465-3-2]]
@@ -3576,6 +3575,9 @@ lang: fr
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-5.md|L465-3-5]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-6.md|L465-3-6]]
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-7.md|L465-3-7]]
+- [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-3-8.md|L465-3-8]]
+- [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-1 (abrogé).md|L465-1 (abrogé)]]
+- [[Livre_IV/Titre_VI/Chapitre_V/Section_1/L465-2-1 (abrogé).md|L465-2-1 (abrogé)]]
 #### Section 2 : Prises de participations (Article L465-4)
 - [[Livre_IV/Titre_VI/Chapitre_V/Section_2/L465-4.md|L465-4]]
 ### Chapitre VI : Dispositions communes (Article L466-1)

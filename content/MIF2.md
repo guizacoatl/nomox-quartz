@@ -1,12 +1,13 @@
 # MIF2 - 2014/65
-*Markets in financial instruments - Marchés d’instruments financiers*
+*🇬🇧 Markets in financial instruments*
+*🇫🇷 Marchés d’instruments financiers*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii)*
-Transposition into French law; transposition de la directive en droit français : [[Transpo MIF2]]
 
 ## Level 1 - Niveau 1
+Transposition into French law; transposition de la directive en droit français : [[Transpo MIF2]]
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2014L0065_EN.0]] | [[2014L0065_FR.0]] |
 
@@ -61,7 +62,7 @@ Transposition into French law; transposition de la directive en droit français 
 | RTS22 Trade Report     | RTS  | [[2017R0590_EN.0]] | [[2017R0590_FR.0]] |
 | RTS23 FIRDS            | RTS  | [[2017R0585_EN.0]] | [[2017R0585_FR.0]] |
 | RTS24 Data orders      | RTS  | [[2017R0580_EN.0]] | [[2017R0580_FR.0]] |
-| RTS25                  | RTS  | [[2017R0574_EN.0]] | [[2017R0574_FR.0]] |
+| RTS25                  | RTS  | [[2025R1155_EN.0]] | [[2025R1155_FR.0]] |
 | RTS26 Clear derivative | RTS  | [[2017R0582_EN.0]] | [[2017R0582_FR.0]] |
 | RTS27                  | RTS  | [[2017R0575_EN.0]] | [[2017R0575_FR.0]] |
 | RTS28                  | RTS  | [[2017R0576_EN.0]] | [[2017R0576_FR.0]] |

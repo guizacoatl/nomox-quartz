@@ -1,11 +1,12 @@
 # Transparency - 2004/109
-*Harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market - Harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé*
+*🇬🇧 Harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market
+*🇫🇷 Harmonisation des obligations de transparence concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé*
 
 *[Interactive Single Rulebook](https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/transparency-directive)*
 
 ## Level 1 - Niveau 1
 
-| LVL1  (🇬🇧)          | LVL1 (🇫🇷)          |
+| LVL1  (🇬🇧)       | LVL1 (🇫🇷)        |
 | ------------------ | ------------------ |
 | [[2004L0109_EN.0]] | [[2004L0109_FR.0]] |
 
@@ -16,7 +17,7 @@
 | 2019R0815  | DAC (bug) | [URL EN](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0815-20250101) | [URL FR](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02019R0815-20250101) |
 | 2007L0014  |           | [[2007L0014_EN.0]]                                                                        | [[2007L0014_FR.0]]                                                                        |
 | 2015R0761  |           | [[2015R0761_EN.0]]                                                                        | [[2015R0761_FR.0]]                                                                        |
-| 2016R1437  |           | [[2016R1437_EN.0]]                                                                        | [[2016R1437_FR.0]]                                                                        |
+| 2026R0971  |           | [[2026R0971_EN.0]]                                                                        | [[2026R0971_FR.0]]                                                                        |
 | 2007R1569  |           | [[2007R1569_EN.0]]                                                                        | [[2007R1569_FR.0]]                                                                        |
 
 ## Level 3 - Niveau 3
